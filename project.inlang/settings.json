@@ -1,4 +1,8 @@
 {
   "sourceLanguageTag": "en",
-  "languageTags": ["en", "fr"]
+  "languageTags": ["en", "fr"],
+  "modules": ["https://cdn.jsdelivr.net/npm/@inlang/plugin-json@latest"],
+  "plugin.inlang.json": {
+    "pathPattern": "locales/{languageTag}.json"
+  }
 }
