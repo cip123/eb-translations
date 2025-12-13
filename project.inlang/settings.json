@@ -9,8 +9,8 @@
  ],
   "plugin.inlang.i18next": {
     "pathPattern": {
-        "definitions":"locales/{locale}/definitions.json",
-        "translations":"locales/{locale}/translations.json"
+        "definitions":"locales/{languageTag}/definitions.json",
+        "translations":"locales/{languageTag}/translations.json"
     }
   }
 }
