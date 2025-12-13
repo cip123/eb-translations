@@ -2,9 +2,12 @@
   "sourceLanguageTag": "en",
   "languageTags": ["en", "fr"],
   "modules": [
-    "https://cdn.jsdelivr.net/npm/@inlang/plugin-json@latest/dist/index.js"
+    "https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@4/dist/index.js",
+    "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-identical-pattern@1/dist/index.js",
+    "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-without-source@1/dist/index.js",
+    "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-missing-translation@latest/dist/index.js"
   ],
-  "plugin.inlang.json": {
+  "plugin.inlang.i18next": {
     "pathPattern": "./locales/{languageTag}.json"
   }
 }
