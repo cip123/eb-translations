@@ -1,0 +1,341 @@
+{
+  "001_checkpoints": {
+    "short_description": "Melde dich regelmäßig bei dir selbst",
+    "description": "<p>In der Hektik des täglichen Lebens ist es ganz leicht, den Kontakt zu den Hungersignalen deines Körpers zu verlieren.</p><p>Diese Challenge ermutigt dich dazu, dreimal täglich innezuhalten und dich mit dem Hungergrad und den Völlegefühl Signalen deines Körpers zu beschäftigen.</p><p>Tippe dafür ganz einfach auf die Check-In Taste <img data-placeholder=\"checkin\" />&nbsp;und mache den ersten Schritt, um dein Gleichgewicht und deine Kontrolle rund ums Essen zurückzugewinnen!</p><p>Möchtest du sicherstellen, dass du es nicht vergisst? Stelle Erinnerungen in den App-Einstellungen ein!</p>",
+    "name": "Kontrollpunkte",
+    "rules": [
+      "Check-in mindestens dreimal täglich",
+      "Drei aufeinanderfolgende Tage"
+    ]
+  },
+  "002_weekend_streak": {
+    "description": "<p>Denke daran, dass du nicht auf Diät bist also sollten sich deine Wochenenden auch nicht von jedem anderen Tag unterscheiden.</p><p>Genieße deshalb unbedingt deine Lieblingsspeisen am Wochenende!</p><p>Am Ende des Wochenendes hast du dann gleich ein klareres Bild von deinen Essgewohnheiten und ein besseres Verständnis dafür, wie, wann und warum du so isst, wie du es tust.</p>",
+    "name": "Weekend-Streak",
+    "rules": [
+      "Trage mindestens zwei Mahlzeiten jeder Farbe ein",
+      "Freitag bis Sonntag"
+    ]
+  },
+  "003_sous_chef": {
+    "description": "<p>Übernimm wieder die Kontrolle über deine Mahlzeiten mit der <b>„Sous Chef“</b>-Challenge!</p><p>Eine Woche lang besteht dein Ziel darin, jeden Tag zwei selbstgekochte Mahlzeiten zuzubereiten und zu genießen.</p><p>Selbst zu kochen hilft dir, dich wieder mit echten Zutaten zu verbinden und Heißhunger zu beruhigen. Jede Mahlzeit, die du zubereitest, ist ein Schritt in Richtung Freiheit von ungesunden Essgewohnheiten und einer ausgewogeneren Ernährung.</p>",
+    "name": "Sous-Chef",
+    "rules": [
+      "Iss mindestens eine selbstgemachte Mahlzeit pro Tag",
+      "Sieben aufeinanderfolgende Tage"
+    ],
+    "short_description": "Koche zu Hause für einfache, natürliche MahlzeitenCook at home for simple, clean meals"
+  },
+  "004_green_day": {
+    "description": "<p>Verbringe einen Tag damit, nur zu essen, wenn dein Körper danach verlangt.</p><p>Entdecke, wie Achtsamkeit Heißhunger beruhigen und dir die Kontrolle zurückgeben kann.</p>",
+    "name": "Grüner Tag",
+    "rules": [
+      "Iss mindestens zwei Mahlzeiten, wenn du hungrig oder etwas hungrig bist",
+      "Einen Tag."
+    ]
+  },
+  "005_christmas": {
+    "description": "<p>Genieße die festlichen Weihnachtsaromen, indem du an zwei Tagen nur isst, wenn du hungrig bist.</p><p>Diese Challenge lädt dich ein, auf die Hungersignale deines Körpers zu achten, sodass jede Mahlzeit bewusst und freudig erlebt wird.</p>",
+    "name": "Frohe Weihnachten",
+    "rules": [
+      "Iss ur dann wenn du wirklich hungrig oder leicht hungrig bist.",
+      "Es sollten mindestens zwei Mahlzeiten pro Tag eingenommen werden",
+      "24. und 25. Dezember"
+    ]
+  },
+  "006_bubbly_party": {
+    "description": "<p>Feiere Silvester mit einer freudigen und bewussten Note. Die „Bubbly Party“-Challenge lädt dich ein, das neue Jahr zu begrüßen und dabei auf deine Hungersignale zu achten.</p><p>Während der Feier iss, wenn du Hunger bemerkst – lass deinen Körper entscheiden, auch inmitten der Aufregung und all der verlockenden Party-Snacks.</p><p>Diese Challenge bringt eine sanfte Achtsamkeit in deine Festlichkeiten und lässt jeden Bissen genussvoll und bedeutungsvoll werden, während du ins neue Jahr startest.</p>",
+    "name": "Sprudelnde Party",
+    "rules": [
+      "Iss nur dann wenn du wirklich hungrig oder leicht hungrig bist.",
+      "Es sollten mindestens zwei Mahlzeiten pro Tag eingenommen werden",
+      "31. Dezember und 1. Januar"
+    ]
+  },
+  "007_junior_chef": {
+    "description": "<p>Mäßige deine Portionsgrößen, vermeide künstliche Aromen sowie versteckte Zutaten und genieße eine köstliche und nahrhafte Mahlzeit.</p><p>Diese Challenge richtet sich an alle, die viel Freude am Kochen und die Vorteile hausgemachter Speisen genießen möchten.</p><p>Markiere diesen Eintrag außerdem unbedingt mit <a>#hausgemacht!</a> </p>",
+    "name": "Juniorkoch",
+    "rules": [
+      "Iss mindestens eine hausgemachte Mahlzeit pro Tag.",
+      "Drei aufeinanderfolgende Tage"
+    ]
+  },
+  "008_master_chef": {
+    "description": "<p>Sei bereit für eine anspruchsvolle aber dennoch aufschlussreiche kulinarische Reise mit der Challenge „Master Chef“.</p><p>Mache es dir mit dieser einmonatigen Challenge außerdem zur Gewohnheit, zu Hause zu kochen und genieße gleichzeitig ein kulinarisches Erlebnis.</p><p>Dies ist ein weiterer Schritt nach der Sous Chef Challenge und eine effektive Möglichkeit, dich auf die natürlichen Signale deines Körpers einzustellen.</p>",
+    "name": "Meisterkoch",
+    "rules": [
+      "Iss jeden Tag mindestens zwei hausgemachte Mahlzeiten.",
+      "28 aufeinanderfolgende Tage"
+    ]
+  },
+  "009_fullness_check": {
+    "short_description": "Bewerte dein Sättigungsgefühl nach den Mahlzeiten",
+    "description": "<p>Nimm dir nach jeder Mahlzeit und jedem Snack einen Moment, um deinen Sättigungsgrad zu beurteilen.</p><p>Diese einfache Challenge wird dich dazu ermutigen darauf zu achten, wie voll du dich fühlst und hilft dir dabei, die Signale deines Körpers bezüglich Völlegefühl und Zufriedenheit zu verstehen und zu respektieren.</p>",
+    "name": "Völlegefühl Check",
+    "rules": [
+      "Setze den Zustand nach den Mahlzeiten für zwei Mahlzeiten pro Tag.",
+      "Drei aufeinanderfolgende Tage"
+    ]
+  },
+  "010_green_week": {
+    "description": "<p>Bist du bereit, deine Reise zu mehr Essfreiheit auf die nächste Stufe zu bringen?</p><p>Diese siebentägige Challenge lädt dich ein, nur dann zu essen, wenn du wirklich hungrig bist. So kannst du automatische Essgewohnheiten durchbrechen und deine echten Hungersignale besser verstehen.</p><p>Sie baut auf der Ein-Tages-Challenge auf und gibt dir mehr Zeit, Achtsamkeit zu üben und deine Kontrolle rund ums Essen zu stärken.</p>",
+    "name": "Grüne Woche",
+    "rules": [
+      "Iss mindestens zwei Mahlzeiten, wenn du hungrig oder etwas hungrig bist",
+      "Sieben aufeinanderfolgende Tage."
+    ],
+    "short_description": "Iss nur, wenn du dich hungrig fühlst"
+  },
+  "011_green_month": {
+    "description": "<p>Bereite dich auf eine anspruchsvolle, aber zutiefst lohnende einmonatige Reise zu mehr Essfreiheit vor.</p><p>Diese Challenge ist keine leichte Verpflichtung. Sie soll dir helfen, dich von Mustern der Esssucht zu befreien und dein Gleichgewicht wiederzufinden, indem du lernst, echten Hunger zu erkennen und darauf zu reagieren.</p><p>Wenn du gerade erst anfängst, empfehlen wir dir, mit einer kürzeren Challenge wie <b>Green Day</b> oder <b>Green Week</b> zu starten, um diese Gewohnheiten zu üben, bevor du dich auf den ganzen Monat einlässt.</p>",
+    "name": "Grüner Monat",
+    "rules": [
+      "Iss mindestens zwei Mahlzeiten, wenn du hungrig oder etwas hungrig bist",
+      "28 aufeinanderfolgende Tage."
+    ]
+  },
+  "012_mindful_days": {
+    "description": "<p>Beginne eine Reise zu mehr Achtsamkeit und Wertschätzung für dein Essen mit der „Achtsame Tage“-Challenge.</p><p>Wähle an drei Tagen mindestens eine Mahlzeit pro Tag, die du ohne Ablenkungen isst. Diese Challenge hilft dir, langsamer zu essen, jeden Bissen bewusst wahrzunehmen und eine tiefere Verbindung zu deinem Ess-Erlebnis aufzubauen.</p><p>Denk daran, die Mahlzeit als <a>bewusst</a> oder höher zu markieren.</p>",
+    "name": "Achtsame Tage",
+    "rules": [
+      "Erfasse mindestens eine Mahlzeit pro Tag auf „bewusst“ oder höher",
+      "Drei aufeinanderfolgende Tage"
+    ],
+    "short_description": "Essen ohne Ablenkung"
+  },
+  "013_mindful_week": {
+    "description": "<p>Bereit, deine achtsame Esserfahrung zu vertiefen?</p><p>Die „Achtsame Woche“-Challenge fordert dich dazu auf, eine Woche lang täglich zwei Mahlzeiten ohne Ablenkungen zu genießen.</p><p>Diese Challenge ist eine starke Möglichkeit, deine Wahrnehmung zu schärfen, dein Essen bewusster zu genießen und deine Beziehung zum Essen zu verändern.</p>",
+    "name": "Achtsame Woche",
+    "rules": [
+      "Erfasse mindestens zwei Mahlzeiten pro Tag auf „bewusst“ oder höher",
+      "Sieben aufeinanderfolgende Tage"
+    ],
+    "short_description": "Essen ohne Ablenkung"
+  },
+  "014_mindful_month": {
+    "description": "<p>Willkommen zur „Achtsamen Monat“-Challenge, einer ambitionierten und tiefgreifenden Herausforderung.</p><p>Diese intensive Phase verlangt, dass du den ganzen Monat lang mindestens zweimal täglich achtsam isst.</p><p>Sie richtet sich an Menschen, die ernsthaft ihre Essgewohnheiten verändern und ihre Beziehung zum Essen verbessern wollen.</p><h2>Mit einer kürzeren Challenge beginnen</h2><p>Wenn du neu im achtsamen Essen bist, starte eventuell mit einer weniger intensiven Challenge wie „Achtsame Tage“ oder „Achtsame Woche“, um Fähigkeiten und Selbstvertrauen aufzubauen, bevor du die monatliche Herausforderung angehst.</p>",
+    "name": "Achtsamer Monat",
+    "rules": [
+      "Erfasse mindestens zwei Mahlzeiten pro Tag auf „bewusst“ oder höher",
+      "28 aufeinanderfolgende Tage"
+    ],
+    "short_description": "Essen ohne Ablenkung"
+  },
+  "015_sweet_valentine": {
+    "description": "<p>Feiere Liebe und Selbstfürsorge am Valentinstag, indem du köstliche Schokolade ohne Ablenkung genießt.</p><p>So bringst du bewusste Freude und einen Moment der Reflexion in deinen Valentinstag.</p>",
+    "name": "Süßer Valentinstag",
+    "rules": [
+      "Iss ein Lebensmittel mit Schokolade",
+      "Markiere es als „bewusst“ oder höher",
+      "14. Februar"
+    ]
+  },
+  "016_balanced_days": {
+    "description": "<p>Geniesse mindestens eine Mahlzeit am Tag, indem du nur solange isst bis du angenehm satt bist.</p><p>Denke bitte daran, dass du den Teller nicht aufessen musst. Iss langsam und achte stets auf die Signale deines Körpers.</p>",
+    "name": "Ausgewogene Tage",
+    "rules": [
+      "Höre mindestens einmal am Tag auf zu essen, bevor du dich satt fühlst.",
+      "Drei aufeinanderfolgende Tage."
+    ]
+  },
+  "017_balanced_week": {
+    "description": "<p>Tauche ein in die \"Ausgewogene-Woche-Challenge\", eine Weiterentwicklung unserer ersten dreitägigen Challenge.</p><p>Zweimal am Tag konzentriere dich solange aufs Essen bis du angenehm satt und wirklich zufrieden bist .</p><p>Dies ist ein Schritt, um die Gewohnheit aufzubauen, mit dem Essen aufzuhören, wenn du satt bist und deine Beziehung zum Essen in etwas Freudigeres und Intuitiveres zu verwandeln.</p>",
+    "name": "Ausgewogene Woche",
+    "rules": [
+      "Iss, bis du angenehm satt bist, mindestens zweimal am Tag",
+      "Sieben aufeinanderfolgende Tage"
+    ],
+    "short_description": "Iss nur, bis du angenehm satt bist."
+  },
+  "018_balanced_month": {
+    "description": "<p>Nimm an der \"Ausgewogener-Monat-Challenge\" teil, der ultimativen Weiterentwicklung unserer vorherigen Challenges.</p><p>Diese einmonatige Reise ermutigt dich, mindestens zweimal täglich nur so viel zu essen, bis du dich angenehm satt fühlst, und das einen ganzen Monat lang.</p><p>Aufbauend auf unseren kürzeren Challenges ist diese hier darauf ausgerichtet, intuitives Essen vollständig in dein Leben zu integrieren und es von einer Übung in eine Gewohnheit zu verwandeln.</p>",
+    "name": "Ausgeglichener Monat",
+    "rules": [
+      "Iss, bis du angenehm satt bist, mindestens zweimal am Tag",
+      "28 aufeinanderfolgende Tage."
+    ],
+    "short_description": "Iss nur, bis du angenehm satt bist."
+  },
+  "019_women_day": {
+    "description": "<p>Lass uns an diesem Frauentag eine Erinnerung erschaffen!</p><p>Egal ob du dich in ein schickes Restaurant begibst oder ein gemütliches Essen zu Hause genießt, dokumentiere dein Essen mit einem Foto.</p>",
+    "name": "Frauentag",
+    "rules": [
+      "Knipse ein Foto von einer Mahlzeit",
+      "8. März"
+    ]
+  },
+  "020_small_wins": {
+    "description": "<p>Wenn du den Drang zu essen verspürst, aber eigentlich keinen Hunger hast, erstelle einen Check-in und starte einen <a>⏱ Hold-Off Timer</a>.</p><p>Nimm dir einen Moment Zeit, um zu prüfen, was dir durch den Kopf geht, oder lenke dich kurz mit etwas anderem ab.</p><p>Wenn der Drang nachlässt und du dranbleibst, markiere am Ende des Timers einen <a>★ Kleinen Erfolg</a>.</p><p>Protokolliere weiterhin wie gewohnt, mindestens eine Mahlzeit pro Tag, egal welcher Art.</p>",
+    "name": "Kleine Erfolge",
+    "rules": [
+      "Erfasse mindestens einen kleinen Erfolg irgendwann in dieser Woche",
+      "Eine Woche"
+    ],
+    "short_description": "Nimm den Drang zu essen wahr und halte inne, statt sofort zu reagieren."
+  },
+  "021_tasting_notes": {
+    "description": "<p>Nimm dir nach jeder Mahlzeit einen Moment Zeit, um über dein Esserlebnis nachzudenken.</p><p>Beobachte, wie das Essen dich fühlen ließ – zufrieden, müde, energiegeladen oder mit dem Verlangen nach mehr.</p><p>Schreibe deine Gedanken auf, um Muster zu erkennen und dein Essverhalten im Laufe der Zeit besser zu verstehen.</p>",
+    "name": "Verkostungsnotizen",
+    "rules": [
+      "Schreibe Notizen darüber, was du an deinem Essen liebst und was nicht.",
+      "Mindestens eine Mahlzeit pro Tag.",
+      "Sieben aufeinanderfolgende Tage."
+    ],
+    "short_description": "Schreibe deine Gedanken zu den Mahlzeiten auf"
+  },
+  "022_cinco_de_mayo": {
+    "description": "<p>Feiere mit uns den Cinco de Mayo mit einem köstlichen Bissen.</p><p>Dies ist die perfekte Gelegenheit, neue Geschmäcker zu entdecken und die wunderbare Vielfalt der Kulturen zu schätzen, die unsere Welt so geschmackvoll machen.</p><p>Für diesen besonderen Tag werden alle mexikanischen Lebensmittel mit einer 🇲🇽 markiert.</p>",
+    "name": "¡Viva Cinco de Mayo",
+    "rules": [
+      "Iss ein mexikanisches Gericht",
+      "5. Mai"
+    ]
+  },
+  "023_evening": {
+    "description": "<p>Der präfrontale Cortex unterstützt uns dabei, durchdachte Entscheidungen zu treffen, auch bei der Lebensmittelauswahl. Abends nimmt seine Aktivität ab, was es schwieriger machen kann, Heißhungerattacken zu widerstehen.</p><p>Achte bei dieser Challenge besonders auf deine Essgewohnheiten am Abend. Diese Gewohnheit unterstützt Gewichtsmanagement, Verdauung und Schlafqualität.</p>",
+    "name": "Die Abend-Challenge",
+    "rules": [
+      "Der letzte Eintrag des Abends sollte ein neutrales oder leicht hungriges Check-in sein.",
+      "Sieben aufeinanderfolgende Tage."
+    ],
+    "short_description": "Achte auf deine Essgewohnheiten am Abend"
+  },
+  "024_independence_day": {
+    "description": "<p>Erlebe den Geist des Unabhängigkeitstages mit unserer Challenge zum 4. Juli!</p><p>Machen ein Foto von einem deiner festlichen Mahlzeiten oder von dir selbst, während du die Feierlichkeiten genießt.</p><p>Lass uns diesen 4. Juli mit einer lebendigen Sammlung roter, weißer und blauer Momente unvergesslich machen.</p>",
+    "name": "Unabhängigkeitstag",
+    "rules": [
+      "Mache ein Foto von einer Mahlzeit",
+      "4. Juli"
+    ]
+  },
+  "025_savory_week": {
+    "description": "<p>Verbessere dein Esserlebnis mit der Herzhaften-Woche-Challenge.</p><p>Diese Challenge soll dir helfen, bewusster wahrzunehmen, wie sich deine Mahlzeiten anfühlen, und dauerhaft bessere Entscheidungen zu treffen.</p><p>Konzentriere dich auf hochwertige Zutaten und guten Geschmack. Durch bewusstes Auswählen förderst du dein Wohlbefinden und entdeckst neue Favoriten.</p>",
+    "name": "Herzhafte Woche",
+    "rules": [
+      "Bewerte das Zufriedenheitsniveau für mindestens zwei Mahlzeiten pro Tag",
+      "Sieben aufeinanderfolgende Tage"
+    ],
+    "short_description": "Bewerte, wie zufrieden du mit deiner Mahlzeit bist"
+  },
+  "026_hydration": {
+    "description": "<p>Wusstest du, dass manchmal das, was sich wie Hunger anfühlt  tatsächlich die Art und Weise ist wie Ihr Körper nach Wasser verlangt?</p><p>Die Hydrations-Challenge wird dir dabei helfen, zwischen Hunger- und Durst-Signalen zu unterscheiden und sicherzustellen, dass du den ganzen Tag über ausreichend hydratisiert bleibst.</p>",
+    "name": "Hydratationswoche",
+    "rules": [
+      "Trage mindestens ein {{quantity}} Wasser oder Tee pro Tag ein",
+      "Sieben aufeinanderfolgende Tage"
+    ]
+  },
+  "027_on_the_go": {
+    "description": "<p>Auf Reisen isst man leicht aus Aufregung und Neugier auf neue Speisen.</p><p>Doch genau das ist eine gute Gelegenheit, die eigenen Essgewohnheiten in einem anderen Umfeld zu beobachten.</p><p>Diese Challenge geht nicht um Verzicht. Sie geht darum, dein Bewusstsein für Hunger, Sättigung und Genuss auch bei veränderten Routinen zu behalten.</p><p>Protokolliere deine Mahlzeiten täglich und beobachte, wie neue Erfahrungen dein Essverhalten beeinflussen.</p>",
+    "name": "die Unterwegs-Challenge",
+    "rules": [
+      "Trage alle Mahlzeiten im Urlaub ein.",
+      "Mindestens zwei Mahlzeiten pro Tag.",
+      "Sieben aufeinanderfolgende Tage."
+    ]
+  },
+  "028_trick_or_treat": {
+    "description": "<p>Mache ein Foto von deinem Lieblings-Halloween-Leckerbissen.</p><p>Erschaffe eine entzückende Erinnerung, die sowohl die gruselige Jahreszeit als auch deinen Weg zu einer gesünderen Beziehung zum Essen feiert.</p>",
+    "name": "Süßes oder Saures",
+    "rules": [
+      "Mache ein Foto von deiner Mahlzeit.",
+      "31. Oktober"
+    ]
+  },
+  "029_thanksgiving": {
+    "description": "<p>Nimm an unserer Challenge teil, um über dein Feiersessen nachzudenken.</p><p>Wofür bist du an diesem Erntedankfest dankbar?</p><p>Nimm dir einen Moment Zeit, um deine Gedanken aufzuschreiben und dir somit hilfst, dein Essen in vollen Zügen zu genießen.</p>",
+    "name": "Erntedankfest",
+    "rules": [
+      "Schreibe eine Erntedank-Notiz für eine Mahlzeit"
+    ]
+  },
+  "030_easter": {
+    "description": "<p>Ostern ist eine Zeit, um mit gutem Essen zu feiern, und was gibt es Schöneres, als etwas zu genießen, das man selbst zubereitet hat?</p><p>Wähle Lebensmittel, die du liebst, bereite sie mit Sorgfalt zu und achte darauf, wie sie dich fühlen lassen.</p><p>Selbstgemachte Mahlzeiten können dir helfen, Freude am Essen zu finden, ohne das übliche Gefühl von Hektik oder Kontrollverlust.</p>",
+    "name": "Frohe Ostern",
+    "rules": [
+      "Markiere zu Ostern ein #hausgemachtes Essen"
+    ]
+  },
+  "031_hungry_or_not": {
+    "short_description": "Bewerte dein Hungergefühl vor der Mahlzeit",
+    "description": "<p>Bei dieser einfachen Challenge nimmst du dir vor dem Essen einen Moment Zeit, um innezuhalten und dein Hungergefühl einzuschätzen.</p><p>Indem du auf die natürlichen Hungersignale deines Körpers achtest, triffst du bewusstere Entscheidungen und verstehst besser, wann und warum du isst.</p>",
+    "name": "Hungrig oder nicht",
+    "rules": [
+      "Wähle bei mindestens einer Mahlzeit pro Tag dein Hungergefühl aus",
+      "Drei aufeinanderfolgende Tage"
+    ]
+  },
+  "032_honor_cravings": {
+    "description": "<p>Deinen Gelüsten nachzugeben, ist ein wichtiger Bestandteil des intuitiven Essens und ermöglicht es dir, wieder mit den natürlichen Signalen deines Körpers in Kontakt zu treten.</p><p>Lass dir während dieser Woche erlauben, das zu genießen, was du wirklich willst, auch wenn du nicht hungrig bist.</p><p>Führe wie gewohnt weiterhin Protokoll, mindestens eine Mahlzeit pro Tag, egal welcher Art.</p><p>* Während du an dieser Challenge teilnimmst, wirst du für jede Mahlzeit einen Grund auswählen können – selbst für die, die du aus Hunger isst.</p>",
+    "name": "Ehre deine Gelüste",
+    "rules": [
+      "Wähle mindestens einmal in dieser Woche den Grund „Gelüste 💙“ aus",
+      "Eine Woche"
+    ],
+    "short_description": "Behandle dich selbst mit Absicht und Bewusstsein"
+  },
+  "033_break_the_rules": {
+    "description": "<p>Brich diese Woche mindestens eine Diätregel — ob es nun ist, dir das Dessert zu gönnen, das du normalerweise vermeidest, auf das Kalorienzählen zu verzichten oder nach 19 Uhr zu essen.</p><p>Diese Herausforderung dreht sich darum, wieder eine Verbindung zu deinem Körper herzustellen, auf seine Bedürfnisse zu hören und das Essen ohne Schuldgefühle zu genießen.</p><p>Führe weiterhin wie gewohnt ein Tagebuch, mindestens eine Mahlzeit pro Tag, egal welcher Art.</p>",
+    "name": "Brich die Regeln",
+    "rules": [
+      "Markiere mindestens eine Mahlzeit in dieser Woche mit #keineregeln",
+      "Eine Woche"
+    ],
+    "short_description": "Hinterfrage die Norm, höre auf deinen Körper"
+  },
+  "034_dry_week": {
+    "description": "<p>Nimm an der <b>Alkoholfreie Woche</b> Challenge teil und entdecke, wie sich sieben Tage ohne Alkohol positiv auf deine Essgewohnheiten auswirken können.</p><p>Alkohol führt oft zu Heißhunger und unbewusstem Naschen. Ohne Alkohol wirst du eine bewusstere Verbindung zu deinen Essensentscheidungen entdecken.</p><p>Eine Woche, um dich neu auszurichten und gesunde Gewohnheiten aufzubauen!</p>",
+    "name": "Alkoholfreie Woche",
+    "rules": [
+      "Trinke eine Woche lang keinen Alkohol."
+    ],
+    "short_description": "Verzichte auf Alkohol und konzentriere dich auf deine Mahlzeiten"
+  },
+  "101_january": {
+    "description": "<p>Erfasse im Januar mindestens 20 Mahlzeiten ohne Ablenkungen</p>",
+    "name": "Achtsamer Januar"
+  },
+  "102_february": {
+    "description": "<p>Höre diesen Februar mindestens 20 Mal auf zu essen, bevor du dich satt fühlst</p>",
+    "name": "Ausgeglichener Februar"
+  },
+  "103_march": {
+    "description": "<p>Iss diesen März mindestens 31 Mal nur dann, wenn du wirklich hungrig oder etwas hungrig bist.</p>",
+    "name": "Grüner März"
+  },
+  "104_april": {
+    "description": "<p>Iss diesen April mindestens 30 #hausgemachte Mahlzeiten.</p>",
+    "name": "#hausgemachter April"
+  },
+  "105_may": {
+    "description": "<p>Sei dir über deinen Zustand bewusst diesen Mai mindestens 30 Mal.</p>",
+    "name": "Check-in im Mai"
+  },
+  "106_june": {
+    "description": "<p>Schreibe mindestens 20 Mal im Juni die Gedanken zu deinen Mahlzeiten auf.</p>",
+    "name": "Juni Aufzeichnen"
+  },
+  "107_july": {
+    "description": "<p>Trage diesen Juli mindestens 20 Mal deine Wochenendmahlzeiten ein.</p>",
+    "name": "Juli-Wochenenden"
+  },
+  "108_august": {
+    "description": "<p>Trage diesen August mind. {{quantity}} Wasser oder Tee ein.</p>",
+    "name": "Hydrations-August"
+  },
+  "109_september": {
+    "description": "<p>Bewerte im September den Zufriedenheitsgrad von mindestens 20 Mahlzeiten</p>",
+    "name": "Herzhafter September"
+  },
+  "110_october": {
+    "description": "Trage diesen Oktober mindestens 10 Tage ohne Alkohol ein",
+    "name": "Nüchterner Oktober"
+  },
+  "111_november": {
+    "description": "<p>Trage diesen November mindestens 30 #hausgemachte Mahlzeiten ein.</p>",
+    "name": "Essensvorbereitung November"
+  },
+  "112_december": {
+    "description": "<p>Mache diesen Dezember Fotos von mindestens 10 Mahlzeiten.</p>",
+    "name": "Festlicher Dezember"
+  }
+}
