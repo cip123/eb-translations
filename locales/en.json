@@ -120,15 +120,15 @@
         "overwhelmed": "Overwhelmed",
         "satisfied": "Satisfied"
       },
-      "moods": [
-        "Very Unpleasant",
-        "Unpleasant",
-        "Not Great",
-        "Okay",
-        "Good",
-        "Very Good",
-        "Great"
-      ],
+      "moods": {
+        "0": "Very Unpleasant",
+        "1": "Unpleasant",
+        "2": "Not Great",
+        "3": "Okay",
+        "4": "Good",
+        "5": "Very Good",
+        "6": "Great"
+      },
       "what_best_describes_your_mood": "What best describes your mood?"
     }
   },
@@ -350,18 +350,18 @@
     "whats_a_smallwin_q": "What’s a Small Win?"
   },
   "hunger_phases": {
-    "-1": "Unknown",
     "0": "Ravenous",
     "1": "Hungry",
     "2": "Slightly Hungry",
     "3": "Neutral",
     "4": "Slightly Full",
     "5": "Full",
-    "6": "Stuffed"
+    "6": "Stuffed",
+    "-1": "Unknown"
   },
   "meals": {
     "edit": {
-      "limit" : {
+      "limit": {
         "images": {
           "title": "Image limit reached",
           "body": "You can add up to 5 images per meal. Remove one or start another meal to add more."
@@ -464,13 +464,13 @@
     "felt_like_it": "eg. I felt like it",
     "no_foods_entered": "No Foods Entered"
   },
-  "post_states": [
-    "Still Hungry",
-    "Not Hungry",
-    "Comfortably Full",
-    "Full",
-    "Stuffed"
-  ],
+  "post_states": {
+    "0": "Still Hungry",
+    "1": "Not Hungry",
+    "2": "Comfortably Full",
+    "3": "Full",
+    "4": "Stuffed"
+  },
   "prompts": {
     "do_you_want_to_delete_checkin": "Do you want to delete this checkin?",
     "do_you_want_to_delete_drink": "Do you want to delete this drink?",
@@ -498,64 +498,64 @@
     "taste": "Taste",
     "tiredness": "Tiredness"
   },
-  "reinforcements": [
-    {
+  "reinforcements": {
+    "0": {
       "description": "A whole day of food logs on Eating Buddy. This is the start of something BIG!",
       "title": "You did it! 💪"
     },
-    {
+    "1": {
       "description": "That’s two days of eating logs, back to back!",
       "title": "You’re just warmin’ up! 🔥"
     },
-    {
+    "2": {
       "description": "You're doing great at understanding your eating habits. Keep listening to your body!",
       "title": "🥇 Full week streak!"
     },
-    {
+    "3": {
       "description": "You're rewriting your relationship with food, one mindful moment at a time.Keep going!",
       "title": "TWO weeks! 🧘‍♀️"
     },
-    {
+    "4": {
       "description": "Impressive, Your commitment is paying off, I can feel it. 🪇",
       "title": "Annnnd that’s THREE whole weeks!"
     },
-    {
+    "5": {
       "description": "That’s a whole month logged on Eating Buddy. You’re an all-star!",
       "title": "Holy artichokes! 🤩"
     },
-    {
+    "6": {
       "description": "Amazing! You have better insight into your eating habits than 99% of all people!",
       "title": "Two Full Months! 🌟"
     },
-    {
+    "7": {
       "description": "Are you kidding me?! Your food-logging is super-human!! 🦸",
       "title": "THREE months of Eating Buddy?!"
     },
-    {
+    "8": {
       "description": "You’ve done the impossible! A true mindful eating master.",
       "title": "FOUR months logged! 🪷"
     }
-  ],
+  },
   "reminders": {
     "check_in": "Hi there! Time for your check in",
-    "engagement": [
-      {
+    "engagement": {
+      "0": {
         "body": "Don’t forget to track your meals. It only takes a second. 😎",
         "title": "How are you feeling today?"
       },
-      {
+      "1": {
         "body": "Take a moment to reflect with Eating Buddy. 🧘",
         "title": "What's driving your eating today?"
       },
-      {
+      "2": {
         "body": "Eating Buddy gives you a holistic look at your eating habits 🔮",
         "title": "Don’t slip on your streak!"
       },
-      {
+      "3": {
         "body": "Pop in to track your meals and see how you've been eating lately.",
         "title": "It's been a while! 😢"
       }
-    ],
+    },
     "hold_off_timer": {
       "body": "Was this a Small Win for you?",
       "title": "Hold-off Timer Finished"
@@ -629,7 +629,7 @@
       "de": "German",
       "en": "English"
     },
-   "menu": {
+    "menu": {
       "diary_setup": {
         "ask_for_reason": "Ask for Reason",
         "keep_meals": "Keep Meals",
@@ -694,7 +694,7 @@
         "message": "Select a start and end date to continue."
       },
       "missing_start": {
-       "title": "Start date required",
+        "title": "Start date required",
         "message": "Pick a start date to continue."
       },
       "missing_end": {
