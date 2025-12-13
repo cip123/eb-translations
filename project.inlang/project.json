@@ -8,7 +8,7 @@
     "https://cdn.jsdelivr.net/npm/@inlang/plugin-json@latest"
   ],
   "plugin.inlang.json": {
-    "pathPattern": "locales/{languageTag}/{namespace}.json"
+    "pathPattern": "locales/{locale}/{namespace}.json"
   },
   "sourceLanguageTag": "en"
 }
