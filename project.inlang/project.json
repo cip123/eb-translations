@@ -1,9 +1,17 @@
 {
   "$schema": "https://inlang.com/schema/project.json",
-  "sourceLanguageTag": "en",
-  "languageTags": ["en", "fr"],
-  "modules": ["https://cdn.jsdelivr.net/npm/@inlang/plugin-json@latest"],
+  "languageTags": [
+    "en",
+    "fr"
+  ],
+  "modules": [
+    "https://cdn.jsdelivr.net/npm/@inlang/plugin-json@latest"
+  ],
   "plugin.inlang.json": {
-    "pathPattern": "locales/{languageTag}.json"
-  }
+    "pathPattern": {
+      "definitions": "locales/{languageTag}/definitions.json",
+      "translations": "locales/{languageTag}/translations.json"
+    }
+  },
+  "sourceLanguageTag": "en"
 }

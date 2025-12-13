@@ -1,0 +1,341 @@
+{
+  "001_checkpoints": {
+    "short_description": "Check in with yourself regularly",
+    "description": "<p>In the hustle and bustle of daily life, it's easy to lose touch with our body's hunger and fullness signals.</p><p>This challenge encourages you to pause and check in with your body three times a day.</p><p>Tap the Check In <img  width=\"24\" height=\"24\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA3QAAAN0BcFOiBwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAANPSURBVFiFrZZNaFRnFIafc/9mjCaTSDQEFwrSFsGIJRZ0YqRqwaWWFkoLLS5clOLfShCEKtVVoV0oFboJuBAEsRRaqIJIajuYtpppDW0tVBf9QQ2ZRMFIMnO/4yI1pnO/b+6dwXd53nPe9+W7388VVSUzpLg0hqIg/QIbFPrvU+kJCMYF+d3HGxbiMwW9+WdmyawBYim+I8gpoGth/S4T/xdENE/usy4t730+AWRrtzJ7WuFNG10f4ClyhH9HtG1v15E/Wg8gAysNjAA9rhZXAAAPMYvJD7braMnd4zQXURhqZJ4Gg3ozVL9CxOnjJAyb9itsbaA/IXApJJgQxLmMs9S6KvSdd/H2TyCDLxpMGVhkmfnHoHsCLX2zsDgl647MUD0ao35CDqGN3I6Cli/Vc9YVMJi3Hea3PLy+enOATv3leJ7oBR9/tp5TlBrmsM3LGkBgg6Uce+h76NVJ2wxAQX++kyN838YpuiZzAIV+S6jLaOkHl/lTdGp5KCRIHI0atWXZAsiWXqA3GUqvp5k/E/USZ9+g3pS8vD49AGaFQ/de9gD2Xg/pyxLgtl1WEuldiNGEEYAQjqQH0FIFsG20V5G1UZp5RTZ2xMQrk0aitmvZdQp+tJRXGQofpgVQpi/GmKC+7uNXbP2Oe0BPOvQPGSkeREQSjIg3Keu+mGF2o23QJzhtqztuQhFD8TfgJduQwlVBz3nIjQdMrzXEr9UwO6rUCnZzv9rDr22o1uq5xFLNOaiqFI8JctaaGgZBBg3wiMdWiYWICD+3mUPKc6wycFlhWyPxRs/xnHkw2a1jS128+zkGBPkASNztzSAifLcR3zAA+t0t4ONWzfNE1zp09OvWAwAeegL0TrPmHhJXad+Z3pcGLT1WZF+zAXJEn/To9/fT+jL/FatsvqDo6/V12yYMCceX6c3lWXTTV+A/CP4B0EfpfcIi/Ley6mYOgA7/Bd6xtLaIcHiJlq88/wCAR/gpMObiffyqj7+rOc1moFdq3tzdYN04OcKPOnV0qhnJzJtwIYwMDAG74dkmjAj+7dYx18+ME82twPyQfwiYf14FISL3RmtarUC/HQfmf7NzRBc79Pq1VqRa+gRzkyLKpi8nePhKlfzqXv1puhWZJ3KRJ2uPq3VYAAAAAElFTkSuQmCC\"/>&nbsp;buttons and take the first step towards regaining balance and control around food!</p><p>Want to make sure you remember? Set reminders in the app settings!</p>",
+    "name": "Check Points",
+    "rules": [
+      "Check in at least three times per day",
+      "Three consecutive days"
+    ]
+  },
+  "002_weekend_streak": {
+    "description": "<p>Remember, you are not on a diet, so weekends shouldn't be different from any other day.</p><p>Enjoy and observe your favorite foods during the weekend!</p><p>By the end of the weekend, you'll have a clearer picture of your eating habits and a better understanding of how, when, and why you eat the way you do.</p>",
+    "name": "Weekend Streak",
+    "rules": [
+      "Log at least two meals of any color",
+      "Friday to Sunday"
+    ]
+  },
+  "003_sous_chef": {
+    "description": "<p>Take back control of your meals with the <b>“Sous Chef”</b> challenge!</p><p>For one week, your goal is to prepare and enjoy two home-cooked meals each day.</p><p>Cooking your own food helps you reconnect with real ingredients, and calm cravings. Each meal you cook is a step toward freedom from unhealthy food patterns and a more balanced way of eating.</p>",
+    "name": "Sous-Chef",
+    "rules": [
+      "Eat at least one homemade meal per day",
+      "Seven consecutive days"
+    ],
+    "short_description": "Cook at home for simple, clean meals"
+  },
+  "004_green_day": {
+    "description": "<p>Spend one day eating only when your body asks for it.</p><p>Discover how awareness can calm cravings and bring back control.</p>",
+    "name": "Green Day",
+    "rules": [
+      "Eat at least two meals when hungry or slightly hungry",
+      "One day"
+    ]
+  },
+  "005_christmas": {
+    "description": "<p>Savor the festive flavors of Christmas by eating only when hungry over the course of two days.</p><p>This challenge encourages listening to your body's hunger cues, allowing each meal to feel intentional and joyful.</p>",
+    "name": "Merry Christmas",
+    "rules": [
+      "Eat only when hungry or slightly hungry",
+      "There should be at least two meals per day",
+      "December 24th and 25th"
+    ]
+  },
+  "006_bubbly_party": {
+    "description": "<p>Celebrate New Year's Eve with a joyful and intentional twist. The \"Bubbly Party\" challenge invites you to welcome the new year while paying attention to your hunger cues.</p><p>During the celebration, eat when you notice hunger - letting your body guide you, even with all the excitement and tempting party treats around.</p><p>This challenge brings a gentle sense of awareness to your festivities, helping each bite feel enjoyable and meaningful as you ring in the new year.</p>",
+    "name": "Bubbly Party",
+    "rules": [
+      "Eat only when hungry or slightly hungry",
+      "There should be at least two meals per day",
+      "December 31th and January 1st"
+    ]
+  },
+  "007_junior_chef": {
+    "description": "<p>Manage portion sizes, avoid artificial flavorings and hidden ingredients, and enjoy a delicious and nutritious meal.</p><p>This challenge is for anyone looking to embrace the joys of cooking and the benefits of eating home-cooked food.</p><p>Make sure to tag it with <a>#homemade!</a> </p>",
+    "name": "Junior Chef",
+    "rules": [
+      "Eat at least one homemade meal per day",
+      "Three consecutive days"
+    ]
+  },
+  "008_master_chef": {
+    "description": "<p>Get ready for a demanding but yet enlightening culinary journey with the \"Master Chef\" challenge.</p><p>Make cooking at home a regular habit with this one-month challenge, while still enjoying the occasional dining out experience.</p><p>This is a step above the Sous Chef challenge and an effective way to tune in to your body's natural signals.</p>",
+    "name": "Master Chef",
+    "rules": [
+      "Eat at least two home homemade meals every day",
+      "28 consecutive days"
+    ]
+  },
+  "009_fullness_check": {
+    "short_description": "Evaluate your satiety level after meals",
+    "description": "<p>Take a moment after each meal and snack to assess your satiety level.</p><p>This simple challenge encourages you to tune into how full you feel, helping you understand and respect your body's signals of fullness and satisfaction.</p>",
+    "name": "Fullness Check",
+    "rules": [
+      "Set the post-meal state for two meals each day",
+      "Three consecutive days"
+    ]
+  },
+  "010_green_week": {
+    "description": "<p>Ready to take your food freedom journey to the next level?</p><p>This seven-day challenge invites you to eat only when you're truly hungry, helping you break automatic eating habits and understand your real hunger signals.</p><p>It's a step up from the one-day trial, giving you more time to practice awareness and strengthen your control around food.</p>",
+    "name": "Green Week",
+    "rules": [
+      "Eat at least two meals when hungry or slightly hungry",
+      "Seven consecutive days."
+    ],
+    "short_description": "Only eat if you feel hungry"
+  },
+  "011_green_month": {
+    "description": "<p>Prepare for a challenging but deeply rewarding month-long journey toward food freedom.</p><p>This challenge isn’t a light commitment. It’s designed to help you break free from food addiction patterns and rebuild balance by learning to recognize and respond to real hunger.</p><p>If you’re just getting started, we recommend beginning with a shorter challenge like <b>Green Day</b> or <b>Green Week</b> to practice these habits before committing to the full month.</p>",
+    "name": "Green Month",
+    "rules": [
+      "Eat at least two meals when hungry or slightly hungry",
+      "28 consecutive days."
+    ]
+  },
+  "012_mindful_days": {
+    "description": "<p>Embark on a journey to greater mindfulness and appreciation for your food with the \"Mindful Days\" challenge.</p><p>For three days, choose at least one daily meal to eat without distractions. This challenge is designed to help you slow down, savor every bite, and connect more deeply with your eating experience.</p><p>Remember to to mark the meal as <a>aware</a> or higher.</p>",
+    "name": "Mindful Days",
+    "rules": [
+      "Record at least one meal per day at “aware” or higher",
+      "Three consecutive days"
+    ],
+    "short_description": "Eat without distractions"
+  },
+  "013_mindful_week": {
+    "description": "<p>Ready to deepen your mindfulness experience with food?</p><p>The \"Mindful Week\" challenge invites you to enjoy two meals per day without distractions for one week.</p><p>This challenge is an excellent opportunity to enhance your awareness, savor your food, and transform the way you experience eating.</p>",
+    "name": "Mindful Week",
+    "rules": [
+      "Record at least two meals each day at “aware” or higher",
+      "Seven consecutive days"
+    ],
+    "short_description": "Eat without distractions"
+  },
+  "014_mindful_month": {
+    "description": "<p>Welcome to the \"Mindful Month\" an ambitious and transformative challenge.</p><p>This intense journey requires you to practice mindful eating at least two times a days throughout the month.</p><p> It's designed for those who are serious about making a substantial change in their eating habits and enhancing their overall relationship with food.</p><h2>Consider Starting with a Shorter Challenge</h2><p>If you're new to mindful eating, you may want to begin with a less intensive challenge, such as the \"Mindful Days\" or \"Mindful Week\" challenge, to build up your skills and confidence before attempting the month-long marathon.</p>",
+    "name": "Mindful Month",
+    "rules": [
+      "Record at least two meals each day at “aware” or higher",
+      "28 consecutive days"
+    ],
+    "short_description": "Eat without distractions"
+  },
+  "015_sweet_valentine": {
+    "description": "<p>Celebrate love and self-care this Valentine's Day by eating some mouth-watering chocolate without distractions.</p><p>It's a perfect way to infuse a bit of intentional reflection and joy into your Valentine's Day.</p>",
+    "name": "Sweet Valentine",
+    "rules": [
+      "Eat one food containing chocolate",
+      "Mark it \"aware\" or higher",
+      "February 14th"
+    ]
+  },
+  "016_balanced_days": {
+    "description": "<p>Enjoy at least one meal a day when you only eat until you're comfortably full.</p><p>Remember, you don't have to finish the plate. Eat slowly and pay attention to your body's signals.</p>",
+    "name": "Balanced Days",
+    "rules": [
+      "Stop eating before feeling full at least once a day.",
+      "Three consecutive days."
+    ]
+  },
+  "017_balanced_week": {
+    "description": "<p>Step up to the \"Balanced Month Challenge,\" the ultimate progression from our previous challenges.</p><p>This month-long journey invites you to eat until you feel comfortably full, at least twice a day, for an entire month.</p><p>Building on the foundation of our shorter challenges, this challenge is designed to fully integrate intuitive eating into your life, transforming it from a practice into a habit.</p>",
+    "name": "Balanced Week",
+    "rules": [
+      "Eat until comfortably full at least two times per day",
+      "Seven consecutive days"
+    ],
+    "short_description": "Eat until you're comfortably full"
+  },
+  "018_balanced_month": {
+    "description": "<p>Step up to the \"Balanced Month Challenge,\" the ultimate progression from our previous challenges.</p><p>This month-long journey invites you to eat until you feel comfortably full, at least twice a day, for an entire month.</p><p>Building on the foundation of our shorter challenges, this challenge is designed to fully integrate intuitive eating into your life, transforming it from a practice into a habit.</p>",
+    "name": "Balanced Month",
+    "rules": [
+      "Eat until comfortably full at least two times per day",
+      "28 consecutive days."
+    ],
+    "short_description": "Eat until you're comfortably full"
+  },
+  "019_women_day": {
+    "description": "<p>This Women’s Day, let’s create a memory!</p><p>Whether you're venturing to a fancy restaurant or enjoying a cozy meal at home, document your dish with a photo.</p>",
+    "name": "Women's Day",
+    "rules": [
+      "Take a picture of one of your meals",
+      "March 8th"
+    ]
+  },
+  "020_small_wins": {
+    "description": "<p>Whenever you feel the drive to eat but aren't actually hungry, create a check-in and start a <a>⏱ Hold-Off Timer</a>.</p><p> Take a moment to check what’s on your mind, or shift your focus with a quick distraction.</p><p>If the urge fades and you stack on track, mark a <a>★ Small Win</a> when the timer ends.</p><p>Keep logging as usual, at least one meal of any kind per day.</p>",
+    "name": "Small Wins",
+    "rules": [
+      "Log at least one Small Win this week",
+      "One week"
+    ],
+    "short_description": "Notice the urge to eat and pause instead of reacting."
+  },
+  "021_tasting_notes": {
+    "description": "<p>After each meal, take a moment to reflect on your eating experience.</p><p>Notice how the food made you feel — satisfied, tired, energized, or craving more.</p><p>Write down your thoughts to start seeing patterns and better understand your eating habits over time.</p>",
+    "name": "Tasting Notes",
+    "rules": [
+      "Take notes on what you love or don't love about your food.",
+      "At least one meal per day.",
+      "Seven consecutive days."
+    ],
+    "short_description": "Jot down your thoughts around meals"
+  },
+  "022_cinco_de_mayo": {
+    "description": "<p>Join us in celebrating Cinco de Mayo with a delicious twist.</p><p>This is the perfect opportunity to explore new tastes and appreciate the wonderful diversity of cultures that make our world so flavorful.</p><p>For this special day, all the mexican foods will be marked with 🇲🇽.</p>",
+    "name": "¡Viva Cinco de Mayo",
+    "rules": [
+      "Eat one mexican dish",
+      "May 5th"
+    ]
+  },
+  "023_evening": {
+    "description": "<p>The prefrontal cortex helps us make thoughtful decisions, including those related to food choices. When its activity decreases in the evening, it can be harder to resist binge eating.</p><p>For this challenge, pay extra attention to your eating habits in the evenings. This habit benefits weight management, digestion, and sleep quality.</p>",
+    "name": "The Evening Challenge",
+    "rules": [
+      "The final entry of the evening should be a neutral or slightly hungry check-in.",
+      "Seven consecutive days."
+    ],
+    "short_description": "Focus on your evening eating habits"
+  },
+  "024_independence_day": {
+    "description": "<p>Capture the spirit of Independence Day with our Fourth of July Challenge!</p><p>Snap a picture of one of your festive meals or yourself enjoying the festivities.</p><p>Let's make this Fourth of July unforgettable with a vibrant collection of red, white, and blue moments.</p>",
+    "name": "Independence Day",
+    "rules": [
+      "Take a picture of one of your meals",
+      "July 4th"
+    ]
+  },
+  "025_savory_week": {
+    "description": "<p>Elevate your dining experience with the Savory Week Challenge</p><p>This challenge is designed to make you more aware of how your meals make you feel and ensure you consistently make the right picks.</p><p>Focus on quality ingredients and delicious flavors. By being aware of your food choices, you'll enhance your overall well-being and discover new favorites.</p>",
+    "name": "Savory Week",
+    "rules": [
+      "Rate the satisfaction level for at least two meals each day",
+      "Seven consecutive days"
+    ],
+    "short_description": "Rate your meal satisfaction"
+  },
+  "026_hydration": {
+    "description": "<p>Did you know that sometimes what feels like hunger is actually your body's way of asking for water?</p><p>The Hydration Challenge will help you distinguish between hunger and thirst signals, ensuring you stay properly hydrated throughout the day.</p>",
+    "name": "Hydration Week",
+    "rules": [
+      "Log at least {{quantity}} of water or tea each day",
+      "Seven consecutive days"
+    ]
+  },
+  "027_on_the_go": {
+    "description": "<p>When traveling, it's easy to eat out of excitement and curiosity for new foods.</p><p>But this is also the perfect opportunity to observe your eating habits in a different setting.</p><p>This challenge isn’t about restriction. It’s about staying aware of your hunger, fullness, and enjoyment even when routines change.</p><p>Log your meals daily and notice how new experiences influence your eating.</p>",
+    "name": "On The Go Challenge",
+    "rules": [
+      "Log all your meals on vacation.",
+      "At least two meals per day.",
+      "Seven consecutive days."
+    ]
+  },
+  "028_trick_or_treat": {
+    "description": "<p>Snap a picture of your favorite Halloween treat.</p><p>Create a delightful memory that celebrates both the spooky season and your journey towards a healthier relationship with food.</p>",
+    "name": "Trick or Treat",
+    "rules": [
+      "Take a picture of one of your meals",
+      "October 31th"
+    ]
+  },
+  "029_thanksgiving": {
+    "description": "<p>Join our challenge to reflect on your holiday meal.</p><p>What are you thankful for this Thanksgiving?</p><p>Take a moment to jot down your thoughts, helping you enjoy your meal to the fullest.</p>",
+    "name": "Thanksgiving",
+    "rules": [
+      "Write a Thanksgiving note for one of your meals"
+    ]
+  },
+  "030_easter": {
+    "description": "<p>Easter is a time to celebrate, and what better way than with something you made yourself?</p><p>Choose foods you enjoy, cook them with care, and pay attention to how they make you feel.</p><p>Homemade food can help you find pleasure in eating without the usual sense of rush or lack of control.</p>",
+    "name": "Happy Easter",
+    "rules": [
+      "Tag a #homemade meal this Easter"
+    ]
+  },
+  "031_hungry_or_not": {
+    "short_description": "Assess your hunger level before meals",
+    "description": "<p>For this simple challenge, take a moment before meals to pause and assess your hunger level.</p><p>By tuning into your body’s natural hunger cues, you can make healthier choices and develop a better understanding of when and why you eat.</p>",
+    "name": "Hungry or Not",
+    "rules": [
+      "Select the hunger level for at least one meal each day",
+      "Three consecutive days"
+    ]
+  },
+  "032_honor_cravings": {
+    "description": "<p>Every craving tells a story. Maybe it’s the call of something sweet after stress or a salty snack when you’re bored.</p><p>This challenge invites you to pay attention to the kinds of foods you crave and what’s happening around you when they appear.</p><p>Log at least one craving this week and notice the patterns forming. That’s where real awareness begins.</p>",
+    "name": "Craving Detective",
+    "rules": [
+      "Use the \"Cravings 💙\" reason at least once this week to track a craving when it happens.",
+      "One week"
+    ],
+    "short_description": "Observe your cravings and uncover their patterns"
+  },
+  "033_break_the_rules": {
+    "description": "<p>Break at least one diet rule during this week — whether it’s allowing yourself that dessert you usually avoid, skipping calorie counting, or eating after 7 PM.</p><p>This challenge is all about reconnecting with your body, listening to its needs, and enjoying food without guilt.</p><p>Continue to log as usual, at least one meal of any kind per day.</p>",
+    "name": "Break the Rules",
+    "rules": [
+      "Tag at least one of your meals with #norules this week",
+      "One week"
+    ],
+    "short_description": "Challenge the norm, listen to your body"
+  },
+  "034_dry_week": {
+    "description": "<p>Join the <b>Dry Week</b> Challenge and explore how going alcohol-free for seven days can positively impact your eating habits.</p><p>Alcohol often leads to cravings and unplanned snacking. By removing it, you'll discover a more mindful connection to your food choices.</p><p>One week to reset and build healthy habits!</p>",
+    "name": "Dry Week",
+    "rules": [
+      "Don't drink alcohol for a week"
+    ],
+    "short_description": "Skip alcohol and focus on your meals"
+  },
+  "101_january": {
+    "description": "<p>Track at least 20 meals this January without distractions</p>",
+    "name": "Mindful January"
+  },
+  "102_february": {
+    "description": "<p>Stop eating before feeling full at least 20 times this February</p>",
+    "name": "Balanced February"
+  },
+  "103_march": {
+    "description": "<p>Eat when hungry or slightly hungry at least 31 times this March.</p>",
+    "name": "Green March"
+  },
+  "104_april": {
+    "description": "<p>Eat at least 30 #homemade meals this April.</p>",
+    "name": "#homemade April"
+  },
+  "105_may": {
+    "description": "<p>Check-in with yourself at least 30 times this May.</p>",
+    "name": "May Check-ins"
+  },
+  "106_june": {
+    "description": "<p>Record thoughts about your meals at least 20 times throughout June.</p>",
+    "name": "Journaling June"
+  },
+  "107_july": {
+    "description": "<p>Log weekend meals at least 20 times this July.</p>",
+    "name": "July Weekends"
+  },
+  "108_august": {
+    "description": "<p>Log at least {{quantity}} of water or tea this August.</p>",
+    "name": "August Hydration"
+  },
+  "109_september": {
+    "description": "<p>Rate the satisfaction level of at least 20 meals this September</p>",
+    "name": "Savory September"
+  },
+  "110_october": {
+    "description": "Log at least 10 days without alcohol this October",
+    "name": "Sober October"
+  },
+  "111_november": {
+    "description": "<p>Log at least 30 #homemade meals this November.</p>",
+    "name": "Meal Prep November"
+  },
+  "112_december": {
+    "description": "<p>Take photos of at least 10 meals this December.</p>",
+    "name": "Festive December"
+  }
+}
