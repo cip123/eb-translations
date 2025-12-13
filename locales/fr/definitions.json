@@ -37,6 +37,20 @@
 			"2": "24 et 25 décembre"
 		}
 	},
+	"006_bubbly_party": {
+		"name": "Fête pétillante",
+		"rules": {
+			"0": "Ne mangez que lorsque vous avez faim ou une légère faim.",
+			"1": "Il devrait y avoir au moins deux repas par jour.",
+			"2": "31 décembre et 1er janvier"
+		}
+	},
+	"007_junior_chef": {
+		"name": "Chef junior",
+		"rules": {
+			"1": "Trois jours consécutifs"
+		}
+	},
 	"008_master_chef": {
 		"name": "Maître cuisinière",
 		"rules": {
