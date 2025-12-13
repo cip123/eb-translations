@@ -71,5 +71,11 @@
 			"1": "Sept jours consécutifs."
 		},
 		"short_description": "Ne mangez que si vous avez faim."
+	},
+	"012_mindful_days": {
+		"name": "Journées de pleine conscience",
+		"rules": {
+			"1": "Trois jours consécutifs"
+		}
 	}
 }
