@@ -1,5 +1,5 @@
 {
-  "baseLocale": "en",
+  "sourceLanguageTag": "en",
   "locales": ["en", "fr"],
   "modules": [
     "https://cdn.jsdelivr.net/npm/@inlang/plugin-i18next@latest/dist/index.js",
