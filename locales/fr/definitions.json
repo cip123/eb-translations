@@ -36,5 +36,26 @@
 			"1": "Il devrait y avoir au moins deux repas par jour.",
 			"2": "24 et 25 décembre"
 		}
+	},
+	"008_master_chef": {
+		"name": "Maître cuisinière",
+		"rules": {
+			"1": "28 jours consécutifs"
+		}
+	},
+	"009_fullness_check": {
+		"short_description": "Évaluez votre niveau de satiété après les repas",
+		"name": "Vérification de la satiété",
+		"rules": {
+			"0": "Indique l’état après le repas pour deux repas par jour.",
+			"1": "Trois jours consécutifs"
+		}
+	},
+	"010_green_week": {
+		"name": "Semaine verte",
+		"rules": {
+			"1": "Sept jours consécutifs."
+		},
+		"short_description": "Ne mangez que si vous avez faim."
 	}
 }
