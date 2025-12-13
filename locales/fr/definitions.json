@@ -87,7 +87,15 @@
 		"rules": {
 			"0": "Consignez au moins deux repas par jour en mode « conscient » ou supérieur.",
 			"1": "Enregistre au moins deux repas par jour au niveau « conscient » ou supérieur."
-		}
+		},
+		"short_description": "Mangez sans distractions"
+	},
+	"014_mindful_month": {
+		"name": "Mois de la pleine conscience",
+		"rules": {
+			"1": "28 jours consécutifs"
+		},
+		"short_description": "Mangez sans distractions"
 	},
 	"015_sweet_valentine": {
 		"rules": {
