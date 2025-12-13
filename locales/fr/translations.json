@@ -10,5 +10,10 @@
 		"be_mindful": "Sois présent(e)",
 		"we_will_turn_on_mindfulness_tracking": "Nous afficherons votre graphique de pleine conscience et les statistiques associées sur la page Tendances.",
 		"would_you_like_to_eat_more_mindfully": "Et si on mangeait plus consciemment ?"
+	},
+	"reminders": {
+		"post_meal": {
+			"were_you_mindful": "As-tu mangé en pleine conscience ?"
+		}
 	}
 }
