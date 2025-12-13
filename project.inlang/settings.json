@@ -8,6 +8,9 @@
     "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-missing-translation@latest/dist/index.js"
   ],
   "plugin.inlang.i18next": {
-    "pathPattern": "./locales/{languageTag}.json"
+    "pathPattern": {
+        "definitions":"locales/{locale}/definitions.json",
+        "translations":"locales/{locale}/translations.json"
+    }
   }
 }

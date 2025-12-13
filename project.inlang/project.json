@@ -1,6 +1,6 @@
 {
   "$schema": "https://inlang.com/schema/project.json",
-  "languageTags": [
+  "locales": [
     "en",
     "fr"
   ],
@@ -16,5 +16,5 @@
         "translations":"locales/{locale}/translations.json"
     }
   },
-  "sourceLanguageTag": "en"
+  "baseLocale": "en"
 }
