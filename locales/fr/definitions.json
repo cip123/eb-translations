@@ -17,7 +17,24 @@
 	"003_sous_chef": {
 		"name": "Sous-chef",
 		"rules": {
-			"0": "Mange au moins un repas fait maison par jour"
+			"0": "Mange au moins un repas fait maison par jour",
+			"1": "Sept jours consécutifs"
+		},
+		"short_description": "Cuisinez à la maison pour des repas simples et sains"
+	},
+	"004_green_day": {
+		"name": "Journée verte",
+		"rules": {
+			"0": "Mangez au moins deux repas lorsque vous avez faim ou une légère faim.",
+			"1": "Un jour"
+		}
+	},
+	"005_christmas": {
+		"name": "Joyeux noël",
+		"rules": {
+			"0": "Ne mangez que lorsque vous avez faim ou une légère faim.",
+			"1": "Il devrait y avoir au moins deux repas par jour.",
+			"2": "24 et 25 décembre"
 		}
 	}
 }
