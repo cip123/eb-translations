@@ -76,6 +76,18 @@
 		"name": "Journées de pleine conscience",
 		"rules": {
 			"1": "Trois jours consécutifs"
+		},
+		"short_description": "Mangez sans distractions"
+	},
+	"015_sweet_valentine": {
+		"rules": {
+			"2": "14 février"
+		}
+	},
+	"016_balanced_days": {
+		"name": "Journées équilibrées",
+		"rules": {
+			"1": "Trois jours consécutifs."
 		}
 	}
 }
