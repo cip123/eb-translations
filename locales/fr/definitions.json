@@ -1,0 +1,23 @@
+{
+	"001_checkpoints": {
+		"short_description": "Fais régulièrement le point avec toi-même",
+		"name": "Points de repère",
+		"rules": {
+			"0": "Fais le point au moins trois fois par jour.",
+			"1": "Trois jours consécutifs"
+		}
+	},
+	"002_weekend_streak": {
+		"name": "Série du week-end",
+		"rules": {
+			"0": "Enregistre au moins deux repas de n’importe quelle couleur",
+			"1": "Du vendredi au dimanche"
+		}
+	},
+	"003_sous_chef": {
+		"name": "Sous-chef",
+		"rules": {
+			"0": "Mange au moins un repas fait maison par jour"
+		}
+	}
+}
