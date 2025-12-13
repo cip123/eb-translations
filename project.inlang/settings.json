@@ -10,7 +10,7 @@
   "plugin.inlang.i18next": {
     "pathPattern": {
         "definitions":"locales/{languageTag}/definitions.json",
-        "translations":"locales/{languageTag}/translations.json"
+        "translations":"locales/{languageTag}/translation.json"
     }
   }
 }
