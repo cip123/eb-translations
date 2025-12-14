@@ -28,9 +28,76 @@
 		"taste": "Goût",
 		"tiredness": "Fatigue"
 	},
+	"reinforcements": {
+		"3": {
+			"title": "DEUX semaines ! 🧘‍♀️"
+		},
+		"6": {
+			"title": "Deux mois complets ! 🌟"
+		},
+		"7": {
+			"title": "TROIS mois de Eating Buddy ?!"
+		},
+		"8": {
+			"title": "QUATRE mois déjà ! 🪷"
+		}
+	},
 	"reminders": {
 		"post_meal": {
 			"were_you_mindful": "As-tu mangé en pleine conscience ?"
+		}
+	},
+	"settings": {
+		"keep_meals": {
+			"keep0": "Indéfiniment",
+			"keep30": "30 jours",
+			"keep90": "90 jours",
+			"keep365": "1 an"
+		},
+		"languages": {
+			"de": "Allemand",
+			"en": "Anglais"
+		},
+		"menu": {
+			"diary_setup": {
+				"my_drinks": "Mes boissons",
+				"my_foods": "Mes aliments",
+				"reasons": "Raisons",
+				"tags": "Étiquettes",
+				"trends": "Tendances"
+			},
+			"help": {
+				"tos": "Conditions d'utilisation",
+				"version": "Version"
+			},
+			"regional": {
+				"language": "Langue"
+			},
+			"root": {
+				"articles": "Articles",
+				"export_pdf": "Exporter au format PDF",
+				"google_drive": "Google Drive",
+				"icloud": "iCloud",
+				"restore_purchases": "Restaurer l’abonnement",
+				"upgrade_to_premium": "Mettre à jour",
+				"help": "Aide"
+			}
+		},
+		"my_drinks": {
+			"add_drink": "Ajouter une boisson",
+			"duplicate_drink": "Il existe déjà une boisson portant le même nom.",
+			"no_drinks_found": "Aucune boisson personnalisée trouvée"
+		},
+		"my_foods": {
+			"duplicate_food": "Il existe déjà un aliment portant le même nom."
+		},
+		"export_pdf": {
+			"last_7_days": "7 derniers jours",
+			"last_30_days": "30 derniers jours"
+		},
+		"reasons": {
+			"add_reason": "Ajouter une raison",
+			"reason_already_exists": "La raison existe déjà."
 		}
 	}
 }
