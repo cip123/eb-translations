@@ -14,7 +14,19 @@
 	"paywall": {
 		"already_a_member": "Déjà membre ?",
 		"icloud_sync": "Synchronisation iCloud",
-		"monthly": "Mensuel"
+		"monthly": "Mensuel",
+		"thank_you_for_supporting": "Merci de soutenir ce projet !",
+		"try_free_for_seven_days": "Essayez-le gratuitement pendant 7 jours !",
+		"yearly": "Annuel"
+	},
+	"reasons": {
+		"boredom": "Ennui",
+		"craving": "Envies",
+		"it_was_time": "Il était temps",
+		"other": "Autre ...",
+		"stress": "Stress",
+		"taste": "Goût",
+		"tiredness": "Fatigue"
 	},
 	"reminders": {
 		"post_meal": {
