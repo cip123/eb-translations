@@ -98,6 +98,7 @@
 		"short_description": "Mangez sans distractions"
 	},
 	"015_sweet_valentine": {
+		"name": "Douce Saint-Valentin",
 		"rules": {
 			"2": "14 février"
 		}
