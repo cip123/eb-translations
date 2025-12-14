@@ -1,4 +1,20 @@
 {
+	"drinks": {
+		"gatorade": "Gatorade",
+		"gin": "Gin",
+		"ginger_ale": "Ginger Ale",
+		"grape_juice": "Jus de raisin",
+		"grapefruit_juice": "Jus de pamplemousse",
+		"green_smoothie": "Smoothie vert",
+		"green_tea": "Thé vert",
+		"herbal_tea": "Tisane",
+		"india_pale_ale_(ipa)": "India Pale Ale (IPA)",
+		"irish_coffee": "Café irlandais",
+		"juice": "Jus",
+		"lager_beer": "Bière blonde",
+		"latte": "Latté",
+		"lemonade": "Limonade"
+	},
 	"meals": {
 		"mindfulness_level": {
 			"0": "Distrait",
