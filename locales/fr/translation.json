@@ -11,6 +11,11 @@
 		"welcome": "Bienvenue!",
 		"would_you_like_to_eat_more_mindfully": "Et si on mangeait plus consciemment ?"
 	},
+	"paywall": {
+		"already_a_member": "Déjà membre ?",
+		"icloud_sync": "Synchronisation iCloud",
+		"monthly": "Mensuel"
+	},
 	"reminders": {
 		"post_meal": {
 			"were_you_mindful": "As-tu mangé en pleine conscience ?"
