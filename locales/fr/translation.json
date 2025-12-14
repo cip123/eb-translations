@@ -48,6 +48,10 @@
 		}
 	},
 	"settings": {
+		"cloud": {
+			"automatic": "Automatique",
+			"manual": "Manuel"
+		},
 		"keep_meals": {
 			"keep0": "Indéfiniment",
 			"keep30": "30 jours",
@@ -99,5 +103,33 @@
 			"add_reason": "Ajouter une raison",
 			"reason_already_exists": "La raison existe déjà."
 		}
+	},
+	"shared": {
+		"edit_drink": "Modifier la boisson",
+		"history": "Histoire",
+		"in_progress": "En cours",
+		"later": "Peut-être plus tard",
+		"name": "Nom",
+		"never": "Jamais",
+		"new_drink": "Nouvelle boisson",
+		"next": "Suivant",
+		"no": "Non",
+		"not_now": "Pas maintenant",
+		"nothing_here": "Rien ici",
+		"previous": "Précédent",
+		"read": "Lire",
+		"reason": "Raison",
+		"retake": "Reprendre",
+		"tags": "Étiquettes",
+		"today": "Aujourd'hui",
+		"tomorrow": "Demain",
+		"try_for_free": "Essai gratuit",
+		"water": "Eau",
+		"workouts": "Entraînements",
+		"yes": "Oui",
+		"yesterday": "Hier"
+	},
+	"tabs": {
+		"more": "Plus"
 	}
 }
