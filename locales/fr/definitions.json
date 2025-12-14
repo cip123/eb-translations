@@ -1,13 +1,15 @@
 {
 	"001_checkpoints": {
-		"short_description": "Fais régulièrement le point avec toi-même",
-		"name": "Points de repère",
+		"short_description": "Fais régulièrement un check-in avec toi-même",
+		"description": "<p>Dans le rythme effréné du quotidien, il est facile de perdre le contact avec les signaux de faim et de satiété de ton corps.</p><p>Ce défi t’encourage à faire une pause et à te reconnecter à ton corps trois fois par jour.</p><p>Appuie sur les boutons Check In <img data-placeholder=\"checkin\" /> et fais le premier pas pour retrouver plus d’équilibre et de maîtrise dans ta relation à l’alimentation.</p><p>Envie d’être sûr·e de t’en souvenir&nbsp;? Active des rappels dans les paramètres de l’app.</p>",
+		"name": "Points de check-in",
 		"rules": {
-			"0": "Fais le point au moins trois fois par jour.",
+			"0": "Fais au moins trois check-ins par jour",
 			"1": "Trois jours consécutifs"
 		}
 	},
 	"002_weekend_streak": {
+		"description": "<p>Rappelle-toi que tu n’es pas au régime : le week-end ne devrait donc pas être différent des autres jours.</p><p>Profite du week-end pour savourer et observer tes aliments préférés.</p><p>À la fin du week-end, tu auras une vision plus claire de tes habitudes alimentaires et une meilleure compréhension de comment, quand et pourquoi tu manges comme tu le fais.</p>",
 		"name": "Série du week-end",
 		"rules": {
 			"0": "Enregistre au moins deux repas de n’importe quelle couleur",
@@ -15,6 +17,7 @@
 		}
 	},
 	"003_sous_chef": {
+		"description": "<p>Reprends le contrôle de tes repas avec le défi <b>« Sous Chef »</b> !</p><p>Pendant une semaine, ton objectif est de préparer et de savourer deux repas faits maison chaque jour.</p><p>Cuisiner toi-même t’aide à te reconnecter à de vrais ingrédients et à apaiser les envies compulsives. Chaque repas que tu prépares est un pas de plus vers une relation plus libre avec la nourriture et une alimentation plus équilibrée.</p>",
 		"name": "Sous-chef",
 		"rules": {
 			"0": "Mange au moins un repas fait maison par jour",
@@ -23,6 +26,7 @@
 		"short_description": "Cuisinez à la maison pour des repas simples et sains"
 	},
 	"004_green_day": {
+		"description": "<p>Passe une journée à manger uniquement lorsque ton corps te le demande.</p><p>Découvre comment l’écoute de toi peut apaiser les envies et te redonner le contrôle.</p>",
 		"name": "Journée verte",
 		"rules": {
 			"0": "Mangez au moins deux repas lorsque vous avez faim ou une légère faim.",
@@ -30,6 +34,7 @@
 		}
 	},
 	"005_christmas": {
+		"description": "<p>Savoure les saveurs festives de Noël en mangeant uniquement lorsque tu as faim pendant deux jours.</p><p>Ce défi t’encourage à écouter les signaux de faim de ton corps, pour que chaque repas soit vécu de manière intentionnelle et joyeuse.</p>",
 		"name": "Joyeux noël",
 		"rules": {
 			"0": "Ne mangez que lorsque vous avez faim ou une légère faim.",
@@ -38,6 +43,7 @@
 		}
 	},
 	"006_bubbly_party": {
+		"description": "<p>Célèbre le réveillon du Nouvel An avec une touche joyeuse et intentionnelle. Le défi <b>« Fête pétillante »</b> t’invite à accueillir la nouvelle année en restant à l’écoute de tes signaux de faim.</p><p>Pendant la fête, mange lorsque tu ressens la faim et laisse ton corps te guider, même au milieu de l’excitation et des tentations gourmandes.</p><p>Ce défi apporte une attention douce à tes festivités, pour que chaque bouchée soit agréable et pleine de sens au moment de passer à la nouvelle année.</p>",
 		"name": "Fête pétillante",
 		"rules": {
 			"0": "Ne mangez que lorsque vous avez faim ou une légère faim.",
@@ -46,19 +52,23 @@
 		}
 	},
 	"007_junior_chef": {
+		"description": "<p>Maîtrise les portions, évite les arômes artificiels et les ingrédients cachés, et savoure un repas à la fois délicieux et nourrissant.</p><p>Ce défi s’adresse à toutes celles et ceux qui souhaitent retrouver le plaisir de cuisiner et les bienfaits des repas faits maison.</p><p>Pense à l’identifier avec <a>#faitmaison</a></p>",
 		"name": "Chef junior",
 		"rules": {
 			"1": "Trois jours consécutifs"
 		}
 	},
 	"008_master_chef": {
+		"description": "<p>Mange au moins un repas fait maison par jour.</p>",
 		"name": "Maître cuisinière",
 		"rules": {
+			"0": "<p>Mange au moins deux repas faits maison chaque jour.</p>",
 			"1": "28 jours consécutifs"
 		}
 	},
 	"009_fullness_check": {
 		"short_description": "Évaluez votre niveau de satiété après les repas",
+		"description": "<p>Prends un moment après chaque repas et chaque collation pour évaluer ton niveau de satiété.</p><p>Ce défi simple t’encourage à te connecter à tes sensations de rassasiement, afin de mieux comprendre et respecter les signaux de plénitude et de satisfaction de ton corps.</p>",
 		"name": "Vérification de la satiété",
 		"rules": {
 			"0": "Indique l’état après le repas pour deux repas par jour.",
@@ -66,47 +76,262 @@
 		}
 	},
 	"010_green_week": {
+		"description": "<p>Prêt·e à faire passer ton chemin vers la liberté alimentaire au niveau supérieur&nbsp;?</p><p>Ce défi de sept jours t’invite à manger uniquement lorsque tu as réellement faim, pour t’aider à sortir des automatismes alimentaires et mieux comprendre tes véritables signaux de faim.</p><p>C’est une étape au-dessus de l’essai d’une journée, qui te donne plus de temps pour pratiquer l’attention et renforcer ton autonomie face à l’alimentation.</p>",
 		"name": "Semaine verte",
 		"rules": {
+			"0": "Mange au moins deux repas lorsque tu as faim ou légèrement faim.",
 			"1": "Sept jours consécutifs."
 		},
 		"short_description": "Ne mangez que si vous avez faim."
 	},
+	"011_green_month": {
+		"description": "<p>Prépare-toi à un parcours d’un mois exigeant, mais profondément transformateur, vers plus de liberté alimentaire.</p><p>Ce défi n’est pas un engagement léger. Il est conçu pour t’aider à te libérer des schémas de dépendance alimentaire et à retrouver l’équilibre en apprenant à reconnaître et à respecter ta vraie faim.</p><p>Si tu débutes, nous te recommandons de commencer par un défi plus court comme <b>Jour vert</b> ou <b>Semaine verte</b>, afin de t’entraîner à ces habitudes avant de t’engager sur un mois complet.</p>",
+		"name": "Mois vert",
+		"rules": {
+			"0": "Mange au moins deux repas quand tu as faim ou une légère faim",
+			"1": "28 jours consécutifs."
+		}
+	},
 	"012_mindful_days": {
 		"description": "<p>Pars pour un voyage vers plus de pleine conscience et une meilleure appréciation de ton alimentation avec le défi « Mindful Days ».</p>\n<p>Pendant trois jours, choisis au moins un repas par jour à manger sans distractions. Ce défi est conçu pour t’aider à ralentir, savourer chaque bouchée et te connecter plus profondément à ton expérience alimentaire.</p>\n<p>N’oublie pas de marquer le repas comme <a>conscient</a> ou à un niveau supérieur.</p>",
-		"name": "Journées de pleine conscience",
+		"name": "Jours mindful",
 		"rules": {
-			"0": "Enregistre au moins un repas par jour au niveau « aware » ou supérieur.",
+			"0": "Enregistre au moins un repas par jour au niveau « conscient·e » ou plus",
 			"1": "Trois jours consécutifs"
 		},
 		"short_description": "Mangez sans distractions"
 	},
 	"013_mindful_week": {
-		"description": "<p>Prêt à approfondir ton expérience de pleine conscience avec l’alimentation?</p>\n<p>Le défi « Semaine en pleine conscience » t’invite à savourer deux repas par jour sans distractions pendant une semaine.</p>\n<p>Ce défi est une excellente occasion de développer ta conscience, de savourer ton alimentation et de transformer ta façon de manger.</p>",
-		"name": "Semaine de la pleine conscience",
+		"description": "<p>Prêt·e à approfondir ton expérience de pleine conscience avec l’alimentation&nbsp;?</p><p>Le défi <b>« Semaine mindful »</b> t’invite à savourer deux repas par jour sans distraction pendant une semaine.</p><p>Ce défi est une excellente occasion de renforcer ton attention, de savourer pleinement tes repas et de transformer ta façon de vivre l’acte de manger.</p>",
+		"name": "Semaine mindful",
 		"rules": {
-			"0": "Consignez au moins deux repas par jour en mode « conscient » ou supérieur.",
-			"1": "Enregistre au moins deux repas par jour au niveau « conscient » ou supérieur."
+			"0": "Enregistre au moins deux repas par jour au niveau « conscient » ou plus.",
+			"1": "Sept jours consécutifs"
 		},
 		"short_description": "Mangez sans distractions"
 	},
 	"014_mindful_month": {
-		"name": "Mois de la pleine conscience",
+		"description": "<p>Bienvenue dans le défi <b>« Mois mindful »</b>, un défi ambitieux et transformateur.</p><p>Ce parcours intense te demande de pratiquer l’alimentation mindful au moins deux fois par jour tout au long du mois.</p><p>Il s’adresse à celles et ceux qui souhaitent s’engager sérieusement dans un changement profond de leurs habitudes alimentaires et améliorer durablement leur relation à la nourriture.</p><h2>Envisage de commencer par un défi plus court</h2><p>Si tu débutes dans l’alimentation mindful, il peut être préférable de commencer par un défi moins intense, comme <b>Journées mindful</b> ou <b>Semaine mindful</b>, afin de développer tes compétences et ta confiance avant de te lancer dans le marathon d’un mois.</p>",
+		"name": "Mois mindful",
 		"rules": {
+			"0": "Enregistre au moins deux repas par jour au niveau « conscient » ou plus.",
 			"1": "28 jours consécutifs"
 		},
 		"short_description": "Mangez sans distractions"
 	},
 	"015_sweet_valentine": {
+		"description": "<p>Célèbre l’amour et le soin de toi en cette Saint-Valentin en dégustant un délicieux chocolat, sans distraction.</p><p>C’est une belle façon d’apporter plus d’intention, de conscience et de plaisir à ta Saint-Valentin.</p>",
 		"name": "Douce Saint-Valentin",
 		"rules": {
+			"0": "Mange un aliment contenant du chocolat",
+			"1": "Marque-le au niveau « conscient » ou plus",
 			"2": "14 février"
 		}
 	},
 	"016_balanced_days": {
+		"description": "<p>Profite d’au moins un repas par jour en mangeant uniquement jusqu’à être confortablement rassasié·e.</p><p>Rappelle-toi que tu n’es pas obligé·e de finir ton assiette. Mange lentement et reste à l’écoute des signaux de ton corps.</p>",
 		"name": "Journées équilibrées",
 		"rules": {
+			"0": "Arrête de manger avant de te sentir trop plein au moins une fois par jour",
 			"1": "Trois jours consécutifs."
 		}
+	},
+	"017_balanced_week": {
+		"description": "<p>Passe au niveau supérieur avec le <b>défi « Mois équilibré »</b>, l’aboutissement de nos défis précédents.</p><p>Ce parcours d’un mois t’invite à manger jusqu’à te sentir confortablement rassasié·e, au moins deux fois par jour, pendant tout le mois.</p><p>En s’appuyant sur les bases posées par les défis plus courts, ce défi est conçu pour intégrer pleinement l’alimentation intuitive dans ta vie et la transformer d’une pratique en une véritable habitude.</p>",
+		"name": "Semaine équilibrée",
+		"rules": {
+			"0": "Mange jusqu’à te sentir confortablement rassasié au moins deux fois par jour",
+			"1": "Sept jours consécutifs"
+		},
+		"short_description": "Mange jusqu’à te sentir confortablement rassasié."
+	},
+	"018_balanced_month": {
+		"description": "<p>Passe au niveau supérieur avec le <b>défi « Mois équilibré »</b>, l’aboutissement de nos défis précédents.</p><p>Ce parcours d’un mois t’invite à manger jusqu’à te sentir confortablement rassasié, au moins deux fois par jour, pendant tout le mois.</p><p>En s’appuyant sur les bases posées par nos défis plus courts, ce défi est conçu pour intégrer pleinement l’alimentation intuitive dans ta vie et la transformer d’une pratique en une véritable habitude.</p>",
+		"name": "Mois équilibré",
+		"rules": {
+			"0": "Mange jusqu’à te sentir confortablement rassasié au moins deux fois par jour.",
+			"1": "28 jours consécutifs."
+		},
+		"short_description": "Mange jusqu’à te sentir confortablement rassasié."
+	},
+	"019_women_day": {
+		"description": "<p>En cette Journée internationale des droits des femmes, créons un souvenir&nbsp;!</p><p>Que tu ailles dans un restaurant chic ou que tu profites d’un repas convivial à la maison, prends ton plat en photo pour l’immortaliser.</p>",
+		"name": "Journée internationale des droits des femmes",
+		"rules": {
+			"0": "Prends une photo de l’un de tes repas.",
+			"1": "8 mars"
+		}
+	},
+	"020_small_wins": {
+		"description": "<p>Chaque fois que tu ressens l’envie de manger sans avoir réellement faim, crée un check-in et lance le <a>⏱ Minuteur de pause</a>.</p><p>Prends un moment pour observer ce qui te traverse l’esprit, ou change de focus avec une distraction rapide.</p><p>Si l’envie passe et que tu restes sur la bonne voie, marque une <a>★ Petite victoire</a> à la fin du minuteur.</p><p>Continue à enregistrer comme d’habitude, avec au moins un repas par jour, quel qu’il soit.</p>",
+		"name": "Petites victoires",
+		"rules": {
+			"0": "Enregistre au moins une petite victoire cette semaine",
+			"1": "Une semaine"
+		},
+		"short_description": "Remarque l’envie de manger et fais une pause plutôt que de réagir automatiquement."
+	},
+	"021_tasting_notes": {
+		"description": "<p>Après chaque repas, prends un moment pour réfléchir à ton expérience alimentaire.</p><p>Observe comment la nourriture t’a fait te sentir, rassasié, fatigué, plein d’énergie ou avec encore des envies.</p><p>Note tes ressentis pour commencer à repérer des schémas et mieux comprendre tes habitudes alimentaires au fil du temps.</p>",
+		"name": "Notes de dégustation",
+		"rules": {
+			"0": "Prends des notes sur ce que tu aimes ou n’aimes pas dans ton repas.",
+			"1": "Au moins un repas par jour",
+			"2": "Sept jours consécutifs."
+		},
+		"short_description": "Note tes pensées autour des repas"
+	},
+	"022_cinco_de_mayo": {
+		"description": "<p>Rejoins-nous pour célébrer le Cinco de Mayo avec une touche gourmande.</p><p>C’est l’occasion idéale de découvrir de nouvelles saveurs et d’apprécier la belle diversité des cultures qui rendent notre monde si riche en goûts.</p><p>Pour cette journée spéciale, tous les plats mexicains seront marqués du symbole 🇲🇽.</p>",
+		"name": "¡Viva Cinco de Mayo!",
+		"rules": {
+			"0": "Mange un plat mexicain.",
+			"1": "5 mai"
+		}
+	},
+	"023_evening": {
+		"description": "<p>Le cortex préfrontal nous aide à prendre des décisions réfléchies, y compris en matière d’alimentation. Lorsque son activité diminue en soirée, il peut devenir plus difficile de résister aux envies de grignotage ou de manger en excès.</p><p>Pour ce défi, sois particulièrement attentif·ve à tes habitudes alimentaires le soir. Cette attention peut favoriser la gestion du poids, la digestion et la qualité du sommeil.</p>",
+		"name": "Le défi du soir",
+		"rules": {
+			"0": "La dernière entrée de la soirée doit être un check-in neutre ou avec une légère faim.",
+			"1": "Sept jours consécutifs."
+		},
+		"short_description": "Concentre-toi sur tes habitudes alimentaires du soir"
+	},
+	"024_independence_day": {
+		"description": "<p>Célèbre l’esprit de la fête nationale avec notre défi du 4 juillet&nbsp;!</p><p>Prends une photo de l’un de tes repas festifs ou de toi en train de profiter des célébrations.</p><p>Rendons ce 4 juillet inoubliable avec une collection de moments hauts en couleur, en rouge, blanc et bleu.</p>",
+		"name": "Fête nationale américaine",
+		"rules": {
+			"0": "Prends une photo de l’un de tes repas.",
+			"1": "4 juillet"
+		}
+	},
+	"025_savory_week": {
+		"description": "<p>Élève ton expérience à table avec le défi <b>« Semaine savoureuse »</b>.</p><p>Ce défi est conçu pour t’aider à mieux prendre conscience de la façon dont tes repas te font sentir et à faire des choix qui te conviennent vraiment.</p><p>Concentre-toi sur des ingrédients de qualité et des saveurs délicieuses. En étant plus attentif·ve à tes choix alimentaires, tu amélioreras ton bien-être global et découvriras peut-être de nouveaux coups de cœur.</p>",
+		"name": "Semaine savoureuse",
+		"rules": {
+			"0": "Évalue le niveau de satisfaction d’au moins deux repas chaque jour.",
+			"1": "Sept jours consécutifs"
+		},
+		"short_description": "Évalue ta satisfaction après ton repas"
+	},
+	"026_hydration": {
+		"description": "<p>Savais-tu que ce qui ressemble parfois à de la faim est en réalité la façon dont ton corps te signale qu’il a besoin d’eau&nbsp;?</p><p>Le défi Hydratation t’aidera à faire la différence entre les signaux de faim et de soif, afin de rester bien hydraté·e tout au long de la journée.</p>",
+		"name": "Semaine de l'hydratation",
+		"rules": {
+			"0": "Enregistre au moins {{quantity}} d'eau ou de thé chaque jour",
+			"1": "Sept jours consécutifs"
+		}
+	},
+	"027_on_the_go": {
+		"description": "<p>En voyage, il est facile de manger par excitation ou par curiosité face à de nouveaux aliments.</p><p>Mais c’est aussi l’occasion idéale d’observer tes habitudes alimentaires dans un contexte différent.</p><p>Ce défi ne parle pas de restriction. Il s’agit de rester à l’écoute de ta faim, de ta satiété et de ton plaisir, même lorsque tes routines changent.</p><p>Enregistre tes repas chaque jour et observe comment les nouvelles expériences influencent ta façon de manger.</p>",
+		"name": "Défi en déplacement",
+		"rules": {
+			"0": "Enregistre tous tes repas pendant les vacances.",
+			"1": "Au moins deux repas par jour.",
+			"2": "Sept jours consécutifs."
+		}
+	},
+	"028_trick_or_treat": {
+		"description": "<p>Prends une photo de ta gourmandise d’Halloween préférée.</p><p>Crée un joli souvenir qui célèbre à la fois la saison effrayante et ton chemin vers une relation plus saine avec la nourriture.</p>",
+		"name": "Des bonbons ou un sort !",
+		"rules": {
+			"0": "Prends une photo de l’un de tes repas.",
+			"1": "31 octobre"
+		}
+	},
+	"029_thanksgiving": {
+		"description": "<p>Rejoins notre défi pour prendre un moment de réflexion autour de ton repas de l’Action de grâce.</p>\n<p>De quoi es-tu reconnaissant·e en cette Action de grâce&nbsp;?</p>\n<p>Prends le temps de noter tes pensées afin de profiter pleinement de ton repas.</p>",
+		"name": "Action de grâces"
+	},
+	"030_easter": {
+		"description": "Écris une note de gratitude pour l’un de tes repas de l’Action de grâce.",
+		"name": "Joyeuses Pâques",
+		"rules": {
+			"0": "Ajoute le hashtag <a>#faitmaison</a> à un repas pour Pâques"
+		}
+	},
+	"031_hungry_or_not": {
+		"short_description": "Évalue ton niveau de faim avant les repas.",
+		"description": "<p>Pour ce défi simple, prends un moment avant les repas pour faire une pause et évaluer ton niveau de faim.</p><p>En restant à l’écoute des signaux naturels de faim de ton corps, tu pourras faire des choix plus adaptés et mieux comprendre quand et pourquoi tu manges.</p>",
+		"name": "Faim ou pas",
+		"rules": {
+			"0": "Sélectionne le niveau de faim pour au moins un repas chaque jour.",
+			"1": "Trois jours consécutifs"
+		}
+	},
+	"032_honor_cravings": {
+		"description": "<p>Chaque envie raconte une histoire. Parfois, c’est l’appel du sucré après le stress, ou du salé quand l’ennui s’installe.</p><p>Ce défi t’invite à prêter attention aux aliments qui te font envie et à ce qui se passe autour de toi quand ces envies apparaissent.</p><p>Enregistre au moins une envie cette semaine et observe les schémas qui se dessinent. C’est là que commence la vraie prise de conscience.</p>",
+		"name": "Détective des envies",
+		"rules": {
+			"0": "Utilise la raison <b>« Cravings 💙 »</b> au moins une fois cette semaine pour enregistrer une envie au moment où elle se présente.",
+			"1": "Une semaine"
+		},
+		"short_description": "Observe tes envies et découvre les schémas qui s’en dégagent."
+	},
+	"033_break_the_rules": {
+		"description": "<p>Brise au moins une règle alimentaire cette semaine — que ce soit t’autoriser un dessert que tu évites d’habitude, arrêter de compter les calories ou manger après 19 h.</p><p>Ce défi consiste à te reconnecter à ton corps, à écouter ses besoins et à profiter de la nourriture sans culpabilité.</p><p>Continue à enregistrer comme d’habitude, avec au moins un repas par jour, quel qu’il soit.</p>",
+		"name": "Enfreindre les règles",
+		"rules": {
+			"0": "Identifie au moins l’un de tes repas avec le hashtag <a>#norules</a> cette semaine.",
+			"1": "Une semaine"
+		},
+		"short_description": "Remettez en question les normes établies, écoutez votre corps."
+	},
+	"034_dry_week": {
+		"description": "Bouscule les règles, écoute ton corps.",
+		"name": "Semaine sans alcool",
+		"rules": {
+			"0": "Ne bois pas d’alcool pendant une semaine."
+		},
+		"short_description": "Évite l’alcool et concentre-toi sur tes repas"
+	},
+	"101_january": {
+		"description": "<p>Enregistre au moins 20 repas ce mois de janvier, sans distraction.</p>",
+		"name": "Janvier mindful"
+	},
+	"102_february": {
+		"description": "<p>Arrête de manger avant de te sentir trop plein au moins 20 fois en février.</p>",
+		"name": "Février équilibré"
+	},
+	"103_march": {
+		"description": "<p>Mange lorsque tu as faim ou une légère faim au moins 31 fois en mars.</p>",
+		"name": "Marche verte"
+	},
+	"104_april": {
+		"description": "<p>Mange au moins 30 repas <a>#faitmaison</a> en avril.</p>",
+		"name": "#faitmaison Avril"
+	},
+	"105_may": {
+		"description": "<p>Fais un check-in avec toi-même au moins 30 fois en mai.</p>",
+		"name": "Check-ins de mai"
+	},
+	"106_june": {
+		"description": "<p>Note tes pensées à propos de tes repas au moins 20 fois au cours du mois de juin.</p>",
+		"name": "Juin journaling"
+	},
+	"107_july": {
+		"description": "<p>Enregistre tes repas du week-end au moins 20 fois en juillet.</p>",
+		"name": "Week-ends de juillet"
+	},
+	"108_august": {
+		"description": "<p>Enregistre au moins {{quantity}} d'eau ou de thé en août.</p>",
+		"name": "Hydratation d'août"
+	},
+	"109_september": {
+		"description": "<p>Évalue le niveau de satisfaction d’au moins 20 repas en septembre.</p>",
+		"name": "Septembre savoureux"
+	},
+	"110_october": {
+		"description": "<p>Enregistre au moins 10 jours sans alcool en octobre.</p>",
+		"name": "Octobre sobre"
+	},
+	"111_november": {
+		"description": "<p>Enregistre au moins 30 repas <a>#faitmaison</a> en novembre.</p>",
+		"name": "Novembre repas préparés"
+	},
+	"112_december": {
+		"description": "<p>Prends des photos d’au moins 10 repas en décembre.</p>",
+		"name": "Décembre festif"
 	}
 }
