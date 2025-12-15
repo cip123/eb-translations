@@ -42,7 +42,14 @@
 		"halfway_through": "À mi-parcours",
 		"hunger": "faim",
 		"in_progress": "En cours",
-		"join": "Rejoindre"
+		"join": "Rejoindre",
+		"leave": "Quitter",
+		"meal_prep": "repas préparés",
+		"mindfulness": "mindfulness",
+		"monthly_challenge": "Défi mensuel",
+		"no_active_challenges": "Aucun défi actif",
+		"no_available_challenges": "Aucun défi disponible",
+		"nothing_here": "Rien ici"
 	},
 	"drinks": {
 		"gatorade": "Gatorade",
