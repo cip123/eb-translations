@@ -1,4 +1,49 @@
 {
+	"alerts": {
+		"update_required": {
+			"button": "Je mettrai à jour les autres appareils.",
+			"message": "Nous avons ajouté la prise en charge de plusieurs images. Les anciennes versions de l’app ne sont pas compatibles avec ce changement et peuvent supprimer les images supplémentaires pour n’en conserver qu’une seule.\nSi tu utilises Eating Buddy sur plusieurs appareils, assure-toi que tous sont mis à jour vers la version 4.5.0 ou ultérieure.",
+			"title": "Mettre à jour tous les appareils"
+		}
+	},
+	"articles": {
+		"diet_starts_monday": "Le régime commence lundi",
+		"eating_buddy": "Eating Buddy",
+		"homemade_meals": "Repas faits maison",
+		"how_do_you_measure_hunger": "Comment mesure-t-on la faim ?",
+		"what_to_expect": "À quoi s'attendre ?"
+	},
+	"challenges": {
+		"all_challenges": "Tous les défis",
+		"already_enrolled_in": "Déjà inscrit à {{name}}",
+		"available": "Disponible",
+		"available_after_track_ends": "Disponible après la fin du parcours",
+		"available_on": "Disponible {{date}}",
+		"badges": "Badges",
+		"best_score": "Meilleur score : {{score}} , {{date}}",
+		"browse_our_collection_or": "Parcours notre collection pour trouver quelque chose qui te donne envie ou",
+		"cannot_join_challenge_conflict": "Tu ne peux pas rejoindre ce défi car tu es déjà inscrit à {{name}} .",
+		"cannot_join_challenge_in_track": "Tu es déjà inscrit au parcours« {{track}} »",
+		"cannot_join_challenge_required": "Pour rejoindre ce défi, tu dois d’abord terminer {{name}} .",
+		"cannot_join_challenge_too_many": "Tu ne peux pas rejoindre ce défi car tu es déjà inscrit à cinq défis.",
+		"challenges_one": "{{count}} Défi",
+		"challenges_other": "{{count}} Défis",
+		"completed": "Complété",
+		"completed_on": "Terminé {{date}} .",
+		"completed_times": "Terminé {{times}} fois, la plus récente {{date}} .",
+		"count": "Compte",
+		"ended": "Terminé",
+		"ends": "Fin",
+		"enrolled": "Inscrit",
+		"foreign_challenges": "Défis sur d'autres appareils",
+		"fullness": "satiété",
+		"go_take_on": "Relève quelques défis !",
+		"go_to_track": "Aller au parcours",
+		"halfway_through": "À mi-parcours",
+		"hunger": "faim",
+		"in_progress": "En cours",
+		"join": "Rejoindre"
+	},
 	"drinks": {
 		"gatorade": "Gatorade",
 		"gin": "Gin",

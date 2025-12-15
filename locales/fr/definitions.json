@@ -55,6 +55,7 @@
 		"description": "<p>Maîtrise les portions, évite les arômes artificiels et les ingrédients cachés, et savoure un repas à la fois délicieux et nourrissant.</p><p>Ce défi s’adresse à toutes celles et ceux qui souhaitent retrouver le plaisir de cuisiner et les bienfaits des repas faits maison.</p><p>Pense à l’identifier avec <a>#faitmaison</a></p>",
 		"name": "Chef junior",
 		"rules": {
+			"0": "Mange au moins un repas fait maison par jour",
 			"1": "Trois jours consécutifs"
 		}
 	},
@@ -242,7 +243,10 @@
 	},
 	"029_thanksgiving": {
 		"description": "<p>Rejoins notre défi pour prendre un moment de réflexion autour de ton repas de l’Action de grâce.</p>\n<p>De quoi es-tu reconnaissant·e en cette Action de grâce&nbsp;?</p>\n<p>Prends le temps de noter tes pensées afin de profiter pleinement de ton repas.</p>",
-		"name": "Action de grâces"
+		"name": "Action de grâces",
+		"rules": {
+			"0": "Écris une note de gratitude pour l’un de tes repas de l’Action de grâce"
+		}
 	},
 	"030_easter": {
 		"description": "Écris une note de gratitude pour l’un de tes repas de l’Action de grâce.",
