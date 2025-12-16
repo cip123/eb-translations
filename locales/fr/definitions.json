@@ -95,7 +95,7 @@
 	},
 	"012_mindful_days": {
 		"description": "<p>Pars pour un voyage vers plus de pleine conscience et une meilleure appréciation de ton alimentation avec le défi « Mindful Days ».</p>\n<p>Pendant trois jours, choisis au moins un repas par jour à manger sans distractions. Ce défi est conçu pour t’aider à ralentir, savourer chaque bouchée et te connecter plus profondément à ton expérience alimentaire.</p>\n<p>N’oublie pas de marquer le repas comme <a>conscient</a> ou à un niveau supérieur.</p>",
-		"name": "Jours mindful",
+		"name": "Journées de pleine conscience",
 		"rules": {
 			"0": "Enregistre au moins un repas par jour au niveau « conscient·e » ou plus",
 			"1": "Trois jours consécutifs"
@@ -103,8 +103,8 @@
 		"short_description": "Mangez sans distractions"
 	},
 	"013_mindful_week": {
-		"description": "<p>Prêt·e à approfondir ton expérience de pleine conscience avec l’alimentation&nbsp;?</p><p>Le défi <b>« Semaine mindful »</b> t’invite à savourer deux repas par jour sans distraction pendant une semaine.</p><p>Ce défi est une excellente occasion de renforcer ton attention, de savourer pleinement tes repas et de transformer ta façon de vivre l’acte de manger.</p>",
-		"name": "Semaine mindful",
+		"description": "<p>Prêt·e à approfondir ton expérience de pleine conscience avec l’alimentation&nbsp;?</p><p>Le défi <b>« Semaine de la pleine conscience »</b> t’invite à savourer deux repas par jour sans distraction pendant une semaine.</p><p>Ce défi est une excellente occasion de renforcer ton attention, de savourer pleinement tes repas et de transformer ta façon de vivre l’acte de manger.</p>",
+		"name": "Semaine de la pleine conscience",
 		"rules": {
 			"0": "Enregistre au moins deux repas par jour au niveau « conscient » ou plus.",
 			"1": "Sept jours consécutifs"
