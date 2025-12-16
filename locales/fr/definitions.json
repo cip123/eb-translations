@@ -2,7 +2,7 @@
 	"001_checkpoints": {
 		"short_description": "Fais régulièrement un check-in avec toi-même",
 		"description": "<p>Dans le rythme effréné du quotidien, il est facile de perdre le contact avec les signaux de faim et de satiété de ton corps.</p><p>Ce défi t’encourage à faire une pause et à te reconnecter à ton corps trois fois par jour.</p><p>Appuie sur les boutons Check In <img data-placeholder=\"checkin\" /> et fais le premier pas pour retrouver plus d’équilibre et de maîtrise dans ta relation à l’alimentation.</p><p>Envie d’être sûr·e de t’en souvenir&nbsp;? Active des rappels dans les paramètres de l’app.</p>",
-		"name": "Points de check-in",
+		"name": "Points de repère",
 		"rules": {
 			"0": "Fais au moins trois check-ins par jour",
 			"1": "Trois jours consécutifs"
