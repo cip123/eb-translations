@@ -45,7 +45,7 @@
 		"join": "Rejoindre",
 		"leave": "Quitter",
 		"meal_prep": "repas préparés",
-		"mindfulness": "mindfulness",
+		"mindfulness": "pleine conscience",
 		"monthly_challenge": "Défi mensuel",
 		"no_active_challenges": "Aucun défi actif",
 		"no_available_challenges": "Aucun défi disponible",
@@ -128,10 +128,90 @@
 				"4": "Bien",
 				"5": "Très bien",
 				"6": "Super"
-			}
+			},
+			"what_best_describes_your_mood": "Quel commentaire décrit votre humeur ?"
+		}
+	},
+	"cloud": {
+		"google_drive_not_authorized": {
+			"title": "L’accès au stockage Drive n’a pas été accordé.",
+			"body": "Veuillez autoriser l'application à utiliser Google Drive."
+		},
+		"errors": {
+			"account_change": "Votre compte iCloud a changé. Vous pouvez réactiver la synchronisation avec votre nouveau compte dans les paramètres de l'application.",
+			"apple_server_error": "Nous ne pouvons pas effectuer la synchronisation pour le moment en raison d'un problème avec les serveurs d'Apple.",
+			"cant_enable_icloud": "La synchronisation iCloud ne peut pas être activée",
+			"icloud_not_available": "iCloud non disponible",
+			"icloud_not_supported": "iCloud est désactivé ou non pris en charge sur cet appareil. Veuillez vérifier vos paramètres.",
+			"icloud_sync_disabled": "Synchronisation iCloud désactivée",
+			"internal_error": "Une erreur iCloud inattendue s'est produite. Veuillez nous indiquer si le problème persiste.",
+			"network_error": "L'opération n'a pas pu être effectuée en raison d'un problème de réseau. Veuillez vérifier votre connexion et réessayer.",
+			"not_authenticated": "Vous n'êtes pas connecté à iCloud. Veuillez vous connecter dans les réglages système.",
+			"quota_exceeded": "Votre espace de stockage iCloud est plein. Libérez de l'espace, puis réactivez la synchronisation dans les paramètres de l'application pour poursuivre la synchronisation.",
+			"zone_deleted": "La synchronisation iCloud n'est plus disponible, probablement en raison de modifications apportées aux paramètres iCloud."
+		},
+		"ios_version_too_low": "La synchronisation automatique iCloud n'est pas disponible. Mettez à jour votre appareil vers iOS 17 ou ultérieur."
+	},
+	"dates": {
+		"days_one": "{{count}} jour",
+		"days_other": "{{count}} jours",
+		"interval_days": "Jour {{start}} - {{end}}",
+		"month_one": "{{count}} mois",
+		"week_index": "Semaine {{index}}",
+		"week_one": "{{count}} semaine"
+	},
+	"drink": {
+		"add_drink": "Ajouter une boisson",
+		"categories": {
+			"beer": "Bière",
+			"cocktail": "Cocktail",
+			"coffee": "Café",
+			"energy_drink": "Boisson énergisante",
+			"juice": "Jus",
+			"other_alcohol": "Alcool (autre)",
+			"smoothie": "Smoothie",
+			"soft_drink": "Boisson gazeuse",
+			"sparkling": "Vin pétillant",
+			"spirit": "Spiritueux",
+			"tea": "Thé",
+			"wine": "Vin"
+		},
+		"find": "Trouver une boisson",
+		"groups": {
+			"alcohol": "Alcool",
+			"coffee_tea": "Café et thé",
+			"soft_drinks": "Jus et boissons gazeuses"
 		}
 	},
 	"drinks": {
+		"7_up": "7 Up",
+		"absinthe": "Absinthe",
+		"americano": "Americano",
+		"apple_juice": "Jus de pomme",
+		"avocado_smoothie": "Smoothie à l'avocat",
+		"banana_smoothie": "Smoothie à la banane",
+		"beer": "Bière",
+		"beet_juice": "Jus de betterave",
+		"berry_smoothie": "Smoothie aux baies",
+		"black_tea": "Thé noir",
+		"bloody_mary": "Bloody Mary",
+		"bourbon": "Bourbon",
+		"brandy": "Brandy",
+		"bubble_tea": "Bubble Tea (Boba Tea)",
+		"bulletproof_coffee": "Café Bulletproof",
+		"café_au_lait": "Café au Lait",
+		"cappuccino": "Cappuccino",
+		"carrot_juice": "Jus de carotte",
+		"chai_latte": "Chai Latte",
+		"chamomile_tea": "Thé à la camomille",
+		"champagne": "Champagne",
+		"cider": "Cidre",
+		"coca-cola": "Coca-Cola",
+		"coca-cola_zero_sugar": "Coca-Cola Zero Sucres",
+		"cocktail": "Cocktail",
+		"coffee": "Café",
+		"cognac": "Cognac",
+		"daiquiri": "Daiquiri",
 		"gatorade": "Gatorade",
 		"gin": "Gin",
 		"ginger_ale": "Ginger Ale",
