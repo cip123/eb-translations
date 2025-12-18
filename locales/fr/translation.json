@@ -273,18 +273,81 @@
 		"protein_smoothie": "Smoothie protéiné",
 		"pumpkin_spice_latte": "Pumpkin Spice Latte",
 		"red_bull": "Red Bull",
+		"rooibos_tea": "Thé rooibos",
 		"rose_wine": "Vin rosé",
 		"rum": "Rhum",
 		"sangria": "Sangria",
 		"sencha": "Sencha",
 		"smoothie": "Smoothie",
 		"soft_drink": "Boisson gazeuse",
+		"sparking_wine": "Vin mousseux",
 		"sprite": "Sprite",
+		"stout_beer": "Bière stout",
 		"tea": "Thé",
 		"tequila": "Tequila",
 		"tomato_juice": "Jus de tomate",
+		"tropical_smoothie": "Smoothie tropical",
 		"turkish_coffee": "Café turc",
-		"veggie_smoothie": "Smoothie aux légumes"
+		"veggie_smoothie": "Smoothie aux légumes",
+		"vodka": "Vodka",
+		"watermelon_juice": "Jus de pastèque",
+		"whiskey": "Whisky",
+		"whiskey_sour": "Whiskey Sour",
+		"white_tea": "Thé blanc",
+		"white_wine": "Vin blanc",
+		"wine": "Vin"
+	},
+	"food": {
+		"find_or_add": "Trouvez ou ajoutez des aliments",
+		"finish_meal": "Finir le repas",
+		"prompts": {
+			"what_are_you_having": "Qu'est-ce que vous prenez ?",
+			"what_are_you_savouring": "Qu'est-ce que vous savourez ?",
+			"what_did_you_decide": "Qu'avez-vous décidé ?",
+			"what_food": "Qu'avez-vous choisi ?",
+			"whats_on_menu": "Qu'y a-t-il au menu ?",
+			"whats_on_plate": "Qu'est-ce qu'il y a dans votre assiette ?"
+		}
+	},
+	"health": {
+		"access": {
+			"workouts": {
+				"title": "Entraînements",
+				"description": "comprendre les niveaux d'activité en relation avec les habitudes alimentaires"
+			},
+			"water": {
+				"title": "Eau",
+				"description": "inclure l'hydratation aux repas"
+			},
+			"state_of_mind": {
+				"title": "État d'esprit",
+				"description": "refléter les tendances de l'humeur en lien avec les habitudes alimentaires"
+			},
+			"footer": "Ces données servent uniquement à fournir des informations dans l’application et sont analysées avec vos saisies alimentaires.",
+			"has_already_been_requested": "Les autorisations ont déjà été demandées."
+		}
+	},
+	"home": {
+		"good_afternoon": "Bon après-midi",
+		"good_evening": "Bonne soirée",
+		"good_morning": "Bonjour",
+		"how_do_you_feel": "Comment vous sentez-vous?",
+		"how_hungry_are_you": "Quel est votre niveau de faim ?"
+	},
+	"how_tos": {
+		"add_drinks_a": "Depuis l’écran d’accueil, appuyez sur <icon/> en haut à droite pour ajouter vos boissons et leurs détails.",
+		"add_drinks_q": "Comment enregistrer les boissons consommées ?",
+		"android_notifications_q": "Pourquoi ne reçois-je pas de rappels, ou pourquoi sont-ils retardés ?",
+		"android_notifications_a": "Sur Android, le système peut optimiser la batterie pour les applications, ce qui peut retarder ou bloquer les notifications.\nAppuyez <a>ici</a> pour ouvrir les paramètres de votre application et assurez-vous que les notifications sont activées et que l'optimisation de la batterie/l'activité en arrière-plan est réglée sur « Non restreinte/Ne pas optimiser ».",
+		"check_in_a": "Oui, appuyez sur le bouton <icon/> correspondant de l’échelle de faim.",
+		"check_in_q": "Je n'ai pas l'intention de manger. Puis-je simplement indiquer mon niveau de faim/satiété ?",
+		"delete_meal_a": "Appuyez longuement sur le repas dans l'écran Chronologie pour accéder au menu rapide, puis sélectionnez Supprimer.",
+		"delete_meal_q": "Comment puis-je supprimer un repas ?",
+		"edit_meal_details_a": "Appuyez simplement sur le repas dans votre chronologie pour ouvrir l’écran Détails du repas. Depuis cet écran, vous pouvez mettre à jour votre niveau de satiété, ajouter ou modifier des notes, gérer les tags et ajuster d’autres informations liées au repas.",
+		"edit_meal_details_q": "Comment puis-je modifier les détails d'un repas, comme le niveau de satisfaction, les notes ou les étiquettes ?",
+		"not_log_foods_a": "Oui, appuyez longuement sur le bouton correspondant de l’échelle de faim.",
+		"past_meal_q": "Comment puis-je enregistrer un repas passé ?",
+		"post_meal_a": "Vous pouvez appuyer longuement sur le repas dans l'écran Chronologie pour faire apparaître un menu rapide vous permettant de sélectionner l'état post-repas."
 	},
 	"meals": {
 		"mindfulness_level": {
@@ -297,6 +360,9 @@
 		"we_will_turn_on_mindfulness_tracking": "Nous afficherons votre graphique de pleine conscience et les statistiques associées sur la page Tendances.",
 		"welcome": "Bienvenue!",
 		"would_you_like_to_eat_more_mindfully": "Et si on mangeait plus consciemment ?"
+	},
+	"page_titles": {
+		"timeline": "Chronologie"
 	},
 	"paywall": {
 		"already_a_member": "Déjà membre ?",
@@ -417,6 +483,7 @@
 		"yesterday": "Hier"
 	},
 	"tabs": {
-		"more": "Plus"
+		"more": "Plus",
+		"timeline": "Chronologie"
 	}
 }
