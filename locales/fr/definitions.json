@@ -283,7 +283,7 @@
 		"short_description": "Remettez en question les normes établies, écoutez votre corps."
 	},
 	"034_dry_week": {
-		"description": "Bouscule les règles, écoute ton corps.",
+		"description": "<p>Participez au Défi de la <b>Semaine Sans Alcool</b> et découvrez comment une semaine sans alcool peut avoir un impact positif sur vos habitudes alimentaires.</p><p> L'alcool entraîne souvent des envies irrésistibles et des grignotages impulsifs. En l'éliminant, vous développerez une relation plus consciente avec vos choix alimentaires.</p><p> Une semaine pour se ressourcer et adopter de bonnes habitudes !</p>",
 		"name": "Semaine sans alcool",
 		"rules": {
 			"0": "Ne bois pas d’alcool pendant une semaine."
