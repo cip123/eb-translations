@@ -339,7 +339,8 @@
 				"description": "refléter les tendances de l'humeur en lien avec les habitudes alimentaires"
 			},
 			"footer": "Ces données servent uniquement à fournir des informations dans l’application et sont analysées avec vos saisies alimentaires.",
-			"has_already_been_requested": "Les autorisations ont déjà été demandées."
+			"has_already_been_requested": "Les autorisations ont déjà été demandées.",
+			"manage": "Gérer dans Apple Health"
 		}
 	},
 	"home": {
@@ -362,7 +363,8 @@
 		"edit_meal_details_q": "Comment puis-je modifier les détails d'un repas, comme le niveau de satisfaction, les notes ou les étiquettes ?",
 		"not_log_foods_a": "Oui, appuyez longuement sur le bouton correspondant de l’échelle de faim.",
 		"past_meal_q": "Comment puis-je enregistrer un repas passé ?",
-		"post_meal_a": "Vous pouvez appuyer longuement sur le repas dans l'écran Chronologie pour faire apparaître un menu rapide vous permettant de sélectionner l'état post-repas."
+		"post_meal_a": "Vous pouvez appuyer longuement sur le repas dans l'écran Chronologie pour faire apparaître un menu rapide vous permettant de sélectionner l'état post-repas.",
+		"whats_a_smallwin_q": "Qu'est-ce qu'une petite victoire ?"
 	},
 	"hunger_phases": {
 		"-1": "Inconnu"
@@ -392,11 +394,14 @@
 	},
 	"onboarding": {
 		"continue": "Continuer",
+		"our_promise": "Notre promesse",
 		"we_will_turn_on_mindfulness_tracking": "Nous afficherons votre graphique de pleine conscience et les statistiques associées sur la page Tendances.",
 		"welcome": "Bienvenue!",
-		"would_you_like_to_eat_more_mindfully": "Et si on mangeait plus consciemment ?"
+		"would_you_like_to_eat_more_mindfully": "Et si on mangeait plus consciemment ?",
+		"yes_please": "Oui s'il vous plait"
 	},
 	"page_titles": {
+		"add_drink": "Ajouter une boisson",
 		"timeline": "Chronologie"
 	},
 	"paywall": {
