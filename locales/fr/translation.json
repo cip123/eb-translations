@@ -412,6 +412,10 @@
 		"try_free_for_seven_days": "Essayez-le gratuitement pendant 7 jours !",
 		"yearly": "Annuel"
 	},
+	"prompts": {
+		"do_you_want_to_delete_drink": "Voulez-vous supprimer cette boisson ?",
+		"do_you_want_to_delete_meal": "Voulez-vous supprimer ce repas ?"
+	},
 	"reasons": {
 		"boredom": "Ennui",
 		"craving": "Envies",
