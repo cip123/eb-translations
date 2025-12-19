@@ -268,7 +268,7 @@
 		"description": "<p>Chaque envie raconte une histoire. Parfois, c’est l’appel du sucré après le stress, ou du salé quand l’ennui s’installe.</p><p>Ce défi t’invite à prêter attention aux aliments qui te font envie et à ce qui se passe autour de toi quand ces envies apparaissent.</p><p>Enregistre au moins une envie cette semaine et observe les schémas qui se dessinent. C’est là que commence la vraie prise de conscience.</p>",
 		"name": "Détective des envies",
 		"rules": {
-			"0": "Utilise la raison <b>« Cravings 💙 »</b> au moins une fois cette semaine pour enregistrer une envie au moment où elle se présente.",
+			"0": "Utilise la raison « Cravings 💙 » au moins une fois cette semaine pour enregistrer une envie au moment où elle se présente.",
 			"1": "Une semaine"
 		},
 		"short_description": "Observe tes envies et découvre les schémas qui s’en dégagent."
