@@ -680,7 +680,8 @@
 				"24h": "24-Stunden-Format",
 				"language": "Sprache",
 				"liquid_units": "Flüssigkeitseinheiten",
-				"use_metric": "Metrik für Gewicht verwenden"
+				"use_metric": "Metrik für Gewicht verwenden",
+				"week_starts_on_sunday": "Woche beginnt am Sonntag"
 			},
 			"root": {
 				"apple_health": "Apple Health",
@@ -856,6 +857,7 @@
 		"this_image_will_be_permanently_deleted": "Dieses Bild wird dauerhaft gelöscht",
 		"today": "Heute",
 		"tomorrow": "Morgen",
+		"total": "Gesamt",
 		"tracks": "Tracks",
 		"try_again_later": "Etwas ist schief gelaufen. Bitte versuche es später noch einmal.",
 		"try_for_free": "Kostenlos testen",
@@ -933,11 +935,17 @@
 		}
 	},
 	"trends": {
+		"best_streak": "Beste Serie",
+		"current_streak": "Aktuelle Serie",
 		"fullness": "Völlegefühl",
+		"high": "Hoch",
 		"hunger": "Hunger",
 		"hydration": "Flüssigkeitszufuhr",
 		"i_ate_when_hungry": "Ich aß, als ich hungrig war",
+		"i_ate_without_distractions": "Ich aß ohne Ablenkung.",
 		"i_stopped_before_full": "Vor dem Sattsein hörte ich auf",
+		"low": "Niedrig",
+		"medium": "Mittel",
 		"mindfulness": "Achtsamkeit"
 	},
 	"units_of_measure": {
