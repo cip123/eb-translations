@@ -680,7 +680,8 @@
 				"24h": "24 Hour Format",
 				"language": "Language",
 				"liquid_units": "Liquid units",
-				"use_metric": "Use Metric for Weight"
+				"use_metric": "Use Metric for Weight",
+				"week_starts_on_sunday": "Week starts on Sunday"
 			},
 			"root": {
 				"apple_health": "Apple Health",
@@ -856,6 +857,7 @@
 		"this_image_will_be_permanently_deleted": "This image will be permanently deleted",
 		"today": "Today",
 		"tomorrow": "Tomorrow",
+		"total": "Total",
 		"tracks": "Tracks",
 		"try_again_later": "Something went wrong. Please try again later.",
 		"try_for_free": "Try for Free",
@@ -933,11 +935,17 @@
 		}
 	},
 	"trends": {
+		"best_streak": "Best streak",
+		"current_streak": "Current streak",
 		"fullness": "Fullness",
+		"high": "High",
 		"hunger": "Hunger",
 		"hydration": "Hydration",
 		"i_ate_when_hungry": "I ate when hungry",
+		"i_ate_without_distractions": "I ate without distractions",
 		"i_stopped_before_full": "I stopped before full",
+		"low": "Low",
+		"medium": "Medium",
 		"mindfulness": "Mindfulness"
 	},
 	"units_of_measure": {
