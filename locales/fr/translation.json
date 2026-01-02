@@ -445,17 +445,25 @@
 		"continue": "Continuer",
 		"great_to_see_you": "Content de vous voir!",
 		"how_to_be_called": "Comment souhaitez-vous être appelé(e)?",
+		"lets_do_it": "Allons-y ",
+		"lets_set_you_up": "Nous allons vous installer",
 		"maybe_later": "Peut-être plus tard",
 		"no_thanks": "Non, merci",
 		"not_for_me": "Pas pour moi",
 		"not_yet": "Pas encore",
 		"our_promise": "Notre promesse",
+		"track_your_meals": "Suivez vos repas",
+		"turn_it_on": "Allumez-le",
 		"want_to_track_what_drives_you_to_eat": "Vous voulez savoir ce qui vous pousse à manger ?",
+		"we_provide_a_private_space": "Nous vous offrons un espace privé et bienveillant pour explorer et améliorer votre relation à la nourriture. C'est un long chemin, et nous sommes là pour vous accompagner à chaque étape.",
 		"we_think_you_d_love_these": "Nous pensons que vous adorerez ces défis",
 		"we_think_you_d_love_this_track": "Nous pensons que vous adorerez cet ensemble de défis",
 		"we_will_add_the_homemade_tag_1": "Nous ajouterons le ",
+		"we_will_add_the_homemade_tag_2": " étiquette à votre écran de journal alimentaire",
 		"we_will_turn_on_mindfulness_tracking": "Nous afficherons votre graphique de pleine conscience et les statistiques associées sur la page Tendances.",
+		"we_will_prompt_you_to_reflect_on_your_reasons": "Nous vous inviterons à réfléchir aux raisons pour lesquelles vous choisissez de manger alors que vous n'avez pas réellement faim.",
 		"welcome": "Bienvenue!",
+		"would_you_like_to_cook_more": "Vous souhaitez garder une trace de vos repas faits maison ?",
 		"would_you_like_to_eat_more_mindfully": "Et si on mangeait plus consciemment ?",
 		"yes_please": "Oui s'il vous plait"
 	},
@@ -465,23 +473,48 @@
 		"timeline": "Chronologie"
 	},
 	"paywall": {
+		"achieve_your_eating_goals_faster": "Atteignez plus rapidement vos objectifs alimentaires",
 		"already_a_member": "Déjà membre ?",
+		"amplify_your_motivation": "Boostez votre motivation en transformant une alimentation saine en un jeu que vous pouvez gagner!",
+		"billing_starts": "La facturation commence à la fin de votre période d'essai gratuite, sauf si vous annulez.",
+		"discover_how_drinks": "Découvrez comment vos choix de boissons influencent vos habitudes alimentaires.",
+		"earn_badges_live_healthy": "Gagnez des badges, obtenez des indicateurs de progression détaillés et vivez plus rapidement en meilleure santé !",
 		"eating_challenges": "Défis alimentaires",
 		"icloud_sync": "Synchronisation iCloud",
+		"keep_a_drink_log": "Tenez un registre détaillé de toutes vos boissons, des jus de fruits frais à vos cocktails préférés. Analysez l'impact de chaque boisson sur vos habitudes alimentaires.",
 		"monthly": "Mensuel",
+		"plans_renew_automatically": "Les abonnements sont renouvelés automatiquement. Annulation via {{store}}",
+		"restore_subscription": "Rétablir l'abonnement",
+		"see_how_your_beverages": "Découvrez comment vos boissons influencent vos habitudes alimentaires.",
+		"start_one_week_free_trial": "Essai gratuit d'une semaine",
+		"subscribe": "S'abonner",
 		"take_part_in_challenges": "Participez à divers défis alimentaires pour vous aider à vous débarrasser de vos mauvaises habitudes et à accroître votre pleine conscience.",
 		"thank_you_for_supporting": "Merci de soutenir ce projet !",
 		"try_free_for_seven_days": "Essayez-le gratuitement pendant 7 jours !",
+		"unlock_premium_features": "Débloquer les fonctionnalités Premium",
+		"upgrade": "Mise à niveau",
+		"upgrade_now": "Mettez à niveau maintenant",
 		"when_you_upgrade": "Accédez instantanément au suivi des boissons et aux défis liés aux habitudes alimentaires, avec barres de progression et badges de réussite.",
 		"yearly": "Annuel"
+	},
+	"permissions": {
+		"not_allowed_to_access_camera": "Eating Buddy n'est pas autorisée à accéder à la caméra. Veuillez vérifier les autorisations de l'application.",
+		"not_allowed_to_access_the_photos": "Eating Buddy n'est pas autorisée à accéder aux photos. Veuillez vérifier les autorisations de l'application."
 	},
 	"prompts": {
 		"do_you_want_to_delete_drink": "Voulez-vous supprimer cette boisson ?",
 		"do_you_want_to_delete_meal": "Voulez-vous supprimer ce repas ?"
 	},
+	"reason": {
+		"prompts": {
+			"made_you_feel": "Qu'est-ce qui vous a donné envie de manger ?",
+			"specific_reason": "Y a-t-il une raison particulière pour laquelle vous mangez ?"
+		}
+	},
 	"reasons": {
 		"boredom": "Ennui",
 		"craving": "Envies",
+		"eating_out": "Manger au restaurant",
 		"it_was_time": "Il était temps",
 		"other": "Autre ...",
 		"stress": "Stress",
@@ -503,14 +536,23 @@
 		}
 	},
 	"reminders": {
+		"engagement": {
+			"0": {
+				"body": "N'oubliez pas de noter vos repas. Ça ne prend qu'une seconde. 😎"
+			}
+		},
 		"hold_off_timer": {
 			"body": "Était-ce une Petite Victoire pour vous ?"
 		},
 		"offtrack_challenges": "Défis hors parcours",
 		"post_meal": {
+			"time_to_log": "Il est temps de noter comment vous vous êtes senti après votre dernier repas.",
 			"were_you_mindful": "As-tu mangé en pleine conscience ?"
 		},
 		"some_challenges_are_offtrack": "Certains défis sont hors parcours. Jetez un œil rapide pour reprendre le bon chemin."
+	},
+	"reviews": {
+		"rate_us": "Évaluez-nous"
 	},
 	"settings": {
 		"cloud": {
