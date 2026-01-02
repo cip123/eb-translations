@@ -526,19 +526,34 @@
 			"title": "DEUX semaines ! 🧘‍♀️"
 		},
 		"6": {
+			"description": "Incroyable ! Vous avez une meilleure compréhension de vos habitudes alimentaires que 99 % des gens !",
 			"title": "Deux mois complets ! 🌟"
 		},
 		"7": {
+			"description": " Sérieusement ?! Votre journal alimentaire est surhumain !! 🦸",
 			"title": "TROIS mois de Eating Buddy ?!"
 		},
 		"8": {
+			"description": "Vous avez réalisé l'impossible ! Un véritable maître de l'alimentation en pleine conscience.",
 			"title": "QUATRE mois déjà ! 🪷"
 		}
 	},
 	"reminders": {
+		"check_in": "Salut ! C'est l'heure de votre enregistrement.",
 		"engagement": {
 			"0": {
-				"body": "N'oubliez pas de noter vos repas. Ça ne prend qu'une seconde. 😎"
+				"body": "N'oubliez pas de noter vos repas. Ça ne prend qu'une seconde. 😎",
+				"title": "Comment vous sentez-vous aujourd’hui ?"
+			},
+			"1": {
+				"body": "Prenez un moment pour réfléchir avec Eating Buddy. 🧘"
+			},
+			"2": {
+				"body": "Eating Buddy vous offre une vision globale de vos habitudes alimentaires 🔮"
+			},
+			"3": {
+				"body": "Passez nous voir pour enregistrer vos repas et consulter votre alimentation récente.",
+				"title": "Ça fait longtemps ! 😢"
 			}
 		},
 		"hold_off_timer": {
@@ -553,6 +568,15 @@
 	},
 	"reviews": {
 		"rate_us": "Évaluez-nous"
+	},
+	"samples": {
+		"a_bit_dry": "Il faisait un peu sec",
+		"fake_hotdog": "Hot-dog",
+		"homemade_dinner": "Dîner fait maison",
+		"mediterranean_chicken_roulade": "Roulade de poulet méditerranéenne",
+		"mindful_lunch": "Déjeuner en pleine conscience",
+		"press_and_hold_to_delete": "Appuyez longuement pour supprimer",
+		"tap_to_view_or_edit_the_meal_details": "Appuyez pour afficher ou modifier les détails du repas"
 	},
 	"settings": {
 		"cloud": {
@@ -571,15 +595,23 @@
 		},
 		"menu": {
 			"diary_setup": {
+				"ask_for_reason": "Demandez la raison",
 				"my_drinks": "Mes boissons",
 				"my_foods": "Mes aliments",
+				"notifications": "Rappels",
 				"reasons": "Raisons",
 				"tags": "Étiquettes",
 				"trends": "Tendances"
 			},
 			"help": {
+				"contact_us": "Contactez-nous",
+				"privacy": "Politique de Confidentialité",
+				"review": "Vous aimez Eating Buddy ?",
 				"tos": "Conditions d'utilisation",
 				"version": "Version"
+			},
+			"look_and_feel": {
+				"dark_mode": "Mode sombre"
 			},
 			"regional": {
 				"language": "Langue"
