@@ -443,9 +443,17 @@
 		"based_on_your_preferences": "En fonction de vos préférences, nous avons sélectionné ces défis parmi notre vaste collection !",
 		"challenges_are_our_premium_feature": "Les défis sont notre fonctionnalité premium qui offre une manière amusante et structurée de rester sur la bonne voie et d'atteindre vos objectifs.",
 		"continue": "Continuer",
+		"great_to_see_you": "Content de vous voir!",
+		"how_to_be_called": "Comment souhaitez-vous être appelé(e)?",
+		"maybe_later": "Peut-être plus tard",
+		"no_thanks": "Non, merci",
+		"not_for_me": "Pas pour moi",
+		"not_yet": "Pas encore",
 		"our_promise": "Notre promesse",
+		"want_to_track_what_drives_you_to_eat": "Vous voulez savoir ce qui vous pousse à manger ?",
 		"we_think_you_d_love_these": "Nous pensons que vous adorerez ces défis",
 		"we_think_you_d_love_this_track": "Nous pensons que vous adorerez cet ensemble de défis",
+		"we_will_add_the_homemade_tag_1": "Nous ajouterons le ",
 		"we_will_turn_on_mindfulness_tracking": "Nous afficherons votre graphique de pleine conscience et les statistiques associées sur la page Tendances.",
 		"welcome": "Bienvenue!",
 		"would_you_like_to_eat_more_mindfully": "Et si on mangeait plus consciemment ?",
@@ -453,6 +461,7 @@
 	},
 	"page_titles": {
 		"add_drink": "Ajouter une boisson",
+		"settings": "Paramètres",
 		"timeline": "Chronologie"
 	},
 	"paywall": {
@@ -494,6 +503,9 @@
 		}
 	},
 	"reminders": {
+		"hold_off_timer": {
+			"body": "Était-ce une Petite Victoire pour vous ?"
+		},
 		"offtrack_challenges": "Défis hors parcours",
 		"post_meal": {
 			"were_you_mindful": "As-tu mangé en pleine conscience ?"
@@ -590,6 +602,9 @@
 		"challenges": "Défis",
 		"more": "Plus",
 		"timeline": "Chronologie"
+	},
+	"tours": {
+		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie."
 	},
 	"tracks": {
 		"challenges_already_in_progress": "Défis déjà en cours",
