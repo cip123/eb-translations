@@ -680,7 +680,7 @@
 				"24h": "24-Stunden-Format",
 				"language": "Sprache",
 				"liquid_units": "Flüssigkeitseinheiten",
-				"use_metric": "Metrik für Gewicht verwenden",
+				"use_metric": "Metrisches System",
 				"week_starts_on_sunday": "Woche beginnt am Sonntag"
 			},
 			"root": {
