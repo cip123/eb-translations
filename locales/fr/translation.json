@@ -654,5 +654,39 @@
 			"description": "<p>Ce programme de défis est conçu pour vous aider à développer des habitudes alimentaires durables qui favorisent la pleine conscience et la modération."
 		},
 		"please_finish_other_challenges": "Veuillez terminer ou quitter les autres défis avant de commencer ce parcours."
+	},
+	"workouts": {
+		"activities": {
+			"other": "Autre",
+			"paddle_sports": "Sports de pagaie",
+			"pickleball": "Pickleball",
+			"pilates": "Pilates",
+			"play": "Jouer",
+			"preparation_and_recovery": "Préparation et récupération",
+			"racquetball": "Racquetball",
+			"rowing": "Aviron",
+			"rugby": "Rugby",
+			"running": "Course",
+			"sailing": "Voile",
+			"skating_sports": " Sports de glisse",
+			"snow_sports": "Sports de neige",
+			"snowboarding": "Snowboard",
+			"soccer": "Football",
+			"social_dance": "Danse sociale",
+			"softball": "Softball",
+			"squash": "Squash",
+			"stair_climbing": "Monter les escaliers",
+			"stairs": "Escaliers",
+			"step_training": "Step",
+			"surfing_sports": "Surf",
+			"swim_bike_run": "Nager, Vélo, Courir",
+			"swimming": "Natation",
+			"table_tennis": "Tennis de table",
+			"tai_chi": "Tai Chi",
+			"tennis": "Tennis",
+			"track_and_field": "Athlétisme",
+			"traditional_strength_training": "Entraînement de force traditionnel",
+			"transition": "Transition"
+		}
 	}
 }
