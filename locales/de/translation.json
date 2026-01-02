@@ -160,6 +160,22 @@
 		"week_index": "Woche {{index}}",
 		"week_one": "{{count}} Woche"
 	},
+	"distance": {
+		"kilometers": "Kilometer",
+		"miles": "Meilen",
+		"long": {
+			"kilometers_one": "{{count}} Kilometer",
+			"kilometers_other": "{{count}} Kilometer",
+			"miles_one": "{{count}} Meile",
+			"miles_other": "{{count}} Meilen"
+		},
+		"short": {
+			"kilometers_one": "{{count}} km",
+			"kilometers_other": "{{count}} km",
+			"miles_one": "{{count}} mi",
+			"miles_other": "{{count}} mi"
+		}
+	},
 	"drink": {
 		"add_drink": "Getränk hinzufügen",
 		"categories": {
@@ -309,6 +325,22 @@
 		"white_wine": "Weißwein",
 		"wine": "Wein",
 		"wine_cooler": "Weincooler"
+	},
+	"duration": {
+		"hours": "Stunden",
+		"long": {
+			"hours_one": "{{count}} Stunde",
+			"hours_other": "{{count}} Stunden",
+			"minutes_one": "{{count}} Minute",
+			"minutes_other": "{{count}} Minuten"
+		},
+		"minutes": "Minuten",
+		"short": {
+			"hours_one": "{{count}} h",
+			"hours_other": "{{count}} h",
+			"minutes_one": "{{count}} min",
+			"minutes_other": "{{count}} min"
+		}
 	},
 	"food": {
 		"find_or_add": "Essen finden oder hinzufügen",
@@ -497,6 +529,7 @@
 		"do_you_want_to_delete_drink": "Möchtest du dieses Getränk löschen?",
 		"do_you_want_to_delete_meal": "Möchtest du diese Mahlzeit löschen?",
 		"do_you_want_to_delete_water": "Möchtest du diesen Wassereintrag löschen?",
+		"do_you_want_to_delete_workout": "Möchtest du dieses Training löschen?",
 		"do_you_want_to_remove_this_food_item": "Möchtest du dieses Lebensmittel entfernen?"
 	},
 	"reason": {
@@ -769,6 +802,7 @@
 		}
 	},
 	"shared": {
+		"add": "Hinzufügen",
 		"add_food": "Lebensmittel hinzufügen",
 		"allow_eating_buddy_to_access_media_library": "Bitte erlaube Eating Buddy den Zugriff auf die Mediathek",
 		"available": "Verfügbar",
@@ -1052,5 +1086,55 @@
 	"water": {
 		"add_water": "Wasser hinzufügen",
 		"edit_water": "Wasser bearbeiten"
+	},
+	"workouts": {
+		"activities_label": "Aktivitäten",
+		"activities": {
+			"american_football": "American Football",
+			"archery": "Bogenschießen",
+			"australian_football": "Australischer Football",
+			"badminton": "Badminton",
+			"barre": "Barre",
+			"baseball": "Baseball",
+			"basketball": "Basketball",
+			"bowling": "Bowling",
+			"boxing": "Boxen",
+			"cardio_dance": "Cardio-Tanz",
+			"climbing": "Klettern",
+			"cooldown": "Cool-Down",
+			"core_training": "Rumpftraining",
+			"cricket": "Kricket",
+			"cross_country_skiing": "Langlauf",
+			"cross_training": "Cross-Training",
+			"curling": "Curling",
+			"cycling": "Radfahren",
+			"dance": "Tanzen",
+			"dance_inspired_training": "Tanzinspiriertes Training",
+			"disc_sports": "Disc-Sport",
+			"downhill_skiing": "Abfahrtsski",
+			"elliptical": "Elliptisch",
+			"equestrian_sports": "Reitsport",
+			"fencing": "Fechten",
+			"fishing": "Angeln",
+			"fitness_gaming": "Fitness-Spiele",
+			"flexibility": "Flexibilität",
+			"functional_strength_training": "Funktionelles Krafttraining",
+			"golf": "Golf",
+			"gymnastics": "Gymnastik",
+			"hand_cycling": "Handbiken",
+			"handball": "Handball",
+			"hiking": "Wandern",
+			"high_intensity_interval_training": "Hochintensives Intervalltraining",
+			"hockey": "Eishockey",
+			"hunting": "Jagd",
+			"jump_rope": "Seilspringen",
+			"kickboxing": "Kickboxen",
+			"lacrosse": "Lacrosse",
+			"martial_arts": "Kampfsportarten",
+			"mind_and_body": "Geist und Körper",
+			"mixed_cardio": "Gemischtes Cardio",
+			"mixed_metabolic_cardio_training": "Gemischtes metabolisches Cardiotraining",
+			"other": "Andere"
+		}
 	}
 }
