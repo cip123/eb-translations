@@ -160,6 +160,22 @@
 		"week_index": "Semaine {{index}}",
 		"week_one": "{{count}} semaine"
 	},
+	"distance": {
+		"kilometers": "Kilomètres",
+		"miles": "Miles",
+		"long": {
+			"kilometers_one": "{{count}} kilomètre",
+			"kilometers_other": "{{count}} kilomètres",
+			"miles_one": "{{count}} mile",
+			"miles_other": "{{count}} miles"
+		},
+		"short": {
+			"kilometers_one": "{{count}} km",
+			"kilometers_other": "{{count}} km",
+			"miles_one": "{{count}} mi",
+			"miles_other": "{{count}} mi"
+		}
+	},
 	"drink": {
 		"add_drink": "Ajouter une boisson",
 		"categories": {
@@ -309,6 +325,16 @@
 		"white_wine": "Vin blanc",
 		"wine": "Vin",
 		"wine_cooler": "Vin fruité"
+	},
+	"duration": {
+		"hours": "Heures",
+		"long": {
+			"hours_one": "{{count}} heure",
+			"hours_other": "{{count}} heures",
+			"minutes_one": "{{count}} minute",
+			"minutes_other": "{{count}} minutes"
+		},
+		"minutes": "Minutes"
 	},
 	"food": {
 		"find_or_add": "Trouvez ou ajoutez des aliments",
