@@ -334,7 +334,13 @@
 			"minutes_one": "{{count}} minute",
 			"minutes_other": "{{count}} minutes"
 		},
-		"minutes": "Minutes"
+		"minutes": "Minutes",
+		"short": {
+			"hours_one": "{{count}} hr",
+			"hours_other": "{{count}} heures",
+			"minutes_one": "{{count}} min",
+			"minutes_other": "{{count}} mins"
+		}
 	},
 	"food": {
 		"find_or_add": "Trouvez ou ajoutez des aliments",
@@ -366,6 +372,7 @@
 			},
 			"footer": "Ces données servent uniquement à fournir des informations dans l’application et sont analysées avec vos saisies alimentaires.",
 			"has_already_been_requested": "Les autorisations ont déjà été demandées.",
+			"if_no_data_is_shown": "Si aucune donnée ne s'affiche, veuillez vérifier que l'accès est activé pour Eating Buddy dans l'application Apple Health.",
 			"manage": "Gérer dans Apple Health"
 		}
 	},
@@ -388,21 +395,34 @@
 		"edit_meal_details_a": "Appuyez simplement sur le repas dans votre chronologie pour ouvrir l’écran Détails du repas. Depuis cet écran, vous pouvez mettre à jour votre niveau de satiété, ajouter ou modifier des notes, gérer les tags et ajuster d’autres informations liées au repas.",
 		"edit_meal_details_q": "Comment puis-je modifier les détails d'un repas, comme le niveau de satisfaction, les notes ou les étiquettes ?",
 		"not_log_foods_a": "Oui, appuyez longuement sur le bouton correspondant de l’échelle de faim.",
+		"not_log_foods_q": "Noter ce que je mange et pourquoi ne me tente pas du tout. Est-ce que je pourrais simplement indiquer que j'ai mangé sans tout noter ?",
+		"past_meal_a": "Lors de l’ajout d’un repas, appuyez sur l’icône <b>⋮</b> dans le coin supérieur droit. À partir de là, vous pouvez sélectionner le type de repas et définir la date et l’heure.",
 		"past_meal_q": "Comment puis-je enregistrer un repas passé ?",
 		"post_meal_a": "Vous pouvez appuyer longuement sur le repas dans l'écran Chronologie pour faire apparaître un menu rapide vous permettant de sélectionner l'état post-repas.",
+		"post_meal_q": "Comment puis-je rapidement noter ce que je ressens après avoir mangé ?",
+		"whats_a_smallwin_a": "Une petite victoire, c'est quand on s'arrête au lieu de manger malgré une envie qui n'est pas une vraie faim, et que cette envie disparaît. La noter permet de suivre ses progrès et de constater que ces petits moments s'accumulent.",
 		"whats_a_smallwin_q": "Qu'est-ce qu'une petite victoire ?"
 	},
 	"hunger_phases": {
+		"0": "Vorace",
+		"1": "Affamé",
+		"2": "Légèrement affamé",
+		"3": "Neutre",
+		"4": "Légèrement Rassasié",
+		"5": "Rassasié",
+		"6": "Gavé",
 		"-1": "Inconnu"
 	},
 	"meals": {
 		"edit": {
 			"limit": {
 				"images": {
-					"title": "Limite d'images atteinte"
+					"title": "Limite d'images atteinte",
+					"body": "Vous pouvez ajouter jusqu'à 5 images par repas. Supprimez-en une ou commencez un autre repas pour en ajouter d'autres."
 				},
 				"text": {
-					"title": "Limite d'entrée atteinte"
+					"title": "Limite d'entrée atteinte",
+					"body": "Vous pouvez ajouter jusqu'à 5 entrées de texte par repas. Supprimez-en une ou commencez un autre repas pour en ajouter d'autres."
 				}
 			}
 		},
@@ -415,12 +435,17 @@
 		"types": {
 			"breakfast": "Petit-déjeuner",
 			"dinner": "Dîner",
-			"lunch": "Déjeuner"
+			"lunch": "Déjeuner",
+			"snack": "Collation"
 		}
 	},
 	"onboarding": {
+		"based_on_your_preferences": "En fonction de vos préférences, nous avons sélectionné ces défis parmi notre vaste collection !",
+		"challenges_are_our_premium_feature": "Les défis sont notre fonctionnalité premium qui offre une manière amusante et structurée de rester sur la bonne voie et d'atteindre vos objectifs.",
 		"continue": "Continuer",
 		"our_promise": "Notre promesse",
+		"we_think_you_d_love_these": "Nous pensons que vous adorerez ces défis",
+		"we_think_you_d_love_this_track": "Nous pensons que vous adorerez cet ensemble de défis",
 		"we_will_turn_on_mindfulness_tracking": "Nous afficherons votre graphique de pleine conscience et les statistiques associées sur la page Tendances.",
 		"welcome": "Bienvenue!",
 		"would_you_like_to_eat_more_mindfully": "Et si on mangeait plus consciemment ?",
@@ -432,10 +457,13 @@
 	},
 	"paywall": {
 		"already_a_member": "Déjà membre ?",
+		"eating_challenges": "Défis alimentaires",
 		"icloud_sync": "Synchronisation iCloud",
 		"monthly": "Mensuel",
+		"take_part_in_challenges": "Participez à divers défis alimentaires pour vous aider à vous débarrasser de vos mauvaises habitudes et à accroître votre pleine conscience.",
 		"thank_you_for_supporting": "Merci de soutenir ce projet !",
 		"try_free_for_seven_days": "Essayez-le gratuitement pendant 7 jours !",
+		"when_you_upgrade": "Accédez instantanément au suivi des boissons et aux défis liés aux habitudes alimentaires, avec barres de progression et badges de réussite.",
 		"yearly": "Annuel"
 	},
 	"prompts": {
@@ -466,9 +494,11 @@
 		}
 	},
 	"reminders": {
+		"offtrack_challenges": "Défis hors parcours",
 		"post_meal": {
 			"were_you_mindful": "As-tu mangé en pleine conscience ?"
-		}
+		},
+		"some_challenges_are_offtrack": "Certains défis sont hors parcours. Jetez un œil rapide pour reprendre le bon chemin."
 	},
 	"settings": {
 		"cloud": {
@@ -525,9 +555,13 @@
 		"reasons": {
 			"add_reason": "Ajouter une raison",
 			"reason_already_exists": "La raison existe déjà."
+		},
+		"reminders": {
+			"offtrack_challenges": "Défis hors parcours"
 		}
 	},
 	"shared": {
+		"challenges": "Défis",
 		"edit_drink": "Modifier la boisson",
 		"history": "Histoire",
 		"in_progress": "En cours",
@@ -553,7 +587,15 @@
 		"yesterday": "Hier"
 	},
 	"tabs": {
+		"challenges": "Défis",
 		"more": "Plus",
 		"timeline": "Chronologie"
+	},
+	"tracks": {
+		"challenges_already_in_progress": "Défis déjà en cours",
+		"lasting_balance": {
+			"description": "<p>Ce programme de défis est conçu pour vous aider à développer des habitudes alimentaires durables qui favorisent la pleine conscience et la modération."
+		},
+		"please_finish_other_challenges": "Veuillez terminer ou quitter les autres défis avant de commencer ce parcours."
 	}
 }
