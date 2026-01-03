@@ -561,8 +561,21 @@
 			"description": " Voilà deux jours de suivi alimentaire consécutifs!",
 			"title": "Tu n’es qu’à l’échauffement ! 🔥 "
 		},
+		"2": {
+			"description": "Vous progressez super bien dans la compréhension de vos habitudes alimentaires. Continuez d’écouter votre corps !",
+			"title": "🥇 Une semaine complète de suivi !"
+		},
 		"3": {
+			"description": "Vous êtes en train de réinventer votre relation avec la nourriture, un instant de pleine conscience à la fois. Continuez!",
 			"title": "DEUX semaines ! 🧘‍♀️"
+		},
+		"4": {
+			"description": "Impressionnant ! Votre engagement paie, je le ressens. 🪇",
+			"title": "Et voilà, TROIS semaines complètes! "
+		},
+		"5": {
+			"description": "Voilà un mois entier de suivi sur Eating Buddy. Vous êtes une vraie star !",
+			"title": "Sacré artichaut! 🤩"
 		},
 		"6": {
 			"description": "Incroyable ! Vous avez une meilleure compréhension de vos habitudes alimentaires que 99 % des gens !",
@@ -585,10 +598,12 @@
 				"title": "Comment vous sentez-vous aujourd’hui ?"
 			},
 			"1": {
-				"body": "Prenez un moment pour réfléchir avec Eating Buddy. 🧘"
+				"body": "Prenez un moment pour réfléchir avec Eating Buddy. 🧘",
+				"title": "Qu'est-ce qui motive votre alimentation aujourd'hui ?"
 			},
 			"2": {
-				"body": "Eating Buddy vous offre une vision globale de vos habitudes alimentaires 🔮"
+				"body": "Eating Buddy vous offre une vision globale de vos habitudes alimentaires 🔮",
+				"title": "Ne cassez pas votre série !"
 			},
 			"3": {
 				"body": "Passez nous voir pour enregistrer vos repas et consulter votre alimentation récente.",
@@ -596,17 +611,22 @@
 			}
 		},
 		"hold_off_timer": {
-			"body": "Était-ce une Petite Victoire pour vous ?"
+			"body": "Était-ce une Petite Victoire pour vous ?",
+			"title": "Minuteur de pause terminé"
 		},
 		"offtrack_challenges": "Défis hors parcours",
 		"post_meal": {
+			"fullness_check": "Vérification de la satiété",
 			"time_to_log": "Il est temps de noter comment vous vous êtes senti après votre dernier repas.",
 			"were_you_mindful": "As-tu mangé en pleine conscience ?"
 		},
 		"some_challenges_are_offtrack": "Certains défis sont hors parcours. Jetez un œil rapide pour reprendre le bon chemin."
 	},
 	"reviews": {
-		"rate_us": "Évaluez-nous"
+		"if_you_are_enjoying": "Si vous appréciez Eating Buddy, nous vous serions très reconnaissants de laisser un avis sur l'application !\n\nSi vous avez des suggestions d'amélioration, n'hésitez pas à nous les faire savoir.",
+		"rate_us": "Évaluez-nous",
+		"share_feedback": "Partager votre avis ",
+		"we_d_love_your_feedback": "Nous serions ravis d’avoir votre avis!"
 	},
 	"samples": {
 		"a_bit_dry": "Il faisait un peu sec",
