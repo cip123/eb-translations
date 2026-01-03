@@ -690,26 +690,37 @@
 				"notifications": "Rappels",
 				"reasons": "Raisons",
 				"tags": "Étiquettes",
-				"trends": "Tendances"
+				"trends": "Tendances",
+				"use_default_foods": "Utiliser les aliments par défaut"
 			},
 			"help": {
 				"contact_us": "Contactez-nous",
+				"faq": "FAQ",
 				"privacy": "Politique de Confidentialité",
 				"review": "Vous aimez Eating Buddy ?",
 				"tos": "Conditions d'utilisation",
 				"version": "Version"
 			},
 			"look_and_feel": {
-				"dark_mode": "Mode sombre"
+				"dark_mode": "Mode sombre",
+				"haptic_feedback": "Retour haptique"
 			},
 			"regional": {
-				"language": "Langue"
+				"24h": "Format 24 heures",
+				"language": "Langue",
+				"liquid_units": "Unités liquides",
+				"use_metric": "Système métrique",
+				"week_starts_on_sunday": "La semaine commence le Dimanche"
 			},
 			"root": {
+				"apple_health": "Apple Health",
 				"articles": "Articles",
+				"diary_setup": "Configuration du journal",
 				"export_pdf": "Exporter au format PDF",
 				"google_drive": "Google Drive",
 				"icloud": "iCloud",
+				"look_and_feel": "Apparence et ergonomie",
+				"regional": "Paramètres régionaux",
 				"restore_purchases": "Restaurer l’abonnement",
 				"upgrade_to_premium": "Mettre à jour",
 				"help": "Aide"
@@ -721,7 +732,8 @@
 			"no_drinks_found": "Aucune boisson personnalisée trouvée"
 		},
 		"my_foods": {
-			"duplicate_food": "Il existe déjà un aliment portant le même nom."
+			"duplicate_food": "Il existe déjà un aliment portant le même nom.",
+			"no_foods_found": "Aucun aliment personnalisé trouvé"
 		},
 		"export_pdf": {
 			"last_7_days": "7 derniers jours",
