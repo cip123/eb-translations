@@ -635,11 +635,30 @@
 		"mediterranean_chicken_roulade": "Roulade de poulet méditerranéenne",
 		"mindful_lunch": "Déjeuner en pleine conscience",
 		"press_and_hold_to_delete": "Appuyez longuement pour supprimer",
+		"select_the_fullness_level": "Appuyez longuement pour choisir le niveau de satiété",
 		"tap_to_view_or_edit_the_meal_details": "Appuyez pour afficher ou modifier les détails du repas"
 	},
 	"settings": {
 		"cloud": {
+			"always_up_to_date": "Toujours à jour",
 			"automatic": "Automatique",
+			"backing_up_data": "Sauvegarde des données…",
+			"backup_error": "Une erreur s'est produite lors de la sauvegarde. Veuillez nous indiquer si le problème persiste.",
+			"backup_successful": "Sauvegarde réussie",
+			"backup_to_cloud": "Sauvegarde sur {{cloudName}}",
+			"cloud_not_available": "{{cloudName}} n'est pas disponible sur cet appareil. Veuillez vérifier les paramètres {{cloudName}} .",
+			"confirm_delete": "Nous avons trouvé une sauvegarde effectuée le {{date}} . Voulez-vous la supprimer ?",
+			"confirm_delete_zone": "Êtes-vous sûr de vouloir supprimer toutes les données synchronisées d'iCloud ? Cette action est irréversible.",
+			"confirm_restore": "Une sauvegarde effectuée le {{date}} a été trouvée. Voulez-vous la restaurer ? Attention : cette opération écrasera toutes les données existantes !",
+			"delete_error": "Un problème est survenu lors de la suppression de la sauvegarde. Veuillez nous contacter si le problème persiste.",
+			"delete_icloud_data": "Supprimer les données de synchronisation iCloud",
+			"delete_manual_backup": "Supprimer la sauvegarde manuelle",
+			"delete_successful": "Suppression réussie",
+			"deleting_data": "Suppression des données…",
+			"enable_automatic_icloud_sync": "Activez la sauvegarde automatique iCloud et la synchronisation sur tous vos appareils ",
+			"icloud_sync": "Synchronisation iCloud",
+			"icloud_sync_off": "La synchronisation iCloud est désactivée.",
+			"icloud_sync_on": "La synchronisation iCloud est activée",
 			"manual": "Manuel"
 		},
 		"keep_meals": {
