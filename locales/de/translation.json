@@ -80,6 +80,7 @@
 		"small_win": "Kleiner Erfolg",
 		"small_win_tag": "kleiner Erfolg",
 		"state_of_mind": {
+			"how_are_you": "Wie geht es dir?",
 			"labels": {
 				"amazed": "Erstaunt",
 				"amused": "Belustigt",
@@ -129,7 +130,7 @@
 				"5": "Sehr gut",
 				"6": "Großartig"
 			},
-			"what_best_describes_your_mood": "What best describes your mood?"
+			"what_best_describes_your_mood": "Wie ist deine Stimmung gerade?"
 		}
 	},
 	"cloud": {
