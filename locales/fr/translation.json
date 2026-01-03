@@ -659,7 +659,18 @@
 			"icloud_sync": "Synchronisation iCloud",
 			"icloud_sync_off": "La synchronisation iCloud est désactivée.",
 			"icloud_sync_on": "La synchronisation iCloud est activée",
-			"manual": "Manuel"
+			"keep_your_eating_buddy_journal": "Gardez votre journal Eating Buddy sécurisé et accessible sur tous vos appareils grâce à la synchronisation iCloud fluide.",
+			"last_backup": "Dernière sauvegarde",
+			"manual": "Manuel",
+			"manual_disabled": "Toutes les opérations de sauvegarde manuelle sont désactivées tant que la synchronisation iCloud automatique est activée. Pour effectuer une sauvegarde ou une restauration manuelle, veuillez d’abord désactiver la synchronisation iCloud. ",
+			"restore_error": "Impossible de restaurer la sauvegarde. Veuillez nous indiquer si le problème persiste.",
+			"restore_from_cloud": "Restaurer à partir de {{cloudName}}",
+			"restore_not_enough_space": "Impossible de restaurer la sauvegarde. Espace insuffisant.",
+			"restore_successful": "Restauration réussie",
+			"restoring_data": "Restauration des données …",
+			"there_was_a_problem": "Un problème est survenu lors de la connexion à Google Drive. Veuillez nous contacter si le problème persiste.",
+			"to_protect_your_privacy": "Pour protéger votre vie privée, nous stockerons les sauvegardes sur votre Google Drive.",
+			"we_cant_find_backups": "Nous n'avons trouvé aucune sauvegarde de type {{cloudName}} ."
 		},
 		"keep_meals": {
 			"keep0": "Indéfiniment",
