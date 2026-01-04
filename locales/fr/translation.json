@@ -632,8 +632,10 @@
 		"a_bit_dry": "Il faisait un peu sec",
 		"fake_hotdog": "Hot-dog",
 		"homemade_dinner": "Dîner fait maison",
+		"loved_would_make_again": "J'ai adoré. Je le referais sans hésiter.",
 		"mediterranean_chicken_roulade": "Roulade de poulet méditerranéenne",
 		"mindful_lunch": "Déjeuner en pleine conscience",
+		"not_hungry_bad_day": "Je n'ai pas faim. J'ai passé une mauvaise journée au travail.",
 		"press_and_hold_to_delete": "Appuyez longuement pour supprimer",
 		"select_the_fullness_level": "Appuyez longuement pour choisir le niveau de satiété",
 		"tap_to_view_or_edit_the_meal_details": "Appuyez pour afficher ou modifier les détails du repas"
@@ -673,6 +675,7 @@
 			"we_cant_find_backups": "Nous n'avons trouvé aucune sauvegarde de type {{cloudName}} ."
 		},
 		"keep_meals": {
+			"keep_details": "Ce paramètre contrôle la durée pendant laquelle les repas sont stockés sur votre appareil et dans iCloud.",
 			"keep0": "Indéfiniment",
 			"keep30": "30 jours",
 			"keep90": "90 jours",
