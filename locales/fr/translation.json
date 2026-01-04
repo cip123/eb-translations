@@ -740,14 +740,41 @@
 		},
 		"export_pdf": {
 			"last_7_days": "7 derniers jours",
-			"last_30_days": "30 derniers jours"
+			"last_30_days": "30 derniers jours",
+			"missing_both": {
+				"title": "Plage de dates obligatoire",
+				"message": "Sélectionnez une date de début et une date de fin pour continuer."
+			},
+			"missing_start": {
+				"title": "Date de début obligatoire",
+				"message": "Choisissez une date de début pour continuer."
+			},
+			"missing_end": {
+				"title": "Date de fin obligatoire",
+				"message": "Choisissez une date de fin pour continuer."
+			},
+			"select_date_range": "Sélectionnez une plage de dates."
 		},
 		"reasons": {
 			"add_reason": "Ajouter une raison",
-			"reason_already_exists": "La raison existe déjà."
+			"choose_one": "Choisissez-en un",
+			"do_you_want_to_delete_this_reason": "Voulez-vous supprimer ce motif?",
+			"no_reasons_entered": "Aucune raison saisie",
+			"reason_already_exists": "La raison existe déjà.",
+			"when_should_we_ask": "Quand Eating Buddy devrait-il demander une raison ?"
+		},
+		"regional": {
+			"ml": "ml",
+			"oz": "oz (US)",
+			"ozImperial": "oz (Impérial)"
 		},
 		"reminders": {
-			"offtrack_challenges": "Défis hors parcours"
+			"daily": "Rappels quotidiens",
+			"minutes_one": "{{count}} minute",
+			"minutes_other": "{{count}} minutes",
+			"not_allowed_to_send": "Eating Buddy n'est pas autorisé à envoyer de notifications.",
+			"offtrack_challenges": "Défis hors parcours",
+			"settings": "paramètres"
 		}
 	},
 	"shared": {
