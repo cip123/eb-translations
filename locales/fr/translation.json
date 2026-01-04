@@ -782,6 +782,12 @@
 		"congratulations": "Félicitations!",
 		"device": "Appareil",
 		"edit_drink": "Modifier la boisson",
+		"error_saving_photo": {
+			"description": "Impossible d’enregistrer l’image. L’espace de stockage est peut-être insuffisant ou un autre problème est survenu. Veuillez vérifier votre stockage ou réessayer plus tard."
+		},
+		"error_saving_record": {
+			"description": "Un problème est survenu lors de l'enregistrement de vos données. Veuillez redémarrer l'application et réessayer. Si le problème persiste, veuillez nous contacter."
+		},
 		"foods": "Aliments",
 		"history": "Histoire",
 		"in_progress": "En cours",
@@ -806,9 +812,14 @@
 		"read": "Lire",
 		"reason": "Raison",
 		"retake": "Reprendre",
+		"save_image_to_media_library": "Souhaitez-vous enregistrer cette image dans la médiathèque ?",
+		"settings": "Paramètres",
 		"tags": "Étiquettes",
+		"this_image_will_be_permanently_deleted": "Cette image sera supprimée définitivement.",
 		"today": "Aujourd'hui",
 		"tomorrow": "Demain",
+		"total": "Total",
+		"try_again_later": "Une erreur s'est produite. Veuillez réessayer plus tard.",
 		"try_for_free": "Essai gratuit",
 		"water": "Eau",
 		"workouts": "Entraînements",
@@ -821,6 +832,8 @@
 		"timeline": "Chronologie"
 	},
 	"tours": {
+		"congratulations_your_first_meal": "Félicitations ! Vous avez enregistré votre premier repas.",
+		"press_and_hold": "Appuyez longuement pour enregistrer rapidement un repas sans ajouter d'aliments.",
 		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie."
 	},
 	"tracks": {
