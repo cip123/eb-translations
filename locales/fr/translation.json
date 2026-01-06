@@ -890,6 +890,18 @@
 		},
 		"please_finish_other_challenges": "Veuillez terminer ou quitter les autres défis avant de commencer ce parcours."
 	},
+	"units_of_measure": {
+		"bag": "sachet",
+		"bag_one": "{{count}} sachet",
+		"bag_other": "{{count}} sachets",
+		"bag_abbr_one": "{{count}} sachet",
+		"bag_abbr_other": "{{count}} sachets",
+		"bite": "bouchée",
+		"bite_one": "{{count}} bouchée",
+		"bite_other": "{{count}} bouchées",
+		"bite_abbr_one": "{{count}} bouchée",
+		"bite_abbr_other": "{{count}} bouchées"
+	},
 	"water": {
 		"add_water": "Ajouter de l'eau",
 		"edit_water": "Modifier l'eau"
