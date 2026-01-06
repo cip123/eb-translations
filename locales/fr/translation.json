@@ -688,10 +688,13 @@
 		"menu": {
 			"diary_setup": {
 				"ask_for_reason": "Demandez la raison",
+				"keep_meals": "Conserver les repas",
 				"my_drinks": "Mes boissons",
 				"my_foods": "Mes aliments",
 				"notifications": "Rappels",
+				"post_meal_icons": "Icônes de satiété",
 				"reasons": "Raisons",
+				"sort_daily_meals": "Repas récents en premier",
 				"tags": "Étiquettes",
 				"trends": "Tendances",
 				"use_default_foods": "Utiliser les aliments par défaut"
@@ -759,6 +762,9 @@
 			"add_reason": "Ajouter une raison",
 			"choose_one": "Choisissez-en un",
 			"do_you_want_to_delete_this_reason": "Voulez-vous supprimer ce motif?",
+			"edit_reason": "Modifier le motif",
+			"emojis_allowed": "Émojis autorisés 😊",
+			"icon_optional": "Icône (facultatif)",
 			"no_reasons_entered": "Aucune raison saisie",
 			"reason_already_exists": "La raison existe déjà.",
 			"when_should_we_ask": "Quand Eating Buddy devrait-il demander une raison ?"
@@ -774,12 +780,33 @@
 			"minutes_other": "{{count}} minutes",
 			"not_allowed_to_send": "Eating Buddy n'est pas autorisé à envoyer de notifications.",
 			"offtrack_challenges": "Défis hors parcours",
+			"post_meal": "Rappel après repas",
 			"settings": "paramètres"
+		},
+		"subscriptions": {
+			"not_found": "Aucun abonnement actif trouvé",
+			"restored_successfully": "Abonnement rétabli avec succès"
+		},
+		"tags": {
+			"add_tag": "Ajouter une étiquette",
+			"do_you_want_to_delete_tag": "Voulez-vous supprimer cette étiquette ?",
+			"edit_tag": "Modifier l’étiquette",
+			"no_tags_entered": "Aucune étiquette saisie",
+			"tag_already_exists": "l'étiquette existe déjà"
 		}
 	},
 	"shared": {
+		"add": "Ajouter",
+		"add_food": "Ajouter un aliment",
+		"allow_eating_buddy_to_access_media_library": "Veuillez autoriser Eating Buddy à accéder à la médiathèque",
+		"cancel": "Annuler",
+		"category": "Catégorie",
 		"challenges": "Défis",
+		"confirm": "Confirmer",
 		"congratulations": "Félicitations!",
+		"continue": "Continuer",
+		"delete": "Supprimer",
+		"delete_meal_image": "Supprimer l'image du repas ?",
 		"device": "Appareil",
 		"edit_drink": "Modifier la boisson",
 		"error_saving_photo": {
@@ -789,8 +816,12 @@
 			"description": "Un problème est survenu lors de l'enregistrement de vos données. Veuillez redémarrer l'application et réessayer. Si le problème persiste, veuillez nous contacter."
 		},
 		"foods": "Aliments",
+		"get_started": "Commencer",
 		"history": "Histoire",
+		"just_log_meal": "Simplement enregistrer un repas",
 		"in_progress": "En cours",
+		"items_added_one": "<b>{{count}}</b> élément ajouté",
+		"items_added_other": "<b>{{count}}</b> éléments ajoutés",
 		"later": "Peut-être plus tard",
 		"meals": "Repas",
 		"meals_one": "{{count}} repas",
@@ -799,6 +830,7 @@
 		"name": "Nom",
 		"never": "Jamais",
 		"new_drink": "Nouvelle boisson",
+		"new_food": "Nouvel aliment",
 		"next": "Suivant",
 		"no": "Non",
 		"no_data": "Aucune donnée",
