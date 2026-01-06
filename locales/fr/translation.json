@@ -900,7 +900,12 @@
 		"bite_one": "{{count}} bouchée",
 		"bite_other": "{{count}} bouchées",
 		"bite_abbr_one": "{{count}} bouchée",
-		"bite_abbr_other": "{{count}} bouchées"
+		"bite_abbr_other": "{{count}} bouchées",
+		"slice": "tranche",
+		"slice_one": "{{count}} tranche",
+		"slice_other": "{{count}} tranches",
+		"slice_abbr_one": "{{count}} tranche",
+		"slice_abbr_other": "{{count}} tranches"
 	},
 	"water": {
 		"add_water": "Ajouter de l'eau",
