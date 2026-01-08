@@ -371,6 +371,10 @@
 				"title": "State of Mind",
 				"description": "to reflect mood trends in relation to eating habits"
 			},
+			"sleep": {
+				"title": "Sleep",
+				"description": "to understand how sleep patterns relate to eating habits and overall wellbeing"
+			},
 			"footer": "This data is used only to provide insights inside the app and is analyzed together with your eating entries.",
 			"has_already_been_requested": "Permissions have already been requested",
 			"if_no_data_is_shown": "If no data is shown, please check that access is enabled for Eating Buddy in the Apple Health app.",
@@ -905,6 +909,9 @@
 		"workouts": "Workouts",
 		"yes": "Yes",
 		"yesterday": "Yesterday"
+	},
+	"sleep": {
+		"title": "Sleep"
 	},
 	"tabs": {
 		"challenges": "Challenges",
