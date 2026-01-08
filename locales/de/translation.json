@@ -371,6 +371,10 @@
 				"title": "Stimmung",
 				"description": "um Stimmungstrends im Zusammenhang mit Essgewohnheiten widerzuspiegeln"
 			},
+			"sleep": {
+				"title": "Schlaf",
+				"description": "um zu verstehen, wie Schlafmuster mit Essgewohnheiten und dem allgemeinen Wohlbefinden zusammenhängen"
+			},
 			"footer": "Diese Daten werden ausschließlich verwendet, um Einblicke innerhalb der App zu liefern, und gemeinsam mit deinen Essensprotokollen analysiert.",
 			"has_already_been_requested": "Berechtigungen wurden bereits angefordert",
 			"if_no_data_is_shown": "Wenn keine Daten angezeigt werden, überprüfe bitte, ob der Zugriff für Eating Buddy in der Apple-Health-App aktiviert ist.",
@@ -905,6 +909,9 @@
 		"workouts": "Trainingseinheiten",
 		"yes": "Ja",
 		"yesterday": "Gestern"
+	},
+	"sleep": {
+		"title": "Schlaf"
 	},
 	"tabs": {
 		"challenges": "Challenges",
