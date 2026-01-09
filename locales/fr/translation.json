@@ -530,6 +530,7 @@
 		"4": "Trop rassasié"
 	},
 	"prompts": {
+		"do_you_want_to_delete_checkin": "Voulez-vous supprimer cet check-in?",
 		"do_you_want_to_delete_drink": "Voulez-vous supprimer cette boisson ?",
 		"do_you_want_to_delete_meal": "Voulez-vous supprimer ce repas ?",
 		"do_you_want_to_delete_water": "Voulez-vous supprimer cette entrée d'eau ?",
@@ -595,7 +596,7 @@
 		}
 	},
 	"reminders": {
-		"check_in": "Salut ! C'est l'heure de votre enregistrement.",
+		"check_in": "Salut! C'est l'heure de votre check-in ",
 		"engagement": {
 			"0": {
 				"body": "N'oubliez pas de noter vos repas. Ça ne prend qu'une seconde. 😎",
@@ -747,6 +748,7 @@
 			"no_foods_found": "Aucun aliment personnalisé trouvé"
 		},
 		"export_pdf": {
+			"custom": "Personnalisé",
 			"last_7_days": "7 derniers jours",
 			"last_30_days": "30 derniers jours",
 			"missing_both": {
@@ -781,6 +783,7 @@
 		},
 		"reminders": {
 			"daily": "Rappels quotidiens",
+			"hold_off_timer": "Minuteur de pause",
 			"minutes_one": "{{count}} minute",
 			"minutes_other": "{{count}} minutes",
 			"not_allowed_to_send": "Eating Buddy n'est pas autorisé à envoyer de notifications.",
@@ -807,6 +810,8 @@
 		"cancel": "Annuler",
 		"category": "Catégorie",
 		"challenges": "Défis",
+		"check_in": "Check-in ",
+		"check_ins": "Check-ins",
 		"confirm": "Confirmer",
 		"congratulations": "Félicitations!",
 		"continue": "Continuer",
@@ -814,10 +819,13 @@
 		"delete_meal_image": "Supprimer l'image du repas ?",
 		"device": "Appareil",
 		"edit_drink": "Modifier la boisson",
+		"edit_food": "Modifier l’aliment",
 		"error_saving_photo": {
+			"title": "Photo non enregistrée",
 			"description": "Impossible d’enregistrer l’image. L’espace de stockage est peut-être insuffisant ou un autre problème est survenu. Veuillez vérifier votre stockage ou réessayer plus tard."
 		},
 		"error_saving_record": {
+			"title": "Erreur lors de l’enregistrement",
 			"description": "Un problème est survenu lors de l'enregistrement de vos données. Veuillez redémarrer l'application et réessayer. Si le problème persiste, veuillez nous contacter."
 		},
 		"foods": "Aliments",
@@ -894,16 +902,20 @@
 		"congratulations_your_first_meal": "Félicitations ! Vous avez enregistré votre premier repas.",
 		"press_and_hold": "Appuyez longuement pour enregistrer rapidement un repas sans ajouter d'aliments.",
 		"press_and_hold_to_quickly_add_it_without_details": "Appuyez longuement pour en ajouter un rapidement, sans détails.",
+		"regular_check-ins_are_a_great_way": "Les check-ins régulières sont un excellent moyen d’être à l’écoute des signaux de votre corps",
 		"sample_homemade_meal": "C’est un repas fait maison. Je l’ai mangé même si je n’avais pas faim et j’ai fini par manger un peu plus que nécessaire.",
 		"sample_mindful_meal": "C’est un repas exemple. Je l’ai mangé en ayant faim, en restant attentif à ce que je faisais, et je me suis arrêté avant d’être rassasié.",
 		"select_reason": "Si vous n’avez pas faim, vous pouvez indiquer pourquoi vous mangez.",
-		"select_the_check_in_button": "Sélectionnez votre niveau de faim actuel.",
+		"select_the_check_in_button": "Sélectionnez votre niveau de faim actuel",
 		"select_your_hunger_level": "Sélectionnez votre niveau de faim pour enregistrer ce que vous mangez.",
 		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie.",
 		"tap_the_glass_icon": "Appuyez sur l’icône en forme de verre pour ajouter des boissons",
 		"thanks_for_taking_the_tour": "Merci d’avoir suivi le tour!",
 		"try_it": "Essayez!",
-		"well_done": "Bravo!"
+		"use_checkin": "Appuyez sur le bouton Check-in pour suivre votre satiété toute la journée.",
+		"use_the_check-in_button": "Appuyez sur le bouton Check-in pour suivre votre faim toute la journée",
+		"well_done": "Bravo!",
+		"would_you_like_to_be_reminded_to_check_in": "Voulez-vous recevoir un rappel pour faire un check-in trois fois par jour ?"
 	},
 	"tracks": {
 		"basic": {
@@ -938,6 +950,12 @@
 		"bite_other": "{{count}} bouchées",
 		"bite_abbr_one": "{{count}} bouchée",
 		"bite_abbr_other": "{{count}} bouchées",
+		"pint": "pinte",
+		"pint_one": "{{count}} pinte",
+		"pint_other": "{{count}} pintes",
+		"serv": "portion",
+		"serv_one": "{{count}} portion",
+		"serv_other": "{{count}} portions",
 		"slice": "tranche",
 		"slice_one": "{{count}} tranche",
 		"slice_other": "{{count}} tranches",
@@ -1024,8 +1042,22 @@
 			"tennis": "Tennis",
 			"track_and_field": "Athlétisme",
 			"traditional_strength_training": "Entraînement de force traditionnel",
-			"transition": "Transition"
+			"transition": "Transition",
+			"underwater_diving": "Plongée sous-marine",
+			"volleyball": "Volleyball",
+			"walking": "Marche",
+			"water_fitness": "Fitness aquatique",
+			"water_polo": "Water-polo",
+			"water_sports": "Sports nautiques",
+			"wrestling": "Lutte",
+			"yoga": "Yoga"
 		},
-		"add_workout": "Ajouter un entraînement"
+		"add_workout": "Ajouter un entraînement",
+		"activity_type": "Type d’activité",
+		"details": "Détails",
+		"distance": "Distance",
+		"duration": "Durée",
+		"edit_workout": "Modifier l’entraînement",
+		"start": "Début"
 	}
 }
