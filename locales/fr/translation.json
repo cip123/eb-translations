@@ -739,7 +739,8 @@
 		"my_drinks": {
 			"add_drink": "Ajouter une boisson",
 			"duplicate_drink": "Il existe déjà une boisson portant le même nom.",
-			"no_drinks_found": "Aucune boisson personnalisée trouvée"
+			"no_drinks_found": "Aucune boisson personnalisée trouvée",
+			"save_drink": "Enregistrer la boisson"
 		},
 		"my_foods": {
 			"duplicate_food": "Il existe déjà un aliment portant le même nom.",
@@ -845,13 +846,17 @@
 		"nothing_here": "Rien ici",
 		"off": "Désactivé",
 		"please_type_at_least_characters": "Veuillez saisir au moins {{count}} caractères",
+		"plus_add_item": "Ajouter un élément",
 		"press_to_add": "Introuvable. Appuyez sur l'icône plus pour l'ajouter",
 		"previous": "Précédent",
 		"read": "Lire",
 		"reason": "Raison",
 		"reorder": "Réorganiser",
 		"retake": "Reprendre",
+		"save_and_add_more_food": "Sauvegarder et ajouter",
+		"save_food": "Enregistrer l’aliment",
 		"save_image_to_media_library": "Souhaitez-vous enregistrer cette image dans la médiathèque ?",
+		"save_to_photos": "Enregistrer dans la galerie",
 		"see_all": "Voir tout",
 		"select_one": "Sélectionnez-en un",
 		"set_as_cover": "Définir comme couverture",
@@ -885,7 +890,9 @@
 	"tours": {
 		"congratulations_your_first_meal": "Félicitations ! Vous avez enregistré votre premier repas.",
 		"press_and_hold": "Appuyez longuement pour enregistrer rapidement un repas sans ajouter d'aliments.",
-		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie."
+		"press_and_hold_to_quickly_add_it_without_details": "Appuyez longuement pour en ajouter un rapidement, sans détails.",
+		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie.",
+		"tap_the_glass_icon": "Appuyez sur l’icône en forme de verre pour ajouter des boissons"
 	},
 	"tracks": {
 		"challenges_already_in_progress": "Défis déjà en cours",
@@ -992,6 +999,7 @@
 			"track_and_field": "Athlétisme",
 			"traditional_strength_training": "Entraînement de force traditionnel",
 			"transition": "Transition"
-		}
+		},
+		"add_workout": "Ajouter un entraînement"
 	}
 }
