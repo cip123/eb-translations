@@ -372,7 +372,8 @@
 				"description": "refléter les tendances de l'humeur en lien avec les habitudes alimentaires"
 			},
 			"sleep": {
-				"title": "Sommeil"
+				"title": "Sommeil",
+				"description": "pour comprendre le lien entre le sommeil, l’alimentation et le bien-être général"
 			},
 			"footer": "Ces données servent uniquement à fournir des informations dans l’application et sont analysées avec vos saisies alimentaires.",
 			"has_already_been_requested": "Les autorisations ont déjà été demandées.",
