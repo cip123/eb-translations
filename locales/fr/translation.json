@@ -882,6 +882,9 @@
 		"yes": "Oui",
 		"yesterday": "Hier"
 	},
+	"sleep": {
+		"title": "Sommeil"
+	},
 	"tabs": {
 		"challenges": "Défis",
 		"more": "Plus",
@@ -891,15 +894,38 @@
 		"congratulations_your_first_meal": "Félicitations ! Vous avez enregistré votre premier repas.",
 		"press_and_hold": "Appuyez longuement pour enregistrer rapidement un repas sans ajouter d'aliments.",
 		"press_and_hold_to_quickly_add_it_without_details": "Appuyez longuement pour en ajouter un rapidement, sans détails.",
+		"sample_homemade_meal": "C’est un repas fait maison. Je l’ai mangé même si je n’avais pas faim et j’ai fini par manger un peu plus que nécessaire.",
+		"sample_mindful_meal": "C’est un repas exemple. Je l’ai mangé en ayant faim, en restant attentif à ce que je faisais, et je me suis arrêté avant d’être rassasié.",
+		"select_reason": "Si vous n’avez pas faim, vous pouvez indiquer pourquoi vous mangez.",
+		"select_the_check_in_button": "Sélectionnez votre niveau de faim actuel.",
+		"select_your_hunger_level": "Sélectionnez votre niveau de faim pour enregistrer ce que vous mangez.",
 		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie.",
-		"tap_the_glass_icon": "Appuyez sur l’icône en forme de verre pour ajouter des boissons"
+		"tap_the_glass_icon": "Appuyez sur l’icône en forme de verre pour ajouter des boissons",
+		"thanks_for_taking_the_tour": "Merci d’avoir suivi le tour!",
+		"try_it": "Essayez!",
+		"well_done": "Bravo!"
 	},
 	"tracks": {
+		"basic": {
+			"icon": "🌱",
+			"description": "<p>Suivez vos habitudes alimentaires pendant <b>6 jours</b>.</p> <p>Avant, pendant et après vos repas, écoutez votre faim, restez attentif et notez votre satiété.</p>"
+		},
 		"challenges_already_in_progress": "Défis déjà en cours",
+		"all_progress_will_be_lost": "Toute progression sera perdue",
 		"lasting_balance": {
+			"icon": "🌳",
 			"description": "<p>Ce programme de défis est conçu pour vous aider à développer des habitudes alimentaires durables qui favorisent la pleine conscience et la modération."
 		},
-		"please_finish_other_challenges": "Veuillez terminer ou quitter les autres défis avant de commencer ce parcours."
+		"please_finish_other_challenges": "Veuillez terminer ou quitter les autres défis avant de commencer ce parcours.",
+		"tune_in": {
+			"icon": "🌿"
+		}
+	},
+	"trends": {
+		"best_streak": "Meilleure série",
+		"current_streak": "Série en cours",
+		"hunger": "Faim",
+		"hydration": "Hydratation"
 	},
 	"units_of_measure": {
 		"bag": "sachet",
