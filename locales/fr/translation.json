@@ -371,6 +371,9 @@
 				"title": "État d'esprit",
 				"description": "refléter les tendances de l'humeur en lien avec les habitudes alimentaires"
 			},
+			"sleep": {
+				"title": "Sommeil"
+			},
 			"footer": "Ces données servent uniquement à fournir des informations dans l’application et sont analysées avec vos saisies alimentaires.",
 			"has_already_been_requested": "Les autorisations ont déjà été demandées.",
 			"if_no_data_is_shown": "Si aucune donnée ne s'affiche, veuillez vérifier que l'accès est activé pour Eating Buddy dans l'application Apple Health.",
