@@ -807,6 +807,7 @@
 		"add": "Ajouter",
 		"add_food": "Ajouter un aliment",
 		"allow_eating_buddy_to_access_media_library": "Veuillez autoriser Eating Buddy à accéder à la médiathèque",
+		"available": "Disponible",
 		"cancel": "Annuler",
 		"category": "Catégorie",
 		"challenges": "Défis",
@@ -828,6 +829,7 @@
 			"title": "Erreur lors de l’enregistrement",
 			"description": "Un problème est survenu lors de l'enregistrement de vos données. Veuillez redémarrer l'application et réessayer. Si le problème persiste, veuillez nous contacter."
 		},
+		"finish": "Terminer",
 		"foods": "Aliments",
 		"get_started": "Commencer",
 		"history": "Histoire",
@@ -853,6 +855,7 @@
 		"notes": "Notes",
 		"nothing_here": "Rien ici",
 		"off": "Désactivé",
+		"ok": "OK",
 		"please_type_at_least_characters": "Veuillez saisir au moins {{count}} caractères",
 		"plus_add_item": "Ajouter un élément",
 		"press_to_add": "Introuvable. Appuyez sur l'icône plus pour l'ajouter",
@@ -861,10 +864,13 @@
 		"reason": "Raison",
 		"reorder": "Réorganiser",
 		"retake": "Reprendre",
+		"sample": "exemple",
+		"save": "Enregistrer",
 		"save_and_add_more_food": "Sauvegarder et ajouter",
 		"save_food": "Enregistrer l’aliment",
 		"save_image_to_media_library": "Souhaitez-vous enregistrer cette image dans la médiathèque ?",
 		"save_to_photos": "Enregistrer dans la galerie",
+		"search": "Rechercher",
 		"see_all": "Voir tout",
 		"select_one": "Sélectionnez-en un",
 		"set_as_cover": "Définir comme couverture",
@@ -896,12 +902,15 @@
 	"tabs": {
 		"challenges": "Défis",
 		"more": "Plus",
-		"timeline": "Chronologie"
+		"timeline": "Chronologie",
+		"trends": "Tendances"
 	},
 	"tours": {
 		"congratulations_your_first_meal": "Félicitations ! Vous avez enregistré votre premier repas.",
+		"enabling_notifications": "Activer les notifications vous aidera à vous souvenir de noter comment vos repas vous ont fait sentir.",
 		"press_and_hold": "Appuyez longuement pour enregistrer rapidement un repas sans ajouter d'aliments.",
 		"press_and_hold_to_quickly_add_it_without_details": "Appuyez longuement pour en ajouter un rapidement, sans détails.",
+		"rate_urge": "Évaluez l’intensité de votre envie de manger en ce moment.",
 		"regular_check-ins_are_a_great_way": "Les check-ins régulières sont un excellent moyen d’être à l’écoute des signaux de votre corps",
 		"sample_homemade_meal": "C’est un repas fait maison. Je l’ai mangé même si je n’avais pas faim et j’ai fini par manger un peu plus que nécessaire.",
 		"sample_mindful_meal": "C’est un repas exemple. Je l’ai mangé en ayant faim, en restant attentif à ce que je faisais, et je me suis arrêté avant d’être rassasié.",
@@ -913,6 +922,7 @@
 		"thanks_for_taking_the_tour": "Merci d’avoir suivi le tour!",
 		"try_it": "Essayez!",
 		"use_checkin": "Appuyez sur le bouton Check-in pour suivre votre satiété toute la journée.",
+		"use_hold_off_timer": "Utilisez ceci lorsque vous ressentez l’envie de manger alors que vous n’avez pas faim.\nPrenez un instant pour faire une pause et voir si la gourmandise passe.",
 		"use_the_check-in_button": "Appuyez sur le bouton Check-in pour suivre votre faim toute la journée",
 		"well_done": "Bravo!",
 		"would_you_like_to_be_reminded_to_check_in": "Voulez-vous recevoir un rappel pour faire un check-in trois fois par jour ?"
@@ -920,24 +930,30 @@
 	"tracks": {
 		"basic": {
 			"icon": "🌱",
+			"short_description": "Développez votre conscience des signaux de votre corps.",
 			"description": "<p>Suivez vos habitudes alimentaires pendant <b>6 jours</b>.</p> <p>Avant, pendant et après vos repas, écoutez votre faim, restez attentif et notez votre satiété.</p>"
 		},
 		"challenges_already_in_progress": "Défis déjà en cours",
 		"all_progress_will_be_lost": "Toute progression sera perdue",
 		"lasting_balance": {
 			"icon": "🌳",
+			"short_description": "Transformez vos bonnes habitudes en routines durables.",
 			"description": "<p>Ce programme de défis est conçu pour vous aider à développer des habitudes alimentaires durables qui favorisent la pleine conscience et la modération."
 		},
 		"please_finish_other_challenges": "Veuillez terminer ou quitter les autres défis avant de commencer ce parcours.",
 		"tune_in": {
-			"icon": "🌿"
+			"icon": "🌿",
+			"short_description": "Découvrez et adoptez des habitudes alimentaires plus saines.",
+			"description": "Découvrez l’alimentation consciente en écoutant votre corps, en savourant pleinement vos repas, en notant vos impressions et en pratiquant l’équilibre, surtout le soir."
 		}
 	},
 	"trends": {
 		"best_streak": "Meilleure série",
 		"current_streak": "Série en cours",
 		"hunger": "Faim",
-		"hydration": "Hydratation"
+		"hydration": "Hydratation",
+		"i_ate_when_hungry": "J’ai mangé quand j’avais faim",
+		"i_ate_without_distractions": "J’ai mangé sans distractions"
 	},
 	"units_of_measure": {
 		"bag": "sachet",
@@ -950,6 +966,18 @@
 		"bite_other": "{{count}} bouchées",
 		"bite_abbr_one": "{{count}} bouchée",
 		"bite_abbr_other": "{{count}} bouchées",
+		"bottle": "bouteille",
+		"bottle_one": "{{count}} bouteille",
+		"bottle_other": "{{count}} bouteilles",
+		"can": "canette",
+		"can_one": "{{count}} canette",
+		"can_other": "{{count}} canettes",
+		"cup": "tasse",
+		"cup_one": "{{count}} tasse",
+		"cup_other": "{{count}} tasses",
+		"glass": "verre",
+		"glass_one": "{{count}} verre",
+		"glass_other": "{{count}} verres",
 		"pint": "pinte",
 		"pint_one": "{{count}} pinte",
 		"pint_other": "{{count}} pintes",
