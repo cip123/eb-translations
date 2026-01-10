@@ -533,6 +533,7 @@
 		"do_you_want_to_delete_checkin": "Möchtest du dieses Check-in löschen?",
 		"do_you_want_to_delete_drink": "Möchtest du dieses Getränk löschen?",
 		"do_you_want_to_delete_meal": "Möchtest du diese Mahlzeit löschen?",
+		"do_you_want_to_delete_sleep": "Möchtest du diesen Schlaf-Eintrag löschen?",
 		"do_you_want_to_delete_water": "Möchtest du diesen Wassereintrag löschen?",
 		"do_you_want_to_delete_workout": "Möchtest du dieses Training löschen?",
 		"do_you_want_to_remove_this_food_item": "Möchtest du dieses Lebensmittel entfernen?"
@@ -911,7 +912,13 @@
 		"yesterday": "Gestern"
 	},
 	"sleep": {
-		"title": "Schlaf"
+		"add_sleep": "Schlaf hinzufügen",
+		"edit_sleep": "Schlaf bearbeiten",
+		"fell_asleep": "Eingeschlafen",
+		"fell_asleep_must_be_earlier": "Einschlafen muss vor dem Aufwachen liegen",
+		"invalid_sleep_time": "Ungültige Schlafzeit",
+		"title": "Schlaf",
+		"woke_up": "Aufgewacht"
 	},
 	"tabs": {
 		"challenges": "Challenges",
