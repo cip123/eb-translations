@@ -533,6 +533,7 @@
 		"do_you_want_to_delete_checkin": "Do you want to delete this checkin?",
 		"do_you_want_to_delete_drink": "Do you want to delete this drink?",
 		"do_you_want_to_delete_meal": "Do you want to delete this meal?",
+		"do_you_want_to_delete_sleep": "Do you want to delete this sleep entry?",
 		"do_you_want_to_delete_water": "Do you want to delete this water entry?",
 		"do_you_want_to_delete_workout": "Do you want to delete this workout?",
 		"do_you_want_to_remove_this_food_item": "Do you want to remove this food item?"
@@ -911,7 +912,13 @@
 		"yesterday": "Yesterday"
 	},
 	"sleep": {
-		"title": "Sleep"
+		"add_sleep": "Add sleep",
+		"edit_sleep": "Edit sleep",
+		"fell_asleep": "Fell asleep",
+		"fell_asleep_must_be_earlier": "Fell asleep must be earlier than woke up",
+		"invalid_sleep_time": "Invalid sleep time",
+		"title": "Sleep",
+		"woke_up": "Woke up"
 	},
 	"tabs": {
 		"challenges": "Challenges",
