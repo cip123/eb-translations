@@ -917,7 +917,18 @@
 		"fell_asleep": "Fell asleep",
 		"fell_asleep_must_be_earlier": "Fell asleep must be earlier than woke up",
 		"invalid_sleep_time": "Invalid sleep time",
+		"sleep_details": "Sleep details",
+		"source": "Source",
+		"stages": "Stages",
 		"title": "Sleep",
+		"types": {
+			"0": "In Bed",
+			"1": "Unspecified",
+			"2": "Awake",
+			"3": "Core",
+			"4": "Deep",
+			"5": "REM"
+		},
 		"woke_up": "Woke up"
 	},
 	"tabs": {
