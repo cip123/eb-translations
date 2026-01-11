@@ -533,6 +533,7 @@
 		"do_you_want_to_delete_checkin": "Voulez-vous supprimer cet check-in?",
 		"do_you_want_to_delete_drink": "Voulez-vous supprimer cette boisson ?",
 		"do_you_want_to_delete_meal": "Voulez-vous supprimer ce repas ?",
+		"do_you_want_to_delete_sleep": "Voulez-vous supprimer cette entrée de sommeil ?",
 		"do_you_want_to_delete_water": "Voulez-vous supprimer cette entrée d'eau ?",
 		"do_you_want_to_delete_workout": "Voulez-vous supprimer cet entraînement ?",
 		"do_you_want_to_remove_this_food_item": "Voulez-vous supprimer cet aliment ?"
@@ -801,6 +802,10 @@
 			"edit_tag": "Modifier l’étiquette",
 			"no_tags_entered": "Aucune étiquette saisie",
 			"tag_already_exists": "l'étiquette existe déjà"
+		},
+		"trends": {
+			"fullness_track": "Parcours de satiété",
+			"mindfulness_track": "Parcours de pleine conscience"
 		}
 	},
 	"shared": {
@@ -819,6 +824,7 @@
 		"delete": "Supprimer",
 		"delete_meal_image": "Supprimer l'image du repas ?",
 		"device": "Appareil",
+		"done": "Terminé",
 		"edit_drink": "Modifier la boisson",
 		"edit_food": "Modifier l’aliment",
 		"error_saving_photo": {
@@ -831,6 +837,7 @@
 		},
 		"finish": "Terminer",
 		"foods": "Aliments",
+		"fullness": "Satiété",
 		"get_started": "Commencer",
 		"history": "Histoire",
 		"just_log_meal": "Simplement enregistrer un repas",
@@ -860,11 +867,13 @@
 		"plus_add_item": "Ajouter un élément",
 		"press_to_add": "Introuvable. Appuyez sur l'icône plus pour l'ajouter",
 		"previous": "Précédent",
+		"processing": "En cours… veuillez patienter",
 		"read": "Lire",
 		"reason": "Raison",
 		"reorder": "Réorganiser",
 		"retake": "Reprendre",
 		"sample": "exemple",
+		"satisfaction_level": "Niveau de satisfaction",
 		"save": "Enregistrer",
 		"save_and_add_more_food": "Enregistrer et ajouter",
 		"save_food": "Enregistrer l’aliment",
@@ -886,6 +895,7 @@
 		"today": "Aujourd'hui",
 		"tomorrow": "Demain",
 		"total": "Total",
+		"tracks": "Parcours",
 		"try_again_later": "Une erreur s'est produite. Veuillez réessayer plus tard.",
 		"try_for_free": "Essai gratuit",
 		"unit_of_measure": "Unité de mesure",
@@ -897,10 +907,24 @@
 		"yesterday": "Hier"
 	},
 	"sleep": {
-		"title": "Sommeil"
+		"add_sleep": "Ajoutez du sommeil",
+		"edit_sleep": "Modifier le sommeil",
+		"fell_asleep": "Endormi",
+		"fell_asleep_must_be_earlier": "L’heure d’endormissement doit être avant l’heure de réveil",
+		"invalid_sleep_time": "Temps de sommeil invalide",
+		"sleep_details": "Détails du sommeil",
+		"source": "Source",
+		"stages": "Étapes",
+		"title": "Sommeil",
+		"types": {
+			"1": "Indéterminé",
+			"2": "Éveillé"
+		},
+		"woke_up": "Réveillé"
 	},
 	"tabs": {
 		"challenges": "Défis",
+		"log_meal": "Enregistrer le repas",
 		"more": "Plus",
 		"timeline": "Chronologie",
 		"trends": "Tendances"
@@ -929,6 +953,7 @@
 	},
 	"tracks": {
 		"basic": {
+			"title": "Retour aux fondamentaux",
 			"icon": "🌱",
 			"short_description": "Développez votre conscience des signaux de votre corps.",
 			"description": "<p>Suivez vos habitudes alimentaires pendant <b>6 jours</b>.</p> <p>Avant, pendant et après vos repas, écoutez votre faim, restez attentif et notez votre satiété.</p>"
@@ -937,12 +962,20 @@
 		"all_progress_will_be_lost": "Toute progression sera perdue",
 		"lasting_balance": {
 			"icon": "🌳",
+			"title": "Équilibre durable",
 			"short_description": "Transformez vos bonnes habitudes en routines durables.",
 			"description": "<p>Ce programme de défis est conçu pour vous aider à développer des habitudes alimentaires durables qui favorisent la pleine conscience et la modération."
 		},
+		"leave_this_track": "Quitter ce parcours?",
+		"leave_track": "Quitter le parcours",
 		"please_finish_other_challenges": "Veuillez terminer ou quitter les autres défis avant de commencer ce parcours.",
+		"start_a_track": "Commencer un parcours",
+		"start_track": "Commencer le parcours",
+		"track_in_progress": "Vous avez déjà commencé le parcours \"{{track}}\".",
+		"track_is_unavailable": "Ce parcours n’est pas encore disponible. Veuillez d’abord terminer le parcours \"{{track}}\".",
 		"tune_in": {
 			"icon": "🌿",
+			"title": "Écoute et réflexion",
 			"short_description": "Découvrez et adoptez des habitudes alimentaires plus saines.",
 			"description": "Découvrez l’alimentation consciente en écoutant votre corps, en savourant pleinement vos repas, en notant vos impressions et en pratiquant l’équilibre, surtout le soir."
 		}
@@ -950,10 +983,12 @@
 	"trends": {
 		"best_streak": "Meilleure série",
 		"current_streak": "Série en cours",
+		"fullness": "Satiété",
 		"hunger": "Faim",
 		"hydration": "Hydratation",
 		"i_ate_when_hungry": "J’ai mangé quand j’avais faim",
-		"i_ate_without_distractions": "J’ai mangé sans distractions"
+		"i_ate_without_distractions": "J’ai mangé sans distractions",
+		"i_stopped_before_full": "Je me suis arrêté avant d’être rassasié"
 	},
 	"units_of_measure": {
 		"bag": "sachet",
