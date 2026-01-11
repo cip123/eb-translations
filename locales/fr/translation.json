@@ -854,6 +854,7 @@
 		"new_drink": "Nouvelle boisson",
 		"new_food": "Nouvel aliment",
 		"next": "Suivant",
+		"nickname": "Surnom",
 		"no": "Non",
 		"no_data": "Aucune donnée",
 		"not_found": "Introuvable",
@@ -863,6 +864,7 @@
 		"nothing_here": "Rien ici",
 		"off": "Désactivé",
 		"ok": "OK",
+		"on": "Activé",
 		"please_type_at_least_characters": "Veuillez saisir au moins {{count}} caractères",
 		"plus_add_item": "Ajouter un élément",
 		"press_to_add": "Introuvable. Appuyez sur l'icône plus pour l'ajouter",
@@ -872,6 +874,7 @@
 		"reason": "Raison",
 		"reorder": "Réorganiser",
 		"retake": "Reprendre",
+		"review": "Avis",
 		"sample": "exemple",
 		"satisfaction_level": "Niveau de satisfaction",
 		"save": "Enregistrer",
@@ -917,8 +920,12 @@
 		"stages": "Étapes",
 		"title": "Sommeil",
 		"types": {
+			"0": "Temps au lit",
 			"1": "Indéterminé",
-			"2": "Éveillé"
+			"2": "Éveillé",
+			"3": "Sommeil principal",
+			"4": "Sommeil profond",
+			"5": "REM"
 		},
 		"woke_up": "Réveillé"
 	},
@@ -928,6 +935,11 @@
 		"more": "Plus",
 		"timeline": "Chronologie",
 		"trends": "Tendances"
+	},
+	"tags": {
+		"#homemade": "#faitmaison",
+		"#norules": "#sansrègles",
+		"#smallwin": "#petitevictoire"
 	},
 	"tours": {
 		"congratulations_your_first_meal": "Félicitations ! Vous avez enregistré votre premier repas.",
@@ -943,6 +955,8 @@
 		"select_your_hunger_level": "Sélectionnez votre niveau de faim pour enregistrer ce que vous mangez.",
 		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie.",
 		"tap_the_glass_icon": "Appuyez sur l’icône en forme de verre pour ajouter des boissons",
+		"tap_the_meal": "Touchez pour modifier les détails. Maintenez appuyé pour accéder au menu rapide.",
+		"tap_to_start_logging_a_meal": "Touchez pour commencer à enregistrer un repas",
 		"thanks_for_taking_the_tour": "Merci d’avoir suivi le tour!",
 		"try_it": "Essayez!",
 		"use_checkin": "Appuyez sur le bouton Check-in pour suivre votre satiété toute la journée.",
@@ -984,11 +998,15 @@
 		"best_streak": "Meilleure série",
 		"current_streak": "Série en cours",
 		"fullness": "Satiété",
+		"high": "Élevé",
 		"hunger": "Faim",
 		"hydration": "Hydratation",
 		"i_ate_when_hungry": "J’ai mangé quand j’avais faim",
 		"i_ate_without_distractions": "J’ai mangé sans distractions",
-		"i_stopped_before_full": "Je me suis arrêté avant d’être rassasié"
+		"i_stopped_before_full": "Je me suis arrêté avant d’être rassasié",
+		"low": "Faible",
+		"medium": "Moyen",
+		"mindfulness": "Pleine conscience"
 	},
 	"units_of_measure": {
 		"bag": "sachet",
