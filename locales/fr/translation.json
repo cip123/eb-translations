@@ -1080,6 +1080,8 @@
 		"serv": "portion",
 		"serv_one": "{{count}} portion",
 		"serv_other": "{{count}} portions",
+		"serv_abbr_one": "{{count}} p.",
+		"serv_abbr_other": "{{count}} p.",
 		"shot": "shot",
 		"shot_one": "{{count}} shot",
 		"shot_other": "{{count}} shots",
@@ -1096,7 +1098,18 @@
 		"tbsp_other": "{{count}} càs",
 		"tbsp_abbr_one": "{{count}} càs.",
 		"tbsp_abbr_other": "{{count}} càs.",
-		"tsp": "càc"
+		"tsp": "càc",
+		"tsp_one": "{{count}} càc",
+		"tsp_other": "{{count}} càc",
+		"tsp_abbr_one": "{{count}} càc.",
+		"tsp_abbr_other": "{{count}} càc."
+	},
+	"validation": {
+		"alphanumeric": "doit être un caractère compris entre 0-9 ou a-z",
+		"max_chars_one": "{{count}} caractère max",
+		"max_chars_other": "{{count}} caractères max",
+		"min_chars_one": "{{count}} caractère min",
+		"min_chars_other": "{{count}} caractères min"
 	},
 	"water": {
 		"add_water": "Ajouter de l'eau",
@@ -1185,6 +1198,8 @@
 			"water_fitness": "Fitness aquatique",
 			"water_polo": "Water-polo",
 			"water_sports": "Sports nautiques",
+			"wheelchair_run_pace": "Allure course en fauteuil",
+			"wheelchair_walk_pace": "Allure marche en fauteuil",
 			"wrestling": "Lutte",
 			"yoga": "Yoga"
 		},
