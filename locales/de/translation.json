@@ -917,7 +917,18 @@
 		"fell_asleep": "Eingeschlafen",
 		"fell_asleep_must_be_earlier": "Einschlafen muss vor dem Aufwachen liegen",
 		"invalid_sleep_time": "Ungültige Schlafzeit",
+		"sleep_details": "Schlafdetails",
+		"source": "Quelle",
+		"stages": "Phasen",
 		"title": "Schlaf",
+		"types": {
+			"0": "Im Bett",
+			"1": "Nicht spezifiziert",
+			"2": "Wach",
+			"3": "Kernschlaf",
+			"4": "Tiefschlaf",
+			"5": "REM"
+		},
 		"woke_up": "Aufgewacht"
 	},
 	"tabs": {
