@@ -598,6 +598,7 @@
 	},
 	"reminders": {
 		"check_in": "Hi there! Time for your check in",
+		"enable_reminders": "Enable reminders",
 		"engagement": {
 			"0": {
 				"body": "Don’t forget to track your meals. It only takes a second. 😎",
@@ -625,6 +626,16 @@
 			"fullness_check": "Fullness Check",
 			"time_to_log": "Time to log how that last meal made you feel.",
 			"were_you_mindful": "Were you mindful?"
+		},
+		"prompts": {
+			"enable_checkin_notifications": {
+				"title":"Complete your meal entry?",
+				"subtitle": "Want a reminder after meals to add how the meal made you feel?"
+			},
+			"enable_post_meal_notifications": {
+				"title":"Check in with yourself 3x times a day?",
+				"subtitle": "Want a few daily reminders to pause and check in with your body?"
+			}
 		},
 		"some_challenges_are_offtrack": "Some challenges are offtrack. Take a quick look to get back on course."
 	},
@@ -860,7 +871,7 @@
 		"no": "No",
 		"no_data": "No data",
 		"not_found": "Not found",
-		"not_now": "Not Now",
+		"not_now": "Not now",
 		"not_selected": "Not selected",
 		"notes": "Notes",
 		"nothing_here": "Nothing here",
