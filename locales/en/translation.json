@@ -637,7 +637,9 @@
 				"subtitle": "Want a few daily reminders to pause and check in with your body?"
 			}
 		},
-		"some_challenges_are_offtrack": "Some challenges are offtrack. Take a quick look to get back on course."
+		"requires_notification_permissions": "This requires notifications permissions",
+		"some_challenges_are_offtrack": "Some challenges are offtrack. Take a quick look to get back on course.",
+		"you_can_change_timing": "You can change the timing in Settings and turn this off anytime."
 	},
 	"reviews": {
 		"if_you_are_enjoying": "If you're enjoying Eating Buddy, we would greatly appreciate an app review!\n\nIf there’s anything we can improve, please let us know.",
