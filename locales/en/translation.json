@@ -629,11 +629,11 @@
 		},
 		"prompts": {
 			"enable_checkin_notifications": {
-				"title":"Check in with yourself 3x times a day?",
+				"title": "Check in with yourself 3x times a day?",
 				"subtitle": "Want a few daily reminders to pause and check in with your body?"
 			},
 			"enable_post_meal_notifications": {
-				"title":"Complete your meal entry?",
+				"title": "Complete your meal entry?",
 				"subtitle": "Want a reminder after meals to add how the meal made you feel?"
 			}
 		},

@@ -598,6 +598,7 @@
 	},
 	"reminders": {
 		"check_in": "Hallo! Zeit für dein Check-in.",
+		"enable_reminders": "Erinnerungen aktivieren",
 		"engagement": {
 			"0": {
 				"body": "Vergiss nicht, deine Mahlzeiten einzutragen Es dauert nur eine Sekunde. 😎",
@@ -626,7 +627,19 @@
 			"time_to_log": "Zeit um einzutragen, wie du dich bei der letzten Mahlzeit gefühlt hast.",
 			"were_you_mindful": "Warst du achtsam?"
 		},
-		"some_challenges_are_offtrack": "Einige Challenges sind vom Kurs abgekommen. Schau kurz darauf, um wieder auf den richtigen Weg zu kommen."
+		"prompts": {
+			"enable_checkin_notifications": {
+				"title": "3× täglich bei dir selbst einchecken?",
+				"subtitle": "Möchtest du täglich ein paar Erinnerungen, um innezuhalten und auf deinen Körper zu achten?"
+			},
+			"enable_post_meal_notifications": {
+				"title": "Mahlzeiteneintrag abschließen?",
+				"subtitle": "Möchtest du nach den Mahlzeiten erinnert werden, wie sich das Essen angefühlt hat?"
+			}
+		},
+		"requires_notification_permissions": "Hierfür sind Benachrichtigungsberechtigungen erforderlich.",
+		"some_challenges_are_offtrack": "Einige Challenges sind vom Kurs abgekommen. Schau kurz darauf, um wieder auf den richtigen Weg zu kommen.",
+		"you_can_change_timing": "Du kannst die Zeiten in den Einstellungen ändern und dies jederzeit deaktivieren."
 	},
 	"reviews": {
 		"if_you_are_enjoying": "Wenn dir Eating Buddy gefällt, würden wir uns sehr über eine Bewertung freuen! \n\nFalls es etwas gibt, das wir verbessern können, lass es uns bitte wissen.",
