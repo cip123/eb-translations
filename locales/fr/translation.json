@@ -599,6 +599,7 @@
 	"reminders": {
 		"check_in": "Salut! C'est l'heure de votre check-in ",
 		"enable_reminders": "Activer les rappels",
+		"enable_notifications": "Activer les notifications",
 		"engagement": {
 			"0": {
 				"body": "N'oubliez pas de noter vos repas. Ça ne prend qu'une seconde. 😎",
@@ -637,6 +638,7 @@
 				"subtitle": "Vous souhaitez recevoir un rappel après les repas pour indiquer comment vous vous êtes senti ?"
 			}
 		},
+		"require_notifications_enabled": "Les rappels nécessitent l'activation des notifications",
 		"requires_notification_permissions": "Cela nécessite des autorisations de notification.",
 		"some_challenges_are_offtrack": "Certains défis sont hors parcours. Jetez un œil rapide pour reprendre le bon chemin.",
 		"you_can_change_timing": "Vous pouvez modifier la durée dans les Paramètres et désactiver cette fonction à tout moment."

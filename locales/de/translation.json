@@ -599,6 +599,7 @@
 	"reminders": {
 		"check_in": "Hallo! Zeit für dein Check-in.",
 		"enable_reminders": "Erinnerungen aktivieren",
+		"enable_notifications": "Benachrichtigungen aktivieren",
 		"engagement": {
 			"0": {
 				"body": "Vergiss nicht, deine Mahlzeiten einzutragen Es dauert nur eine Sekunde. 😎",
@@ -637,6 +638,7 @@
 				"subtitle": "Möchtest du nach den Mahlzeiten erinnert werden, wie sich das Essen angefühlt hat?"
 			}
 		},
+		"require_notifications_enabled": "Für Erinnerungen müssen Benachrichtigungen aktiviert sein",
 		"requires_notification_permissions": "Hierfür sind Benachrichtigungsberechtigungen erforderlich.",
 		"some_challenges_are_offtrack": "Einige Challenges sind vom Kurs abgekommen. Schau kurz darauf, um wieder auf den richtigen Weg zu kommen.",
 		"you_can_change_timing": "Du kannst die Zeiten in den Einstellungen ändern und dies jederzeit deaktivieren."
