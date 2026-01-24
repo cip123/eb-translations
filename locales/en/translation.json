@@ -599,6 +599,7 @@
 	"reminders": {
 		"check_in": "Hi there! Time for your check in",
 		"enable_reminders": "Enable reminders",
+		"enable_notifications": "Enable notifications",
 		"engagement": {
 			"0": {
 				"body": "Don’t forget to track your meals. It only takes a second. 😎",
@@ -615,6 +616,7 @@
 			"3": {
 				"body": "Pop in to track your meals and see how you've been eating lately.",
 				"title": "It's been a while! 😢"
+
 			}
 		},
 		"hold_off_timer": {
@@ -637,6 +639,7 @@
 				"subtitle": "Want a reminder after meals to add how the meal made you feel?"
 			}
 		},
+		"require_notifications_enabled": "Reminders require notifications to be enabled",
 		"requires_notification_permissions": "This requires notifications permissions",
 		"some_challenges_are_offtrack": "Some challenges are offtrack. Take a quick look to get back on course.",
 		"you_can_change_timing": "You can change the timing in Settings and turn this off anytime."
