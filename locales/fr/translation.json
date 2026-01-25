@@ -969,20 +969,7 @@
 		"tap_to_start_logging_a_meal": "Touchez pour commencer à enregistrer un repas",
 		"try_it": "Essayez!",
 		"use_hold_off_timer": "Utilisez ceci lorsque vous ressentez l’envie de manger alors que vous n’avez pas faim.\nPrenez un instant pour faire une pause et voir si la gourmandise passe.",
-		"use_the_check-in_button": "Appuyez sur le bouton Check-in pour suivre votre faim toute la journée",
-		"congratulations_your_first_meal": "Félicitations ! Vous avez enregistré votre premier repas.",
-		"enabling_notifications": "Activer les notifications vous aidera à vous souvenir de noter comment vos repas vous ont fait sentir.",
-		"press_and_hold": "Appuyez longuement pour enregistrer rapidement un repas sans ajouter d'aliments.",
-		"regular_check-ins_are_a_great_way": "Les check-ins régulières sont un excellent moyen d’être à l’écoute des signaux de votre corps",
-		"sample_homemade_meal": "C’est un repas fait maison. Je l’ai mangé même si je n’avais pas faim et j’ai fini par manger un peu plus que nécessaire.",
-		"sample_mindful_meal": "C’est un repas exemple. Je l’ai mangé en ayant faim, en restant attentif à ce que je faisais, et je me suis arrêté avant d’être rassasié.",
-		"select_reason": "Si vous n’avez pas faim, vous pouvez indiquer pourquoi vous mangez.",
-		"select_your_hunger_level": "Sélectionnez votre niveau de faim pour enregistrer ce que vous mangez.",
-		"tap_the_meal": "Touchez pour modifier les détails. Maintenez appuyé pour accéder au menu rapide.",
-		"thanks_for_taking_the_tour": "Merci d’avoir suivi le tour!",
-		"use_checkin": "Appuyez sur le bouton Check-in pour suivre votre satiété toute la journée.",
-		"well_done": "Bravo!",
-		"would_you_like_to_be_reminded_to_check_in": "Voulez-vous recevoir un rappel pour faire un check-in trois fois par jour ?"
+		"use_the_check-in_button": "Appuyez sur le bouton Check-in pour suivre votre faim toute la journée"
 	},
 	"tracks": {
 		"basic": {
