@@ -630,12 +630,12 @@
 		},
 		"prompts": {
 			"enable_checkin_notifications": {
-				"title": "Check in with yourself 3x times a day?",
-				"subtitle": "Want a few daily reminders to pause and check in with your body?"
+				"title": "Check in with yourself daily?",
+				"subtitle": "Get up to three reminders to pause and check in with your body"
 			},
 			"enable_post_meal_notifications": {
-				"title": "Complete your meal entry?",
-				"subtitle": "Want a reminder after meals to add how the meal made you feel?"
+				"title": "Capture how meals felt?",
+				"subtitle": "We’ll remind you after meals to add fullness, satisfaction, or awareness"
 			}
 		},
 		"require_notifications_enabled": "Reminders require notifications to be enabled",
@@ -959,28 +959,17 @@
 		"#smallwin": "#smallwin"
 	},
 	"tours": {
-		"congratulations_your_first_meal": "Congratulations! You’ve logged your first meal.",
-		"enabling_notifications": "Enabling notifications will help you remember to review how meals made you feel.",
-		"press_and_hold": "Press and hold to quickly log a meal without adding foods.",
+		"first_checkin_logged": "First check-in logged. Awareness starts here",
+		"first_meal_logged": "Nice start! \n Tap to view details. Long-press to view options.",
 		"press_and_hold_to_quickly_add_it_without_details": "Press and hold to quickly add one without details",
 		"rate_urge": "Rate how strong the urge to eat feels right now.",
-		"regular_check-ins_are_a_great_way": "Regular check-ins are a great way to tune in to your body's signals",
-		"sample_homemade_meal": "This is a homemade meal. I ate it although I was not hungry and ended up eating a bit more than necessary.",
-		"sample_mindful_meal": "This is a sample meal. I ate when I felt hungry, being mindful throughout, and stopped before feeling full.",
-		"select_reason": "If you're not hungry, you can select why you're eating.",
 		"select_the_check_in_button": "Select how hungry you are right now.",
-		"select_your_hunger_level": "Select your hunger level to log what you are eating.",
 		"small_win": "Mark a small win for choosing not to act on the craving.",
 		"tap_the_glass_icon": "Tap the glass-shaped icon to add drinks",
-		"tap_the_meal": "Tap to edit its details. Hold down to access the quick menu.",
 		"tap_to_start_logging_a_meal": "Tap to start logging a meal",
-		"thanks_for_taking_the_tour": "Thank you for taking the tour!",
 		"try_it": "Give it a try!",
-		"use_checkin": "Use the Check In button to monitor how full you feel throughout the day.",
 		"use_hold_off_timer": "Use this when you feel the drive to eat but you're not hungry.\nTake a moment to pause and see if the craving settles.",
-		"use_the_check-in_button": "Use the Check-in button to track your hunger levels throughout the day",
-		"well_done": " Well done!",
-		"would_you_like_to_be_reminded_to_check_in": "Would you like to be reminded to check in with yourself three times a day?"
+		"use_the_check-in_button": "Use the Check-in button to track your hunger levels throughout the day"
 	},
 	"tracks": {
 		"basic": {
