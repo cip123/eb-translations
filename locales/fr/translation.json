@@ -959,7 +959,7 @@
 		"#smallwin": "#petitevictoire"
 	},
 	"tours": {
-		"first_checkin_logged": "Premier enregistrement effectué. La prise de conscience commence ici.",
+		"first_checkin_logged": "Premier enregistrement effectué.\nLa prise de conscience commence ici.",
 		"first_meal_logged": "Bon début !\nAppuyez pour afficher les détails. Appuyez longuement pour afficher les options.",
 		"press_and_hold_to_quickly_add_it_without_details": "Appuyez longuement pour en ajouter un rapidement, sans détails.",
 		"rate_urge": "Évaluez l’intensité de votre envie de manger en ce moment.",

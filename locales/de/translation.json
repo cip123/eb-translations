@@ -959,7 +959,7 @@
 		"#smallwin": "#kleinergewinn"
 	},
 	"tours": {
-		"first_checkin_logged": "Erster Check-in protokolliert. Bewusstsein beginnt hier.",
+		"first_checkin_logged": "Erster Check-in protokolliert.\nBewusstsein beginnt hier.",
 		"first_meal_logged": "Guter Start!\nTippe, um Details anzuzeigen. Halte gedrückt, um Optionen anzuzeigen.",
 		"press_and_hold_to_quickly_add_it_without_details": "Drücken und halten, um schnell eine Mahlzeit ohne Details hinzuzufügen",
 		"rate_urge": "Bewerte, wie stark sich der Drang zu essen gerade anfühlt.",

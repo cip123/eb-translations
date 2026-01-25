@@ -959,7 +959,7 @@
 		"#smallwin": "#smallwin"
 	},
 	"tours": {
-		"first_checkin_logged": "First check-in logged. Awareness starts here",
+		"first_checkin_logged": "First check-in logged. \nAwareness starts here.",
 		"first_meal_logged": "Nice start! \n Tap to view details. Long-press to view options.",
 		"press_and_hold_to_quickly_add_it_without_details": "Press and hold to quickly add one without details",
 		"rate_urge": "Rate how strong the urge to eat feels right now.",
