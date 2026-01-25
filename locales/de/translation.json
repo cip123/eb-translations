@@ -630,12 +630,12 @@
 		},
 		"prompts": {
 			"enable_checkin_notifications": {
-				"title": "3× täglich bei dir selbst einchecken?",
-				"subtitle": "Möchtest du täglich ein paar Erinnerungen, um innezuhalten und auf deinen Körper zu achten?"
+				"title": "Solltest du dich täglich selbst überprüfen?",
+				"subtitle": "Erhalte bis zu drei Erinnerungen, um innezuhalten und in deinen Körper hineinzuspüren."
 			},
 			"enable_post_meal_notifications": {
-				"title": "Mahlzeiteneintrag abschließen?",
-				"subtitle": "Möchtest du nach den Mahlzeiten erinnert werden, wie sich das Essen angefühlt hat?"
+				"title": "Wie haben sich die Mahlzeiten angefühlt?",
+				"subtitle": "Wir erinnern dich nach den Mahlzeiten daran, Sättigung, Zufriedenheit oder Achtsamkeit festzuhalten."
 			}
 		},
 		"require_notifications_enabled": "Für Erinnerungen müssen Benachrichtigungen aktiviert sein",
@@ -959,26 +959,28 @@
 		"#smallwin": "#kleinergewinn"
 	},
 	"tours": {
+		"first_checkin_logged": "Erster Check-in protokolliert. Bewusstsein beginnt hier.",
+		"first_meal_logged": "Guter Start!\nTippe, um Details anzuzeigen. Halte gedrückt, um Optionen anzuzeigen.",
+		"press_and_hold_to_quickly_add_it_without_details": "Drücken und halten, um schnell eine Mahlzeit ohne Details hinzuzufügen",
+		"rate_urge": "Bewerte, wie stark sich der Drang zu essen gerade anfühlt.",
+		"select_the_check_in_button": "Wähle, wie hungrig du gerade bist.",
+		"small_win": "Markiere einen kleinen Erfolg dafür, dass du nicht auf das Verlangen reagiert hast.",
+		"tap_the_glass_icon": "Tippe auf den Glasknopf, um ein Getränk hinzuzufügen",
+		"tap_to_start_logging_a_meal": "Tippen, um eine Mahlzeit einzutragen",
+		"try_it": "Probiere es aus!",
+		"use_hold_off_timer": "Nutze dies, wenn du den Drang zu essen spürst, aber nicht hungrig bist.\nNimm dir einen Moment Zeit und schau, ob das Verlangen nachlässt.",
+		"use_the_check-in_button": "Drücke den Check-in Knopf, um deinen Hungergrad im Laufe des Tages zu verfolgen",
 		"congratulations_your_first_meal": "Glückwunsch! Du hast deine erste Mahlzeit eingetragen!",
 		"enabling_notifications": "Benachrichtigungen helfen dir im Überblick zu behalten, wie du dich beim Essen gefühlt hast.",
 		"press_and_hold": "Halte die Taste gedrückt, um schnell eine Mahlzeit einzutragen, ohne Lebensmittel hinzuzufügen.",
-		"press_and_hold_to_quickly_add_it_without_details": "Drücken und halten, um schnell eine Mahlzeit ohne Details hinzuzufügen",
-		"rate_urge": "Bewerte, wie stark sich der Drang zu essen gerade anfühlt.",
 		"regular_check-ins_are_a_great_way": "Regelmäßige Check-ins sind eine großartige Möglichkeit, dich auf die Signale deines Körpers einzustimmen.",
 		"sample_homemade_meal": "Dies ist eine hausgemachte Mahlzeit. Ich habe sie gegessen, obwohl ich gar keinen Hunger hatte und habe am Ende sogar zuviel davon gegessen.",
 		"sample_mindful_meal": "Dies ist eine Probemahlzeit. Ich aß, weil ich Hunger verspürte, war die ganze Zeit achtsam und hörte auf, bevor ich mich satt fühlte.",
 		"select_reason": "Wenn Sie keinen Hunger haben, können Sie hier auswählen, warum Sie überhaupt etwas essen.",
-		"select_the_check_in_button": "Wähle, wie hungrig du gerade bist.",
 		"select_your_hunger_level": "Wähle deinen Hungergrad aus, um Mahlzeiten einzutragen.",
-		"small_win": "Markiere einen kleinen Erfolg dafür, dass du nicht auf das Verlangen reagiert hast.",
-		"tap_the_glass_icon": "Tippe auf den Glasknopf, um ein Getränk hinzuzufügen",
 		"tap_the_meal": "Tippe, um die Details zu bearbeiten. Halte gedrückt, um das Schnellmenü aufzurufen.",
-		"tap_to_start_logging_a_meal": "Tippen, um eine Mahlzeit einzutragen",
 		"thanks_for_taking_the_tour": "Danke, dass du die Tour mitgemacht hast!",
-		"try_it": "Probiere es aus!",
 		"use_checkin": "Verwende die \"Check-in“ Taste, um zu überwachen, wie satt du dich im Laufe des Tages fühlst.",
-		"use_hold_off_timer": "Nutze dies, wenn du den Drang zu essen spürst, aber nicht hungrig bist.\nNimm dir einen Moment Zeit und schau, ob das Verlangen nachlässt.",
-		"use_the_check-in_button": "Drücke den Check-in Knopf, um deinen Hungergrad im Laufe des Tages zu verfolgen",
 		"well_done": "Gut gemacht!",
 		"would_you_like_to_be_reminded_to_check_in": "Willst du dreimal am Tag daran erinnert werden, deinen Zustand zu überprüfen ?"
 	},

@@ -630,12 +630,12 @@
 		},
 		"prompts": {
 			"enable_checkin_notifications": {
-				"title": "Faites le point avec vous-même 3 fois par jour ?",
-				"subtitle": "Vous souhaitez recevoir quelques rappels quotidiens pour faire une pause et vous reconnecter à votre corps ?"
+				"title": "Faites le point avec vous-même chaque jour?",
+				"subtitle": "Recevez jusqu'à trois rappels pour faire une pause et vous reconnecter à votre corps."
 			},
 			"enable_post_meal_notifications": {
-				"title": "Complétez votre saisie de repas ?",
-				"subtitle": "Vous souhaitez recevoir un rappel après les repas pour indiquer comment vous vous êtes senti ?"
+				"title": "Comment avez-vous ressenti vos repas ?",
+				"subtitle": "Nous vous rappellerons après les repas d’indiquer votre sensation de satiété, votre satisfaction ou votre niveau de présence."
 			}
 		},
 		"require_notifications_enabled": "Les rappels nécessitent l'activation des notifications",
@@ -959,26 +959,28 @@
 		"#smallwin": "#petitevictoire"
 	},
 	"tours": {
+		"first_checkin_logged": "Premier enregistrement effectué. La prise de conscience commence ici.",
+		"first_meal_logged": "Bon début !\nAppuyez pour afficher les détails. Appuyez longuement pour afficher les options.",
+		"press_and_hold_to_quickly_add_it_without_details": "Appuyez longuement pour en ajouter un rapidement, sans détails.",
+		"rate_urge": "Évaluez l’intensité de votre envie de manger en ce moment.",
+		"select_the_check_in_button": "Sélectionnez votre niveau de faim actuel",
+		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie.",
+		"tap_the_glass_icon": "Appuyez sur l’icône en forme de verre pour ajouter des boissons",
+		"tap_to_start_logging_a_meal": "Touchez pour commencer à enregistrer un repas",
+		"try_it": "Essayez!",
+		"use_hold_off_timer": "Utilisez ceci lorsque vous ressentez l’envie de manger alors que vous n’avez pas faim.\nPrenez un instant pour faire une pause et voir si la gourmandise passe.",
+		"use_the_check-in_button": "Appuyez sur le bouton Check-in pour suivre votre faim toute la journée",
 		"congratulations_your_first_meal": "Félicitations ! Vous avez enregistré votre premier repas.",
 		"enabling_notifications": "Activer les notifications vous aidera à vous souvenir de noter comment vos repas vous ont fait sentir.",
 		"press_and_hold": "Appuyez longuement pour enregistrer rapidement un repas sans ajouter d'aliments.",
-		"press_and_hold_to_quickly_add_it_without_details": "Appuyez longuement pour en ajouter un rapidement, sans détails.",
-		"rate_urge": "Évaluez l’intensité de votre envie de manger en ce moment.",
 		"regular_check-ins_are_a_great_way": "Les check-ins régulières sont un excellent moyen d’être à l’écoute des signaux de votre corps",
 		"sample_homemade_meal": "C’est un repas fait maison. Je l’ai mangé même si je n’avais pas faim et j’ai fini par manger un peu plus que nécessaire.",
 		"sample_mindful_meal": "C’est un repas exemple. Je l’ai mangé en ayant faim, en restant attentif à ce que je faisais, et je me suis arrêté avant d’être rassasié.",
 		"select_reason": "Si vous n’avez pas faim, vous pouvez indiquer pourquoi vous mangez.",
-		"select_the_check_in_button": "Sélectionnez votre niveau de faim actuel",
 		"select_your_hunger_level": "Sélectionnez votre niveau de faim pour enregistrer ce que vous mangez.",
-		"small_win": "Notez une petite victoire en choisissant de ne pas céder à l’envie.",
-		"tap_the_glass_icon": "Appuyez sur l’icône en forme de verre pour ajouter des boissons",
 		"tap_the_meal": "Touchez pour modifier les détails. Maintenez appuyé pour accéder au menu rapide.",
-		"tap_to_start_logging_a_meal": "Touchez pour commencer à enregistrer un repas",
 		"thanks_for_taking_the_tour": "Merci d’avoir suivi le tour!",
-		"try_it": "Essayez!",
 		"use_checkin": "Appuyez sur le bouton Check-in pour suivre votre satiété toute la journée.",
-		"use_hold_off_timer": "Utilisez ceci lorsque vous ressentez l’envie de manger alors que vous n’avez pas faim.\nPrenez un instant pour faire une pause et voir si la gourmandise passe.",
-		"use_the_check-in_button": "Appuyez sur le bouton Check-in pour suivre votre faim toute la journée",
 		"well_done": "Bravo!",
 		"would_you_like_to_be_reminded_to_check_in": "Voulez-vous recevoir un rappel pour faire un check-in trois fois par jour ?"
 	},
