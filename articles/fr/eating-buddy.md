@@ -6,11 +6,11 @@ Je connais cela trop bien. Mon expérience avec les régimes a commencé à l’
 
 Mais aucun régime n’a jamais résolu le vrai problème. En fait, chaque régime ne faisait qu’aggraver les choses. Chaque nouvelle restriction ne faisait que renforcer mon obsession pour la nourriture.
 
-Puis j’ai découvert qu’il existe quelque chose appelé dépendance alimentaire, et tout a enfin pris sens. Beaucoup d’aliments modernes sont conçus pour détourner le système de récompense de votre cerveau.
+Puis j’ai découvert qu’il existe quelque chose appelé addiction alimentaire, et tout a enfin pris sens. Beaucoup d’aliments modernes sont conçus pour détourner le système de récompense de votre cerveau.
 
 Voici comment cela fonctionne. Lorsque vous mangez quelque chose que vous appréciez, votre cerveau libère de la dopamine, une substance chimique qui signale le plaisir et la motivation. C’est le même système qui vous aide à rechercher ce qui vous permet de rester en vie, comme manger, boire ou vous connecter aux autres.
 
-Mais lorsque des aliments sont conçus pour stimuler ce système de façon excessive, en particulier des combinaisons de graisses, de sucre et de sel, la dopamine grimpe beaucoup plus qu’elle ne devrait. Votre cerveau commence à associer ces aliments à une récompense intense. La prochaine fois que vous les voyez, ou même y pensez, votre cerveau se souvient de ce "pic" et vous pousse à le reproduire.
+Mais lorsque des aliments sont conçus pour stimuler ce système de façon excessive, en particulier des combinaisons de graisses, de sucre et de sel, la dopamine grimpe beaucoup plus qu’elle ne devrait. Votre cerveau commence à associer ces aliments à une récompense intense. La prochaine fois que vous les voyez, ou même y pensez, votre cerveau se souvient de ce "boost" et vous pousse à le reproduire.
 
 Avec le temps, l’équilibre normal se rompt. Vous arrêtez de manger pour vous nourrir et commencez à manger pour retrouver cette sensation. Les aliments naturels semblent fades, et la modération devient plus difficile.
 

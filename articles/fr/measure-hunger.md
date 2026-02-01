@@ -1,6 +1,6 @@
 Vous vous souvenez quand nous étions enfants? Nous mangions quand nous avions faim, arrêtions quand nous étions rassasiés, et retournions jouer. La nourriture n’était pas un gros problème; nous avions des choses passionnantes à faire et un monde à explorer. Manger n’était qu’une courte pause, pas l’événement principal.
 
-À un moment donné, cela a changé. Beaucoup d’entre nous ont commencé à manger pour se calmer, fuir le stress ou combler un vide. Avec le temps, on peut avoir l’impression que la nourriture prend le contrôle. C’est ainsi que la dépendance alimentaire s’installe lentement.
+À un moment donné, cela a changé. Beaucoup d’entre nous ont commencé à manger pour se calmer, fuir le stress ou combler un vide. Avec le temps, on peut avoir l’impression que la nourriture prend le contrôle. C’est ainsi que l’addiction alimentaire se construit progressivement.
 
 Eating Buddy est là pour vous aider à reprendre ce contrôle et à faire à nouveau confiance à votre corps.
 
@@ -14,4 +14,4 @@ Cette petite pause est puissante. Elle vous aide à vous libérer de l’aliment
 
 Quand vous mangez, essayez de le faire en pleine conscience. Ralentissez. Goûtez vos aliments. Remarquez leur texture et leur odeur. Cela vous aide à trouver une vraie satisfaction, plutôt qu’un simple soulagement rapide.
 
-Cela demande de l’entraînement. Certains jours, vous mangerez en mode automatique, et c’est normal. L’objectif n’est pas la perfection - c’est la conscience. Chaque repas pris en pleine conscience et chaque check-in honnête vous rapproche de la paix avec la nourriture et vous éloigne de l’emprise de la dépendance alimentaire.
+Cela demande de l’entraînement. Certains jours, vous mangerez en mode automatique, et c’est normal. L’objectif n’est pas la perfection - c’est la conscience. Chaque repas en pleine conscience et chaque bilan honnête vous rapprochent de la paix avec la nourriture et vous éloignent de l’emprise de l’addiction alimentaire.

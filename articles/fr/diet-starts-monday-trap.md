@@ -1,8 +1,8 @@
-Les week-ends s’accompagnent souvent d’un mélange d’émotions: soulagement, ennui, solitude ou célébration.
+Le week-end apporte souvent un mélange d’émotions : soulagement, ennui, solitude ou moments de célébration.
 
 Vous avez enfin une pause après la semaine et vous avez envie de vous détendre. Il y a peut-être un événement social, un dîner dans votre restaurant préféré, un voyage, ou simplement du temps à la maison avec de bons plats. Ces moments devraient être agréables, mais ils mènent souvent à des excès alimentaires et à la promesse de "recommencer" le lundi.
 
-### Sortir du cycle du week-end
+### Briser le cycle du week-end
 
 La clé, c’est la prise de conscience. Chaque repas est une occasion de remarquer ce qui se passe vraiment. Mangez-vous parce que vous avez faim, ou parce que vous vous sentez stressé, fatigué, ou avez besoin de réconfort ?
 
