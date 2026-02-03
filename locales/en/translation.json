@@ -459,7 +459,9 @@
 		"spot_patterns": "Spot patterns between what you eat, how you feel, and daily habits.",
 		"start": "Start",
 		"start_without_challenges": "Start without challenges",
+		"try_premium_for_free": "Try Premium for Free",
 		"take_small_steps": "Take small steps",
+		"unlock_premium": "Unlock Premium",
 		"we_recommend_the_track": "From our extensive challenge collection, we recommend the <b>{{track}}</b> track to help you get started"
 	},
 	"page_titles": {
@@ -903,7 +905,6 @@
 		"total": "Total",
 		"tracks": "Tracks",
 		"try_again_later": "Something went wrong. Please try again later.",
-		"try_for_free": "Try for Free",
 		"unit_of_measure": "Unit of Measure",
 		"use_photo": "Use Photo",
 		"view": "View",
