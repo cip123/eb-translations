@@ -445,10 +445,22 @@
 		}
 	},
 	"onboarding": {
+		"build_awareness": "Build awareness",
+		"choose_challenges_that_help": "Choose challenges that help you practice what's hard.",
 		"continue": "Continue",
 		"great_to_see_you": "Great to see you!",
+        "how_it_works": "How it works",
 		"how_to_be_called": "How would you like to be called?",
-		"lets_do_it": "Let's do it"
+		"lets_do_it": "Let's do it",
+		"meals_hunger_fullness_etc": "Meals, hunger, fullness, mood, drinks, sleep or workouts.",
+		"premium_challenges": "Premium Challenges",
+		"quiet_the_food_noise": "Quiet the Food Noise",
+		"track_what_matters_to_you": "Track what matters to you",
+		"spot_patterns": "Spot patterns between what you eat, how you feel, and daily habits.",
+		"start": "Start",
+		"start_without_challenges": "Start without challenges",
+		"take_small_steps": "Take small steps",
+		"we_recommend_the_track": "From our extensive challenge collection, we recommend the <b>{{track}}</b> track to help you get started"
 	},
 	"page_titles": {
 		"add_drink": "Add Drink",
