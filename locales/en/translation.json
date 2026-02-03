@@ -378,7 +378,8 @@
 			"footer": "This data is used only to provide insights inside the app and is analyzed together with your eating entries.",
 			"has_already_been_requested": "Permissions have already been requested",
 			"if_no_data_is_shown": "If no data is shown, please check that access is enabled for Eating Buddy in the Apple Health app.",
-			"manage": "Manage in Apple Health"
+			"manage": "Manage in Apple Health",
+			"turn_on_apple_health": "Turn <b>Apple Health</b> on to import workouts and sleep automatically."
 		}
 	},
 	"home": {
@@ -527,6 +528,7 @@
 		"do_you_want_to_remove_this_food_item": "Do you want to remove this food item?"
 	},
 	"reason": {
+		"dont_ask_again": "Don't ask me for a reason again",
 		"prompts": {
 			"made_you_feel": "What made you feel like eating?",
 			"mood_for_bite": "What's got you in the mood for a bite?",
@@ -956,7 +958,8 @@
 		"tap_to_start_logging_a_meal": "Tap to start logging a meal",
 		"try_it": "Give it a try!",
 		"use_hold_off_timer": "Use this when you feel the drive to eat but you're not hungry.\nTake a moment to pause and see if the craving settles.",
-		"use_the_check-in_button": "Use the Check-in button to track your hunger levels throughout the day"
+		"use_the_check-in_button": "Use the Check-in button to track your hunger levels throughout the day",
+		"you_can_change_or_disable_reasons": "You can change or disable these reasons in More → Diary setup"
 	},
 	"tracks": {
 		"basic": {
