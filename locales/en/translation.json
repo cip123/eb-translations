@@ -450,7 +450,7 @@
 		"choose_challenges_that_help": "Choose challenges that help you practice what's hard.",
 		"continue": "Continue",
 		"great_to_see_you": "Great to see you!",
-        "how_it_works": "How it works",
+		"how_it_works": "How it works",
 		"how_to_be_called": "How would you like to be called?",
 		"lets_do_it": "Let's do it",
 		"meals_hunger_fullness_etc": "Meals, hunger, fullness, mood, drinks, sleep or workouts.",
@@ -963,7 +963,7 @@
 	},
 	"tracks": {
 		"basic": {
-			"title": "Back to Basics",
+			"title": "Foundations",
 			"icon": "🌱",
 			"short_description": "Build awareness of your body’s signals.",
 			"description": "<p>Observe your eating habits for <b>6 days</b>.</p><p>Before, during, and after meals, tune into your hunger, stay present, and check in with your fullness levels.</p>"
