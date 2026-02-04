@@ -378,7 +378,8 @@
 			"footer": "Diese Daten werden ausschließlich verwendet, um Einblicke innerhalb der App zu liefern, und gemeinsam mit deinen Essensprotokollen analysiert.",
 			"has_already_been_requested": "Berechtigungen wurden bereits angefordert",
 			"if_no_data_is_shown": "Wenn keine Daten angezeigt werden, überprüfe bitte, ob der Zugriff für Eating Buddy in der Apple-Health-App aktiviert ist.",
-			"manage": "In Apple Health verwalten"
+			"manage": "In Apple Health verwalten",
+			"turn_on_apple_health": "Aktiviere <b>Apple Health</b>, um Workouts und Schlaf automatisch zu importieren."
 		}
 	},
 	"home": {
@@ -445,6 +446,8 @@
 		}
 	},
 	"onboarding": {
+		"build_awareness": "Bewusstsein aufbauen",
+		"choose_challenges_that_help": "Wähle Herausforderungen, die dir helfen, das zu üben, was dir schwerfällt.",
 		"continue": "Weiter",
 		"great_to_see_you": "Schön, dich zu sehen!",
 		"how_to_be_called": "Wie möchtest du gerne genannt werden?",
