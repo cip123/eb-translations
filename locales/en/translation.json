@@ -694,7 +694,8 @@
 		},
 		"languages": {
 			"de": "German",
-			"en": "English"
+			"en": "English",
+			"fr": "French"
 		},
 		"menu": {
 			"diary_setup": {
