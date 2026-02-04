@@ -459,7 +459,11 @@
 		"track_what_matters_to_you": "Suivez ce qui compte pour vous",
 		"spot_patterns": "Identifiez les patterns entre alimentation, humeur et habitudes quotidiennes.",
 		"start": "Commencer",
-		"start_without_challenges": "Commencez sans défis"
+		"start_without_challenges": "Commencez sans défis",
+		"try_premium_for_free": "Essayez Premium gratuitement",
+		"take_small_steps": "Faites de petits pas",
+		"unlock_premium": "Débloquez Premium",
+		"we_recommend_the_track": "Dans notre vaste collection de défis, nous vous recommandons le parcours <b>{{track}}</b> pour vous aider à démarrer"
 	},
 	"page_titles": {
 		"add_drink": "Ajouter une boisson",
@@ -524,6 +528,7 @@
 		"do_you_want_to_remove_this_food_item": "Voulez-vous supprimer cet aliment ?"
 	},
 	"reason": {
+		"dont_ask_again": "Ne me demandez plus de raison",
 		"prompts": {
 			"made_you_feel": "Qu'est-ce qui vous a donné envie de manger ?",
 			"mood_for_bite": "Qu'est-ce qui vous donne envie de grignoter ?",
@@ -689,7 +694,8 @@
 		},
 		"languages": {
 			"de": "Allemand",
-			"en": "Anglais"
+			"en": "Anglais",
+			"fr": "Français"
 		},
 		"menu": {
 			"diary_setup": {
@@ -953,7 +959,8 @@
 		"tap_to_start_logging_a_meal": "Touchez pour commencer à enregistrer un repas",
 		"try_it": "Essayez!",
 		"use_hold_off_timer": "Utilisez ceci lorsque vous ressentez l’envie de manger alors que vous n’avez pas faim.\nPrenez un instant pour faire une pause et voir si la gourmandise passe.",
-		"use_the_check-in_button": "Appuyez sur le bouton Check-in pour suivre votre faim toute la journée"
+		"use_the_check-in_button": "Appuyez sur le bouton Check-in pour suivre votre faim toute la journée",
+		"you_can_change_or_disable_reasons": "Vous pouvez modifier ou désactiver ces raisons dans Plus → Configuration du journal"
 	},
 	"tracks": {
 		"basic": {

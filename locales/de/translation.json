@@ -459,7 +459,11 @@
 		"track_what_matters_to_you": "Tracke, was dir wichtig ist",
 		"spot_patterns": "Entdecke Muster zwischen Ernährung, Stimmung und deinen täglichen Gewohnheiten.",
 		"start": "Start",
-		"start_without_challenges": "Starte ohne Challenges"
+		"start_without_challenges": "Starte ohne Challenges",
+		"try_premium_for_free": "Probiere Premium kostenlos aus",
+		"take_small_steps": "Mach kleine Schritte",
+		"unlock_premium": "Premium freischalten",
+		"we_recommend_the_track": "Aus unserer umfangreichen Challenge-Sammlung empfehlen wir dir den Track <b>{{track}}</b>, um dir den Einstieg zu erleichtern"
 	},
 	"page_titles": {
 		"add_drink": "Getränk hinzufügen",
@@ -524,6 +528,7 @@
 		"do_you_want_to_remove_this_food_item": "Möchtest du dieses Lebensmittel entfernen?"
 	},
 	"reason": {
+		"dont_ask_again": "Frag mich nicht noch einmal nach dem Grund",
 		"prompts": {
 			"made_you_feel": "Was hat dir Appetit gemacht?",
 			"mood_for_bite": "Was hat dich zu einem Snack veranlasst ?",
@@ -689,7 +694,8 @@
 		},
 		"languages": {
 			"de": "Deutsch",
-			"en": "Englisch"
+			"en": "Englisch",
+			"fr": "Französisch"
 		},
 		"menu": {
 			"diary_setup": {
@@ -953,7 +959,8 @@
 		"tap_to_start_logging_a_meal": "Tippen, um eine Mahlzeit einzutragen",
 		"try_it": "Probiere es aus!",
 		"use_hold_off_timer": "Nutze dies, wenn du den Drang zu essen spürst, aber nicht hungrig bist.\nNimm dir einen Moment Zeit und schau, ob das Verlangen nachlässt.",
-		"use_the_check-in_button": "Drücke den Check-in Knopf, um deinen Hungergrad im Laufe des Tages zu verfolgen"
+		"use_the_check-in_button": "Drücke den Check-in Knopf, um deinen Hungergrad im Laufe des Tages zu verfolgen",
+		"you_can_change_or_disable_reasons": "Du kannst diese Gründe unter Mehr → Tagebuch anpassen ändern oder deaktivieren"
 	},
 	"tracks": {
 		"basic": {
