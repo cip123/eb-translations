@@ -450,8 +450,16 @@
 		"choose_challenges_that_help": "Choisissez des défis qui vous permettent de vous entraîner sur ce qui est difficile.",
 		"continue": "Continuer",
 		"great_to_see_you": "Content de vous voir!",
+		"how_it_works": "Comment ça marche",
 		"how_to_be_called": "Comment souhaitez-vous être appelé(e)?",
-		"lets_do_it": "Allons-y "
+		"lets_do_it": "Allons-y ",
+		"meals_hunger_fullness_etc": "Repas, faim, satiété, humeur, boissons, sommeil ou entraînements.",
+		"premium_challenges": "Défis Premium",
+		"quiet_the_food_noise": "Apaisez le bruit autour de la nourriture",
+		"track_what_matters_to_you": "Suivez ce qui compte pour vous",
+		"spot_patterns": "Identifiez les patterns entre alimentation, humeur et habitudes quotidiennes.",
+		"start": "Commencer",
+		"start_without_challenges": "Commencez sans défis"
 	},
 	"page_titles": {
 		"add_drink": "Ajouter une boisson",
