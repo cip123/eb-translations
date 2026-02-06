@@ -621,11 +621,11 @@
 		"prompts": {
 			"enable_checkin_notifications": {
 				"title": "Faites le point avec vous-même chaque jour?",
-				"subtitle": "Recevez jusqu'à trois rappels pour faire une pause et vous reconnecter à votre corps."
+				"subtitle": "Vous recevrez trois rappels par jour (matin, après-midi et soir)"
 			},
 			"enable_post_meal_notifications": {
 				"title": "Comment avez-vous ressenti vos repas ?",
-				"subtitle": "Nous vous rappellerons après les repas d’indiquer votre sensation de satiété, votre satisfaction ou votre niveau de présence."
+				"subtitle": "Nous vous enverrons un rappel 30 minutes après le repas"
 			}
 		},
 		"require_notifications_enabled": "Les rappels nécessitent l'activation des notifications",

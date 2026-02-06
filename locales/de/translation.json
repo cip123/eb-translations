@@ -621,11 +621,11 @@
 		"prompts": {
 			"enable_checkin_notifications": {
 				"title": "Solltest du dich täglich selbst überprüfen?",
-				"subtitle": "Erhalte bis zu drei Erinnerungen, um innezuhalten und in deinen Körper hineinzuspüren."
+				"subtitle": "Du erhältst drei Erinnerungen pro Tag (morgens, nachmittags und abends)"
 			},
 			"enable_post_meal_notifications": {
 				"title": "Wie haben sich die Mahlzeiten angefühlt?",
-				"subtitle": "Wir erinnern dich nach den Mahlzeiten daran, Sättigung, Zufriedenheit oder Achtsamkeit festzuhalten."
+				"subtitle": "Wir senden dir 30 Minuten nach dem Essen eine Erinnerung"
 			}
 		},
 		"require_notifications_enabled": "Für Erinnerungen müssen Benachrichtigungen aktiviert sein",
